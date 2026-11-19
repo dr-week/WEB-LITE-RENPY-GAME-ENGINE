@@ -1,0 +1,370 @@
+[
+  {
+    "id": "and_so_it_begins",
+    "title": "And So It Begins",
+    "artist": "Artificial.Music",
+    "audio_file": "audio/music/lofi/and_so_it_begins.mp3",
+    "bpm": 70,
+    "key": "C Minor",
+    "mood": "Deep Lofi / Slow / Emotional",
+    "energy": 0.35,
+    "cue_points": {
+      "intro": 0.0,
+      "beat_drop": 13.7,
+      "bridge": 54.8,
+      "outro": 120.0
+    },
+    "tags": [
+      "lofi",
+      "slow",
+      "vibe",
+      "deep"
+    ],
+    "license": "Creative Commons Attribution (CC BY 4.0)"
+  },
+  {
+    "id": "bedtime_after_a_coffee",
+    "title": "Bedtime After A Coffee",
+    "artist": "Barradeen",
+    "audio_file": "audio/music/lofi/bedtime_after_a_coffee.mp3",
+    "bpm": 72,
+    "key": "G Minor",
+    "mood": "Late Night / Introspective / Coffee",
+    "energy": 0.3,
+    "cue_points": {
+      "intro": 0.0,
+      "beat_drop": 13.3,
+      "bridge": 40.0,
+      "outro": 95.0
+    },
+    "tags": [
+      "lofi",
+      "rain",
+      "cozy",
+      "bedroom"
+    ],
+    "license": "Creative Commons Attribution (CC BY 4.0)"
+  },
+  {
+    "id": "when_i_was_a_boy",
+    "title": "When I Was A Boy",
+    "artist": "Tokyo Music Walker",
+    "audio_file": "audio/music/lofi/when_i_was_a_boy.mp3",
+    "bpm": 74,
+    "key": "B Minor",
+    "mood": "Nostalgic / Melancholic / Reflection",
+    "energy": 0.4,
+    "cue_points": {
+      "intro": 0.0,
+      "beat_drop": 12.9,
+      "bridge": 52.0,
+      "outro": 115.0
+    },
+    "tags": [
+      "lofi",
+      "memory",
+      "piano",
+      "emotional"
+    ],
+    "license": "Creative Commons Attribution (CC BY 4.0)"
+  },
+  {
+    "id": "morning_routine",
+    "title": "Morning Routine [Lofi Study Music]",
+    "artist": "Ghostrifter Official",
+    "audio_file": "audio/music/lofi/morning_routine.mp3",
+    "bpm": 75,
+    "key": "F Major",
+    "mood": "Gentle / Sunny / Morning",
+    "energy": 0.35,
+    "cue_points": {
+      "intro": 0.0,
+      "beat_drop": 12.8,
+      "bridge": 38.4,
+      "outro": 80.0
+    },
+    "tags": [
+      "lofi",
+      "study",
+      "cozy",
+      "acoustic"
+    ],
+    "license": "Creative Commons Attribution (CC BY 4.0)"
+  },
+  {
+    "id": "vibin",
+    "title": "Vibin'",
+    "artist": "Purrple Cat",
+    "audio_file": "audio/music/lofi/vibin.mp3",
+    "bpm": 75,
+    "key": "C Major",
+    "mood": "Carefree / Cozy / Playful",
+    "energy": 0.45,
+    "cue_points": {
+      "intro": 0.0,
+      "beat_drop": 12.8,
+      "bridge": 38.4,
+      "outro": 75.0
+    },
+    "tags": [
+      "lofi",
+      "purrplecat",
+      "chill",
+      "cafe"
+    ],
+    "license": "Creative Commons Attribution (CC BY-SA 4.0)"
+  },
+  {
+    "id": "little_wishes",
+    "title": "Little Wishes",
+    "artist": "Tokyo Music Walker",
+    "audio_file": "audio/music/lofi/little_wishes.mp3",
+    "bpm": 76,
+    "key": "A Major",
+    "mood": "Hopeful / Warm / Nostalgic",
+    "energy": 0.45,
+    "cue_points": {
+      "intro": 0.0,
+      "beat_drop": 12.6,
+      "bridge": 50.5,
+      "outro": 110.0
+    },
+    "tags": [
+      "lofi",
+      "piano",
+      "tokyo",
+      "melodic"
+    ],
+    "license": "Creative Commons Attribution (CC BY 4.0)"
+  },
+  {
+    "id": "on_my_way",
+    "title": "On My Way [Lofi Study Music]",
+    "artist": "Ghostrifter Official",
+    "audio_file": "audio/music/lofi/on_my_way.mp3",
+    "bpm": 76,
+    "key": "Bb Major",
+    "mood": "Travel / Adventure / Gentle Walk",
+    "energy": 0.48,
+    "cue_points": {
+      "intro": 0.0,
+      "beat_drop": 12.6,
+      "bridge": 37.9,
+      "outro": 88.0
+    },
+    "tags": [
+      "lofi",
+      "study",
+      "travel",
+      "chill"
+    ],
+    "license": "Creative Commons Attribution (CC BY 4.0)"
+  },
+  {
+    "id": "midnight_stroll",
+    "title": "Midnight Stroll [Lofi Study Music]",
+    "artist": "Ghostrifter Official",
+    "audio_file": "audio/music/lofi/midnight_stroll.mp3",
+    "bpm": 76,
+    "key": "Db Major",
+    "mood": "Night Walk / Streetlamps / Relaxing",
+    "energy": 0.42,
+    "cue_points": {
+      "intro": 0.0,
+      "beat_drop": 12.6,
+      "bridge": 37.9,
+      "outro": 90.0
+    },
+    "tags": [
+      "lofi",
+      "night",
+      "chill",
+      "relax"
+    ],
+    "license": "Creative Commons Attribution (CC BY 4.0)"
+  },
+  {
+    "id": "colorful_flowers",
+    "title": "Colorful Flowers",
+    "artist": "Tokyo Music Walker",
+    "audio_file": "audio/music/lofi/colorful_flowers.mp3",
+    "bpm": 78,
+    "key": "E Major",
+    "mood": "Vibrant / Peaceful / Afternoon",
+    "energy": 0.5,
+    "cue_points": {
+      "intro": 0.0,
+      "beat_drop": 12.3,
+      "bridge": 49.2,
+      "outro": 120.0
+    },
+    "tags": [
+      "lofi",
+      "chillhop",
+      "spring",
+      "relax"
+    ],
+    "license": "Creative Commons Attribution (CC BY 4.0)"
+  },
+  {
+    "id": "memories_of_spring",
+    "title": "Memories Of Spring",
+    "artist": "Tokyo Music Walker",
+    "audio_file": "audio/music/lofi/memories_of_spring.mp3",
+    "bpm": 78,
+    "key": "Ab Major",
+    "mood": "Gentle Breeze / Cherry Blossom / Nostalgic",
+    "energy": 0.46,
+    "cue_points": {
+      "intro": 0.0,
+      "beat_drop": 12.3,
+      "bridge": 49.2,
+      "outro": 115.0
+    },
+    "tags": [
+      "lofi",
+      "spring",
+      "piano",
+      "warm"
+    ],
+    "license": "Creative Commons Attribution (CC BY 4.0)"
+  },
+  {
+    "id": "morning_station",
+    "title": "Morning Station",
+    "artist": "Tokyo Music Walker",
+    "audio_file": "audio/music/lofi/morning_station.mp3",
+    "bpm": 78,
+    "key": "G Major",
+    "mood": "Station Platform / Commute / Morning Glow",
+    "energy": 0.52,
+    "cue_points": {
+      "intro": 0.0,
+      "beat_drop": 12.3,
+      "bridge": 49.2,
+      "outro": 110.0
+    },
+    "tags": [
+      "lofi",
+      "train",
+      "morning",
+      "guitar"
+    ],
+    "license": "Creative Commons Attribution (CC BY 4.0)"
+  },
+  {
+    "id": "way_home",
+    "title": "Way Home",
+    "artist": "Tokyo Music Walker",
+    "audio_file": "audio/music/lofi/way_home.mp3",
+    "bpm": 80,
+    "key": "Eb Major",
+    "mood": "Walking Home / Golden Hour / Peaceful",
+    "energy": 0.48,
+    "cue_points": {
+      "intro": 0.0,
+      "beat_drop": 12.0,
+      "bridge": 48.0,
+      "outro": 120.0
+    },
+    "tags": [
+      "lofi",
+      "evening",
+      "walk",
+      "peaceful"
+    ],
+    "license": "Creative Commons Attribution (CC BY 4.0)"
+  },
+  {
+    "id": "tranquil_transit",
+    "title": "Tranquil Transit",
+    "artist": "Pumpupthemind",
+    "audio_file": "audio/music/lofi/tranquil_transit.mp3",
+    "bpm": 80,
+    "key": "C Minor",
+    "mood": "Mellow / Commute / Night Walk",
+    "energy": 0.4,
+    "cue_points": {
+      "intro": 0.0,
+      "beat_drop": 12.0,
+      "bridge": 48.0,
+      "outro": 105.0
+    },
+    "tags": [
+      "lofi",
+      "chillhop",
+      "night",
+      "train"
+    ],
+    "license": "Creative Commons Attribution (CC BY 4.0)"
+  },
+  {
+    "id": "new_beginnings",
+    "title": "New Beginnings",
+    "artist": "Tokyo Music Walker",
+    "audio_file": "audio/music/lofi/new_beginnings.mp3",
+    "bpm": 80,
+    "key": "F Major",
+    "mood": "Fresh / Morning Coffee / Moving Forward",
+    "energy": 0.5,
+    "cue_points": {
+      "intro": 0.0,
+      "beat_drop": 12.0,
+      "bridge": 48.0,
+      "outro": 95.0
+    },
+    "tags": [
+      "lofi",
+      "acoustic",
+      "tokyo",
+      "uplifting"
+    ],
+    "license": "Creative Commons Attribution (CC BY 4.0)"
+  },
+  {
+    "id": "sunset_drive",
+    "title": "Sunset Drive",
+    "artist": "Tokyo Music Walker",
+    "audio_file": "audio/music/lofi/sunset_drive.mp3",
+    "bpm": 82,
+    "key": "D Major",
+    "mood": "Sunset / Cruising / Aesthetic",
+    "energy": 0.55,
+    "cue_points": {
+      "intro": 0.0,
+      "beat_drop": 11.7,
+      "bridge": 46.8,
+      "outro": 118.0
+    },
+    "tags": [
+      "lofi",
+      "synth",
+      "drive",
+      "evening"
+    ],
+    "license": "Creative Commons Attribution (CC BY 4.0)"
+  },
+  {
+    "id": "downtown_glow",
+    "title": "Downtown Glow",
+    "artist": "Ghostrifter Official & Devyzed",
+    "audio_file": "audio/music/lofi/downtown_glow.mp3",
+    "bpm": 85,
+    "key": "G Major",
+    "mood": "Urban / City Lights / Neon Glow",
+    "energy": 0.6,
+    "cue_points": {
+      "intro": 0.0,
+      "beat_drop": 11.3,
+      "bridge": 45.2,
+      "outro": 130.0
+    },
+    "tags": [
+      "lofi",
+      "urban",
+      "nightlife",
+      "chillhop"
+    ],
+    "license": "Creative Commons Attribution (CC BY 4.0)"
+  }
+]

@@ -1,0 +1,10 @@
+# Developer tools - not runtime dependencies
+developer-tools/
+
+# Ren'Py cache
+tl/
+*.rpyc
+
+# Generated files
+saves/
+cache/

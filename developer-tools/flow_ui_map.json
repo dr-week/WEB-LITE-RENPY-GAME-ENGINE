@@ -1,0 +1,35 @@
+{
+  "project_name": "lolagame",
+  "project_url": "https://flow.google.com/project/eed06c76-5b4a-408e-93c1-85b45c395227",
+  "batch_limit": 5,
+  "aspect_ratio": "16:9",
+  "model": "Nano Banana 2.1",
+  "default_references": [
+    "images/character_reference/Girl_character_turnaround_poses_93981cd0.jpg",
+    "images/character_reference/Girl_posing_in_blue_outfit_a7a032c2.jpg",
+    "images/college/Maya_arriving_at_campus_gates_dab236ed.jpg",
+    "images/home_lodging/Maya_leaning_in_kitchen_ce97c08a.jpg"
+  ],
+  "ui_layout": {
+    "status": "mapped_from_screenshot",
+    "left_sidebar": {
+      "all_media": "All media",
+      "images": "Images",
+      "characters": "Characters",
+      "uploads": "Uploads",
+      "new_collection_btn": "Library + button"
+    },
+    "right_agent_panel": {
+      "prompt_input_placeholder": "What do you want to create?",
+      "attach_reference_btn": "Bottom-left '+' icon inside prompt card",
+      "asset_picker_search": "Search assets input at top of picker modal",
+      "asset_picker_confirm": "White 'Add to prompt' button at bottom-right of picker modal",
+      "settings_btn": "Sliders icon inside prompt card (16:9, 1x/2x, Nano Banana 2.1)",
+      "submit_btn": "Bottom-right '->' arrow button inside prompt card"
+    },
+    "post_generation": {
+      "action": "Multi-select newly generated images in center grid -> Download or Add to Library collection",
+      "session_tracker": "python developer-tools/flow_session.py --generated N --downloaded N"
+    }
+  }
+}

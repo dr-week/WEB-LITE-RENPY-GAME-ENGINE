@@ -1,0 +1,110 @@
+LOLA Project Tree Baseline - 2026-11-13
+==========================================
+
+Project Root: C:\amd\aa\ASD\daa\GAME\LALALAND\LOLA\LOLA
+Ren'Py Game Directory: game/
+
+FULL TREE (excluding cache/build):
+-----------------------------------
+
+./
+├── .gitignore
+├── errors.txt
+├── log.txt
+├── legacy_archive/
+│   └── modular/
+│       ├── characters/main_character.rpy
+│       ├── locations/cafe.rpy
+│       ├── locations/club.rpy
+│       ├── locations/home.rpy
+│       ├── locations/jungle.rpy
+│       ├── locations/school.rpy
+│       ├── outfits/outfit_system.rpy
+│       ├── random/random_name_generator.rpy
+│       ├── relationships/love_scenes.rpy
+│       ├── relationships/relationship_system.rpy
+│       ├── story/chapter1.rpy
+│       ├── story/daily_loop.rpy
+│       ├── story/endings.rpy
+│       └── story/love_events.rpy
+├── game/
+│   ├── script.rpy
+│   ├── options.rpy
+│   ├── gui.rpy
+│   ├── screens.rpy
+│   ├── characters/
+│   │   ├── protagonist.rpy
+│   │   ├── recurring_cast.rpy
+│   │   ├── generated_encounters.rpy
+│   │   └── characters_legacy_backup.rpy
+│   ├── story/
+│   │   ├── chapter1.rpy
+│   │   ├── chapter2.rpy
+│   │   ├── chapter3.rpy
+│   │   ├── chapter4_endings.rpy
+│   │   └── prologue/
+│   │       ├── day_01_home.rpy
+│   │       ├── day_01_college.rpy
+│   │       └── day_01_work_search.rpy
+│   ├── systems/
+│   │   ├── state.rpy
+│   │   ├── character_registry.rpy
+│   │   ├── relationship_manager.rpy
+│   │   ├── encounter_manager.rpy
+│   │   ├── location_manager.rpy
+│   │   ├── economy_manager.rpy
+│   │   ├── time_manager.rpy
+│   │   ├── college_manager.rpy
+│   │   ├── employment_manager.rpy
+│   │   └── event_manager.rpy
+│   ├── locations/
+│   │   ├── home/location_home.rpy
+│   │   ├── college/location_college.rpy
+│   │   ├── transport/location_transport.rpy
+│   │   ├── work/location_work.rpy
+│   │   └── public/location_public.rpy
+│   ├── screens/
+│   │   ├── navigation.rpy
+│   │   ├── status.rpy
+│   │   ├── character_info.rpy
+│   │   └── custom_choices.rpy
+│   ├── world_map/
+│   │   └── world_map.rpy
+│   ├── developer-tools/
+│   │   └── pixel-anime-converter/
+│   │       └── renpy-integration/
+│   │           ├── example_usage.rpy
+│   │           ├── main.rpy
+│   │           └── world_map.rpy
+│   ├── gui/
+│   ├── assets/
+│   ├── audio/
+│   ├── images/
+│   ├── saves/
+│   ├── tl/
+│   ├── cache/
+│   ├── backgrounds/
+│   ├── sprites/
+│   ├── libs/
+│   └── routes/
+└── documentation/
+    └── audits/
+        └── baseline_tree.txt
+
+COUNTS:
+--------
+.rpy files in game/: 35
+.rpy files in legacy_archive/modular/: 14
+.rpy files in developer-tools/: 3
+Total .rpy files: 52
+
+LEGACY ARCHIVE VERIFICATION:
+-----------------------------
+legacy_archive/ IS at project root: YES
+legacy_archive/modular/ inside game/: NO (correct)
+
+REN'PY AUTO-LOAD RULES:
+------------------------
+Ren'Py auto-discovers ALL .rpy and .rpyc files in game/ and subdirectories.
+Files in legacy_archive/ are NOT auto-loaded (correct).
+Developer-tools/ within game/ WILL be auto-loaded unless excluded.

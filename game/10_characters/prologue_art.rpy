@@ -1,0 +1,15 @@
+# Dedicated prologue scene aliases backed by newly imported high-quality art.
+
+image bg_prol_rooftop = fit_scene_art("images/food_drink/Woman_drinking_espresso_on_rooftop_31a4ddb9.jpg")
+image bg_prol_cafe = fit_scene_art("images/food_drink/Woman_counting_tips_in_cafe_7302d0c9.jpg")
+image bg_prol_bus = fit_scene_art("images/transport/Maya_waiting_at_bus_stop_646f0728.jpg")
+image bg_prol_campus = fit_scene_art("images/college/Maya_walking_at_campus_fair_d1a8600b.jpg")
+image bg_prol_subway = fit_scene_art("images/transport/Woman_sitting_at_subway_turnstile_7e428f86.jpg")
+image bg_prol_library = fit_scene_art("images/hobbies_outdoors/Maya_leaning_in_library_study_35d9c767.jpg")
+image bg_prol_mart = fit_scene_art("images/shops_markets/Young_woman_winking_at_mart_28209fe5.jpg")
+image bg_prol_park = fit_scene_art("images/hobbies_outdoors/Woman_sitting_on_park_bench_e7ba32fa.jpg")
+image bg_prol_laundromat = fit_scene_art("images/shops_markets/Maya_walking_in_laundromat_e3ed25d8.jpg")
+image bg_prol_balcony = fit_scene_art("images/home_lodging/Woman_watching_street_from_balcony_59316112.jpg")
+image bg_prol_dive_bar = fit_scene_art("images/social_events/Woman_lounging_in_dive_bar_5e31d733.jpg")
+image bg_prol_rooftop_skip = fit_scene_art("images/hobbies_outdoors/Young_woman_skipping_class_rooftop_0e320c03.jpg")
+image bg_prol_counter = fit_scene_art("images/general_scenes/Woman_pocketing_keycard_at_counter_b35ae056.jpg")

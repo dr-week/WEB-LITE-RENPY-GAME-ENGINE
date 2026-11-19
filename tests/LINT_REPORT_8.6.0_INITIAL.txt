@@ -1,0 +1,22 @@
+﻿=== RENPY 8.6.0 INITIAL LINT REPORT ===
+Date: 2026-11-13
+Project: C:\amd\aa\ASD\daa\GAME\LALALAND\LOLA\LOLA
+SDK: C:\RenPy\renpy-8.6.0\renpy-8.6.0-sdk
+Exit Code: 1
+
+--- STDOUT ---
+
+File "game/00_systems/college_manager.rpy", line 10: invalid syntax
+    default college_course = "General Studies"
+                ^^^^^^^^^^^^^^
+
+File "game/30_screens/navigation.rpy", line 30: The text statement is not a valid child of the imagebutton statement.
+    text get_location_name(loc_id) style "map_button_text"
+        ^
+
+--- STDERR ---
+Traceback (most recent call last):
+  File "C:/RenPy/renpy-8.6.0/renpy-8.6.0-sdk/renpy/script.py", line 887, in load_file
+    with open(rpycfn, "wb") as f:
+         ^^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: 'C:/amd/aa/ASD/daa/GAME/LALALAND/LOLA/LOLA/game/tl/None/common.rpymc'

@@ -1,0 +1,186 @@
+
+Full traceback:
+  File "game/40_story/prologue/day_01_college.rpy", line 38, in script
+    play sound SFX_SWOOSH
+  File "renpy/ast.py", line 2311, in execute
+    self.call("execute")
+    ~~~~~~~~~^^^^^^^^^^^
+  File "renpy/ast.py", line 2265, in call
+    return renpy.statements.call(method, parsed, *args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/statements.py", line 381, in call
+    return method(parsed, *args, **kwargs)
+           ~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/common/000statements.rpy", line 321, in execute_play_sound
+    _audio_eval(p["file"]),
+    ~~~~~~~~~~~^^^^^^^^^^^ 
+  File "renpy/common/000statements.rpy", line 39, in _audio_eval
+    return eval(expr, locals=store.audio.__dict__)
+           ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/python.py", line 1294, in py_eval
+    return py_eval_bytecode(code, globals, locals)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/python.py", line 1287, in py_eval_bytecode
+    return eval(bytecode, globals, locals)
+           ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "game/40_story/prologue/day_01_college.rpy", line 38, in <module>
+    play sound SFX_SWOOSH
+               ^^^^^^^^^^
+NameError: name 'SFX_SWOOSH' is not defined
+
+While running game code:
+  File "game/40_story/prologue/day_01_college.rpy", line 38, in script
+    play sound SFX_SWOOSH
+  File "game/40_story/prologue/day_01_college.rpy", line 38, in <module>
+    play sound SFX_SWOOSH
+               ^^^^^^^^^^
+NameError: name 'SFX_SWOOSH' is not defined
+Resetting cache.
+
+Full traceback:
+  File "game/40_story/prologue/day_01_college.rpy", line 38, in script
+    play sound SFX_SWOOSH
+  File "renpy/ast.py", line 2311, in execute
+    self.call("execute")
+    ~~~~~~~~~^^^^^^^^^^^
+  File "renpy/ast.py", line 2265, in call
+    return renpy.statements.call(method, parsed, *args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/statements.py", line 381, in call
+    return method(parsed, *args, **kwargs)
+           ~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/common/000statements.rpy", line 321, in execute_play_sound
+    _audio_eval(p["file"]),
+    ~~~~~~~~~~~^^^^^^^^^^^ 
+  File "renpy/common/000statements.rpy", line 39, in _audio_eval
+    return eval(expr, locals=store.audio.__dict__)
+           ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/python.py", line 1294, in py_eval
+    return py_eval_bytecode(code, globals, locals)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/python.py", line 1287, in py_eval_bytecode
+    return eval(bytecode, globals, locals)
+           ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "game/40_story/prologue/day_01_college.rpy", line 38, in <module>
+    play sound SFX_SWOOSH
+               ^^^^^^^^^^
+NameError: name 'SFX_SWOOSH' is not defined
+
+While running game code:
+  File "game/40_story/prologue/day_01_college.rpy", line 38, in script
+    play sound SFX_SWOOSH
+  File "game/40_story/prologue/day_01_college.rpy", line 38, in <module>
+    play sound SFX_SWOOSH
+               ^^^^^^^^^^
+NameError: name 'SFX_SWOOSH' is not defined
+
+Full traceback:
+  File "game/40_story/prologue/day_01_college.rpy", line 84, in script
+    play sound SFX_WOOSH
+  File "renpy/ast.py", line 2311, in execute
+    self.call("execute")
+    ~~~~~~~~~^^^^^^^^^^^
+  File "renpy/ast.py", line 2265, in call
+    return renpy.statements.call(method, parsed, *args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/statements.py", line 381, in call
+    return method(parsed, *args, **kwargs)
+           ~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/common/000statements.rpy", line 321, in execute_play_sound
+    _audio_eval(p["file"]),
+    ~~~~~~~~~~~^^^^^^^^^^^ 
+  File "renpy/common/000statements.rpy", line 39, in _audio_eval
+    return eval(expr, locals=store.audio.__dict__)
+           ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/python.py", line 1294, in py_eval
+    return py_eval_bytecode(code, globals, locals)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/python.py", line 1287, in py_eval_bytecode
+    return eval(bytecode, globals, locals)
+           ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "game/40_story/prologue/day_01_college.rpy", line 84, in <module>
+    play sound SFX_WOOSH
+               ^^^^^^^^^
+NameError: name 'SFX_WOOSH' is not defined
+
+While running game code:
+  File "game/40_story/prologue/day_01_college.rpy", line 84, in script
+    play sound SFX_WOOSH
+  File "game/40_story/prologue/day_01_college.rpy", line 84, in <module>
+    play sound SFX_WOOSH
+               ^^^^^^^^^
+NameError: name 'SFX_WOOSH' is not defined
+
+Full traceback:
+  File "game/40_story/prologue/day_01_class.rpy", line 15, in script
+    play sound SFX_SWOOSH
+  File "renpy/ast.py", line 2311, in execute
+    self.call("execute")
+    ~~~~~~~~~^^^^^^^^^^^
+  File "renpy/ast.py", line 2265, in call
+    return renpy.statements.call(method, parsed, *args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/statements.py", line 381, in call
+    return method(parsed, *args, **kwargs)
+           ~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/common/000statements.rpy", line 321, in execute_play_sound
+    _audio_eval(p["file"]),
+    ~~~~~~~~~~~^^^^^^^^^^^ 
+  File "renpy/common/000statements.rpy", line 39, in _audio_eval
+    return eval(expr, locals=store.audio.__dict__)
+           ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/python.py", line 1294, in py_eval
+    return py_eval_bytecode(code, globals, locals)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/python.py", line 1287, in py_eval_bytecode
+    return eval(bytecode, globals, locals)
+           ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "game/40_story/prologue/day_01_class.rpy", line 15, in <module>
+    play sound SFX_SWOOSH
+               ^^^^^^^^^^
+NameError: name 'SFX_SWOOSH' is not defined
+
+While running game code:
+  File "game/40_story/prologue/day_01_class.rpy", line 15, in script
+    play sound SFX_SWOOSH
+  File "game/40_story/prologue/day_01_class.rpy", line 15, in <module>
+    play sound SFX_SWOOSH
+               ^^^^^^^^^^
+NameError: name 'SFX_SWOOSH' is not defined
+
+Full traceback:
+  File "game/40_story/prologue/day_01_class.rpy", line 43, in script
+    play sound SFX_SWOOSH
+  File "renpy/ast.py", line 2311, in execute
+    self.call("execute")
+    ~~~~~~~~~^^^^^^^^^^^
+  File "renpy/ast.py", line 2265, in call
+    return renpy.statements.call(method, parsed, *args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/statements.py", line 381, in call
+    return method(parsed, *args, **kwargs)
+           ~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/common/000statements.rpy", line 321, in execute_play_sound
+    _audio_eval(p["file"]),
+    ~~~~~~~~~~~^^^^^^^^^^^ 
+  File "renpy/common/000statements.rpy", line 39, in _audio_eval
+    return eval(expr, locals=store.audio.__dict__)
+           ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/python.py", line 1294, in py_eval
+    return py_eval_bytecode(code, globals, locals)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/python.py", line 1287, in py_eval_bytecode
+    return eval(bytecode, globals, locals)
+           ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "game/40_story/prologue/day_01_class.rpy", line 43, in <module>
+    play sound SFX_SWOOSH
+               ^^^^^^^^^^
+NameError: name 'SFX_SWOOSH' is not defined
+
+While running game code:
+  File "game/40_story/prologue/day_01_class.rpy", line 43, in script
+    play sound SFX_SWOOSH
+  File "game/40_story/prologue/day_01_class.rpy", line 43, in <module>
+    play sound SFX_SWOOSH
+               ^^^^^^^^^^
+NameError: name 'SFX_SWOOSH' is not defined

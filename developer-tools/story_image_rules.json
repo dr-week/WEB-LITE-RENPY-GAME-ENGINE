@@ -1,0 +1,90 @@
+[
+  {
+    "title": "Failed alarm",
+    "time": "Day 1 morning",
+    "dialogue_pattern": "alarm did(?:n't| not) go off",
+    "image_alias": "bg_home",
+    "filename_keywords": ["alarm_failing_to_wake", "alarm_failing", "alarm"],
+    "target_label": "day_01_home",
+    "target_dialogue": "Her alarm didn't go off",
+    "category": "home_lodging",
+    "prompt": "A close-up of Maya's alarm clock or phone alarm failing to wake her in her small apartment."
+  },
+  {
+    "title": "Checking the time at home",
+    "time": "Day 1 morning",
+    "dialogue_pattern": "checked her phone",
+    "image_alias": "bg_home",
+    "filename_keywords": ["checking_phone_at_home", "phone_at_home"],
+    "target_label": "day_01_home",
+    "target_dialogue": "She checked her phone",
+    "category": "home_lodging",
+    "prompt": "Maya checking 7:45 AM on her phone at home, worried about being late; apartment interior."
+  },
+  {
+    "title": "Money pressure",
+    "time": "Day 1 morning",
+    "dialogue_pattern": "bank balance|bus fare, barely",
+    "image_alias": "bg_home",
+    "filename_keywords": ["checking_bank_balance", "bank_balance_on_phone", "phone_bank_balance"],
+    "target_label": "day_01_home",
+    "target_dialogue": "Her bank balance:",
+    "category": "home_lodging",
+    "prompt": "A close-up of Maya checking a low bank balance on her phone before paying for the bus."
+  },
+  {
+    "title": "College arrival",
+    "time": "Day 1 morning",
+    "dialogue_pattern": "arrived at the campus|building was huge",
+    "image_alias": "bg_college_entrance",
+    "filename_keywords": ["arriving_at_college_entrance", "maya_arriving_at_college", "college_entrance"],
+    "target_label": "arrive_college",
+    "target_dialogue": "The building was huge",
+    "category": "college",
+    "prompt": "Wide 16:9 visual-novel background of a large college entrance in daylight, campus doors and signs, Maya arriving with a backpack."
+  },
+  {
+    "title": "Classmate greeting",
+    "time": "Day 1 morning",
+    "dialogue_pattern": "girl waved at her from a desk|smiled",
+    "image_alias": "bg_classroom",
+    "filename_keywords": ["classmate_waving_at_desk", "classmate_waving", "waving_at_empty_desk"],
+    "target_label": "find_classroom",
+    "target_dialogue": "A girl waved at her from a desk",
+    "category": "college",
+    "prompt": "Classroom CG of a friendly female classmate waving Maya over to an empty desk; warm, welcoming first meeting."
+  },
+  {
+    "title": "Lecture in progress",
+    "time": "Day 1 morning",
+    "dialogue_pattern": "professor began the lecture|took notes, trying to focus",
+    "image_alias": "bg_classroom",
+    "filename_keywords": ["professor_teaching_college_lecture", "professor_teaching", "college_lecture"],
+    "target_label": "class_session",
+    "target_dialogue": "The professor began the lecture",
+    "category": "college",
+    "prompt": "College lecture CG with a professor teaching at the front while Maya takes notes among students."
+  },
+  {
+    "title": "Studying in the library",
+    "time": "Day 1 afternoon",
+    "dialogue_pattern": "library was quiet|opened her textbook",
+    "image_alias": "bg_library",
+    "filename_keywords": ["library_study", "studying_in_library", "reading_textbook"],
+    "target_label": "travel_to_library",
+    "target_dialogue": "She found a seat and opened her textbook",
+    "category": "hobbies_outdoors",
+    "prompt": "Quiet college library study scene: Maya seated at a table reading an open textbook, calm afternoon light."
+  },
+  {
+    "title": "Cafe job interview and shift",
+    "time": "Day 1 afternoon",
+    "dialogue_pattern": "approached the counter|manager looked up|first shift at the cafe|shift over",
+    "image_alias": "bg_cafe",
+    "filename_keywords": ["job_interview_at_cafe_counter", "barista_job", "interviewing_for_barista_job"],
+    "target_label": "cafe_job_interview",
+    "target_dialogue": "The manager looked up",
+    "category": "food_drink",
+    "prompt": "Cafe counter scene of Maya meeting the manager during a barista job interview, with espresso machine and warm cafe lighting."
+  }
+]

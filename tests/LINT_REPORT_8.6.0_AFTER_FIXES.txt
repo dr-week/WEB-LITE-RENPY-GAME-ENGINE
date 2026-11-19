@@ -1,0 +1,128 @@
+﻿Ren'Py 8.6.0.26110915 lint report, generated at: Sat Nov 14 01:06:01 2026
+
+game/20_locations/college/location_college.rpy:6 'bg_college' is not an image.
+
+game/20_locations/college/location_college.rpy:44 'bg_library' is not an image.
+
+game/20_locations/public/location_public.rpy:6 'bg_park' is not an image.
+
+game/20_locations/public/location_public.rpy:47 'bg_street' is not an image.
+
+game/20_locations/transport/location_transport.rpy:6 'bg_bus_stop' is not an image.
+
+game/20_locations/transport/location_transport.rpy:29 'bg_college_entrance' is not an image.
+
+game/20_locations/work/location_work.rpy:6 'bg_cafe' is not an image.
+
+game/40_story/prologue/day_01_college.rpy:6 'bg_bus_stop' is not an image.
+
+game/40_story/prologue/day_01_college.rpy:27 'bg_college_entrance' is not an image.
+
+game/40_story/prologue/day_01_college.rpy:30 'audio/music/daily.ogg' is not loadable
+
+game/40_story/prologue/day_01_college.rpy:54 'bg_classroom' is not an image.
+
+game/40_story/prologue/day_01_college.rpy:89 'bg_classroom' is not an image.
+
+game/40_story/prologue/day_01_college.rpy:115 The jump is to nonexistent label 'after_class'.
+
+game/40_story/prologue/day_01_college.rpy:130 'bg_library' is not an image.
+
+game/40_story/prologue/day_01_college.rpy:149 The jump is to nonexistent label 'after_class'.
+
+game/40_story/prologue/day_01_home.rpy:13 'bg_home' is not an image.
+
+game/40_story/prologue/day_01_home.rpy:16 'audio/music/intro.ogg' is not loadable
+
+game/40_story/prologue/day_01_work_search.rpy:6 'bg_cafe' is not an image.
+
+game/40_story/prologue/day_01_work_search.rpy:61 'bg_cafe' is not an image.
+
+game/40_story/prologue/day_01_work_search.rpy:88 'bg_home' is not an image.
+
+game/40_story/prologue/day_01_work_search.rpy:114 The jump is to nonexistent label 'day_02_home'.
+
+game/50_world_map/world_map.rpy:198 'bg_school' is not an image.
+
+game/50_world_map/world_map.rpy:201 'audio/music/daily.ogg' is not loadable
+
+game/50_world_map/world_map.rpy:297 'bg_cafe' is not an image.
+
+game/50_world_map/world_map.rpy:300 'audio/music/daily.ogg' is not loadable
+
+game/50_world_map/world_map.rpy:327 'bg_club' is not an image.
+
+game/50_world_map/world_map.rpy:333 'audio/music/club.ogg' is not loadable
+
+game/50_world_map/world_map.rpy:361 'bg_jungle' is not an image.
+
+game/50_world_map/world_map.rpy:364 'audio/music/nature.ogg' is not loadable
+
+game/50_world_map/world_map.rpy:402 'bg_home' is not an image.
+
+game/50_world_map/world_map.rpy:413 The jump is to nonexistent label 'chapter_4_ending'.
+
+game/50_world_map/world_map.rpy:417 The call is to nonexistent label 'world_map'.
+
+game/50_world_map/world_map.rpy:456 The jump is to nonexistent label 'chapter_1'.
+
+game/50_world_map/world_map.rpy:458 The jump is to nonexistent label 'chapter_2'.
+
+game/50_world_map/world_map.rpy:460 The jump is to nonexistent label 'chapter_3'.
+
+game/50_world_map/world_map.rpy:462 The jump is to nonexistent label 'chapter_4_ending'.
+
+images/Girl_delivering_groceries_in_pen…_4d7ee8a7.jpg contains non-ASCII characters in its filename.
+(ZIP file distributions can only reliably include ASCII filenames.)
+
+images/Girl_holding_chopsticks_at_sushi…_c72cdbd1.jpg contains non-ASCII characters in its filename.
+
+images/Girl_holding_chopsticks_at_sushi…_e1bc0be6.jpg contains non-ASCII characters in its filename.
+
+images/Girl_interacting_with_boyfriend_…_5cc37ca6.jpg contains non-ASCII characters in its filename.
+
+images/Girl_interacting_with_character_…_7e7db69e.jpg contains non-ASCII characters in its filename.
+
+images/Girl_interacting_with_environmen…_1232b621.jpg contains non-ASCII characters in its filename.
+
+images/Girl_interacting_with_environmen…_da6b7604.jpg contains non-ASCII characters in its filename.
+
+images/Girl_posing_on_playground_merry-…_5a8f1e1d.jpg contains non-ASCII characters in its filename.
+
+images/Girl_sketching_ferns_in_conserva…_acb88557.jpg contains non-ASCII characters in its filename.
+
+images/Girl_sketching_ferns_in_conserva…_cc50f224.jpg contains non-ASCII characters in its filename.
+
+images/Girl_spilling_coffee_at_café_3ecfddc2.jpg contains non-ASCII characters in its filename.
+
+images/Girl_spilling_coffee_at_café_b13dad85.jpg contains non-ASCII characters in its filename.
+
+images/Girl_standing_in_abandoned_class…_40ec6418.jpg contains non-ASCII characters in its filename.
+
+images/Girl_standing_in_abandoned_class…_7575887d.jpg contains non-ASCII characters in its filename.
+
+images/Girl_submitting_late_assignments…_95f4a64c.jpg contains non-ASCII characters in its filename.
+
+images/Girl_working_convenience_store_c…_3a12e2b8.jpg contains non-ASCII characters in its filename.
+
+images/Girl_working_convenience_store_c…_8db14dc0.jpg contains non-ASCII characters in its filename.
+
+images/Photographer_assistant_posing_fo…_3780e22b.jpg contains non-ASCII characters in its filename.
+
+images/Surprised_girl_browsing_record_c…_1e6113e8.jpg contains non-ASCII characters in its filename.
+
+images/Surprised_girl_inspecting_skateb…_54f4989c.jpg contains non-ASCII characters in its filename.
+
+images/Woman_sipping_champagne_in_night…_361f5595.jpg contains non-ASCII characters in its filename.
+
+
+Statistics:
+
+The game contains 157 dialogue blocks, containing 413 words and 2,570
+characters, for an average of 2.6 words and 16 characters per block.
+
+The game contains 33 menus, 19 images, and 19 screens.
+
+
+Lint is not a substitute for thorough testing. Remember to update Ren'Py
+before releasing. New releases fix bugs and improve compatibility.

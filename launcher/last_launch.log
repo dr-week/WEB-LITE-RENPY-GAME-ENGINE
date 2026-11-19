@@ -1,0 +1,22 @@
+
+Full traceback:
+  File "game/40_story/image_loop/image_story_hub.rpy", line 42, in script
+    $ earn_money(5, "City journal tip")
+  File "renpy/ast.py", line 1229, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/python.py", line 1262, in py_exec_bytecode
+    exec(bytecode, globals, locals)
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "game/40_story/image_loop/image_story_hub.rpy", line 42, in <module>
+    $ earn_money(5, "City journal tip")
+      ^^^^^^^^^^                       
+NameError: name 'earn_money' is not defined. Did you mean: 'add_money'?
+
+While running game code:
+  File "game/40_story/image_loop/image_story_hub.rpy", line 42, in script
+    $ earn_money(5, "City journal tip")
+  File "game/40_story/image_loop/image_story_hub.rpy", line 42, in <module>
+    $ earn_money(5, "City journal tip")
+      ^^^^^^^^^^                       
+NameError: name 'earn_money' is not defined. Did you mean: 'add_money'?

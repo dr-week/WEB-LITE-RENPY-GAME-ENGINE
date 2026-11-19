@@ -1,0 +1,23 @@
+{
+  "name": "lola-game-launcher",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1 --port 1424 --strictPort",
+    "check": "tsc --noEmit",
+    "build": "npm run check && vite build",
+    "tauri:dev": "tauri dev",
+    "tauri:build": "tauri build"
+  },
+  "dependencies": {
+    "@tauri-apps/api": "^2.4.0",
+    "@tauri-apps/plugin-dialog": "^2.4.0"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^2.4.0",
+    "@types/node": "^22.15.0",
+    "typescript": "^5.9.3",
+    "vite": "^6.4.4"
+  }
+}

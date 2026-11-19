@@ -1,0 +1,46 @@
+:root { font-family: Inter, "Segoe UI", sans-serif; color: var(--nova-color-glyph-active); font-synthesis: none; }
+* { box-sizing: border-box; }
+body { margin: 0; min-width: 360px; min-height: 100vh; background: var(--nova-color-background); }
+button, input { font: inherit; }
+.app-shell { --nova-color-border: color-mix(in srgb, var(--nova-color-glyph) 20%, transparent); display: grid; grid-template-columns: 236px minmax(0, 1fr); min-height: 100vh; }
+.sidebar { min-width: 0; border-right: 1px solid var(--nova-color-border); background: color-mix(in srgb, var(--nova-color-surface) 78%, transparent); }
+.sidebar-content { position: sticky; top: 0; display: flex; min-height: 100vh; flex-direction: column; padding: 26px 16px; }
+.brand { display: flex; align-items: center; gap: 12px; color: var(--nova-color-accent); font-weight: 800; letter-spacing: .12em; }
+.brand span { color: var(--nova-color-glyph-active); }
+.brand small { display: block; margin-top: 3px; color: var(--nova-color-glyph); font-size: .58rem; letter-spacing: .2em; }
+.nav-caption, .zuari-editorial-eyebrow { margin: 0 0 8px; color: var(--nova-color-glyph); font-size: .67rem; font-weight: 700; letter-spacing: .13em; }
+.nav-caption { margin: 32px 10px 10px; }
+.workflow-nav { display: grid; width: 100%; min-width: 0; gap: 4px; }
+.nav-item, .root-button { display: flex; width: 100%; gap: 12px; align-items: center; padding: 12px 10px; border: 0; border-radius: 12px; color: var(--nova-color-glyph); background: transparent; text-align: left; }
+.nav-item { cursor: pointer; }
+.nav-item { min-width: 0; }
+.nav-item span { flex: 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.nav-item svg { flex: 0 0 auto; }
+.nav-badge { padding: 2px 7px; border-radius: 999px; background: color-mix(in srgb, var(--nova-color-accent) 18%, transparent); color: var(--nova-color-accent); font-size: .68rem; font-weight: 700; }
+.nav-item.active, .nav-item:hover { color: var(--nova-color-glyph-active); background: var(--nova-color-surface-hover); box-shadow: inset 3px 0 var(--nova-color-accent); }
+.nav-item:disabled { cursor: wait; opacity: .55; }
+.nav-tools { display: grid; gap: 2px; margin-top: 16px; }
+.nav-tools .nav-caption { margin: 12px 10px 6px; }
+.tool-link { padding: 7px 10px; border: 0; border-radius: 9px; color: var(--nova-color-glyph); background: transparent; font-size: .78rem; text-align: left; cursor: pointer; }
+.tool-link:hover { color: var(--nova-color-glyph-active); background: var(--nova-color-surface-hover); }
+.sidebar-bottom { margin-top: auto; padding-top: 14px; }
+.sidebar-bottom .nav-caption { display: block; margin: 0 8px 8px; }
+.root-button { overflow: hidden; color: var(--nova-color-glyph-active); font-size: .72rem; text-overflow: ellipsis; white-space: nowrap; cursor: pointer; }
+.main-content { width: 100%; max-width: 1680px; min-width: 0; padding: 28px clamp(20px, 2.5vw, 38px); }
+.topbar, .panel-heading, .panel-title, .footer { display: flex; align-items: center; justify-content: space-between; gap: 18px; }
+.topbar { margin-bottom: 24px; }
+.topbar-actions { display: flex; align-items: center; gap: 10px; flex-shrink: 0; }
+.busy-pill { padding: 5px 11px; border-radius: 999px; background: color-mix(in srgb, var(--nova-color-accent) 20%, transparent); color: var(--nova-color-accent); font-size: .74rem; font-weight: 700; animation: pulsePill 1.4s ease-in-out infinite; }
+#active-page > * { animation: pageFadeIn .18s ease-out both; }
+@keyframes pageFadeIn { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: translateY(0); } }
+@keyframes pulsePill { 0%, 100% { opacity: 1; } 50% { opacity: .55; } }
+.page-stack { display: grid; gap: 16px; }
+.page-heading { padding: 7px 1px 0; }
+.page-heading h2 { margin-bottom: 7px; font-family: var(--zuari-type-editorial); font-size: 1.45rem; }
+.page-heading h2, .page-heading code { max-width: 100%; overflow-wrap: anywhere; }
+.page-heading > p:last-child { max-width: 760px; margin: 0; color: var(--nova-color-glyph); font-size: .85rem; line-height: 1.55; }
+h1, h2, p { margin-top: 0; }
+h1 { margin-bottom: 0; font-size: 2rem; }
+.topbar-subtitle { margin: 5px 0 0; color: var(--nova-color-glyph); font-size: .84rem; line-height: 1.45; }
+h2 { margin: 0 0 7px; font-size: 1.05rem; }
+.native-badge { color: var(--nova-color-accent); white-space: nowrap; }

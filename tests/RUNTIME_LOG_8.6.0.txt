@@ -1,0 +1,25 @@
+
+Full traceback:
+  File "game/gui.rpy", line 159, in script
+    define gui.history_allow_tags = renpy.history_tags()
+  File "renpy/ast.py", line 2533, in execute
+    self.set()
+    ~~~~~~~~^^
+  File "renpy/ast.py", line 2545, in set
+    value = renpy.python.py_eval_bytecode(self.code.bytecode)
+            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "renpy/python.py", line 1287, in py_eval_bytecode
+    return eval(bytecode, globals, locals)
+           ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "game/gui.rpy", line 159, in <module>
+    define gui.history_allow_tags = renpy.history_tags()
+                                    ^^^^^^^^^^^^^^^^^^  
+AttributeError: module 'renpy.exports' has no attribute 'history_tags'
+
+While running game code:
+  File "game/gui.rpy", line 159, in script
+    define gui.history_allow_tags = renpy.history_tags()
+  File "game/gui.rpy", line 159, in <module>
+    define gui.history_allow_tags = renpy.history_tags()
+                                    ^^^^^^^^^^^^^^^^^^  
+AttributeError: module 'renpy.exports' has no attribute 'history_tags'

@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "ESNext",
+    "moduleResolution": "Bundler",
+    "strict": true,
+    "skipLibCheck": true,
+    "noEmit": true,
+    "types": ["vite/client", "node"],
+    "baseUrl": ".",
+    "paths": {
+      "@zuari/dom": ["C:/CODES/webframework/fast/packages/dom/src/index.ts"],
+      "@zuari/signals": ["C:/CODES/webframework/fast/packages/signals/src/index.ts"],
+      "@zuari/glyphs/actions": ["C:/CODES/webframework/fast/packages/glyphs/src/actions.ts"],
+      "@zuari/glyphs/icons": ["C:/CODES/webframework/fast/packages/glyphs/src/icons.ts"],
+      "@zuari/glyphs/base": ["C:/CODES/webframework/fast/packages/glyphs/src/base.ts"],
+      "@zuari/glyphs/navigation": ["C:/CODES/webframework/fast/packages/glyphs/src/navigation.ts"]
+    }
+  },
+  "include": ["src", "vite.config.ts"]
+}

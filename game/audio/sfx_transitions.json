@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "sfx": [
+    {
+      "file": "audio/sfx/transitions/creatorshome-sharp-riser-327342.mp3",
+      "bytes": 60186
+    },
+    {
+      "file": "audio/sfx/transitions/dheerajakam4jor-swoosh-sound-effect-for-fight-scenes-or-transitions-2-149890.mp3",
+      "bytes": 11520
+    },
+    {
+      "file": "audio/sfx/transitions/dragon-studio-epic-transition-478367.mp3",
+      "bytes": 82944
+    },
+    {
+      "file": "audio/sfx/transitions/dragon-studio-swoosh-1-376872.mp3",
+      "bytes": 28421
+    },
+    {
+      "file": "audio/sfx/transitions/dragon-studio-whoosh-cinematic-sound-effect-376889.mp3",
+      "bytes": 98638
+    },
+    {
+      "file": "audio/sfx/transitions/dragon-studio-whoosh-motion-405445.mp3",
+      "bytes": 33024
+    },
+    {
+      "file": "audio/sfx/transitions/emircanalp-zoom-sound-effect-125029.mp3",
+      "bytes": 52320
+    },
+    {
+      "file": "audio/sfx/transitions/lordsonny-whoosh-cinematic-161021.mp3",
+      "bytes": 96966
+    },
+    {
+      "file": "audio/sfx/transitions/lordsonny-whoosh-cinematic-161021__1_.mp3",
+      "bytes": 96966
+    },
+    {
+      "file": "audio/sfx/transitions/universfield-swoosh-010-352856.mp3",
+      "bytes": 43776
+    },
+    {
+      "file": "audio/sfx/transitions/universfield-swoosh-014-383768.mp3",
+      "bytes": 33792
+    },
+    {
+      "file": "audio/sfx/transitions/universfield-swoosh-06-351021.mp3",
+      "bytes": 35328
+    }
+  ]
+}

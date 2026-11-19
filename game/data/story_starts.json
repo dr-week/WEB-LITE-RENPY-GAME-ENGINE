@@ -1,0 +1,103 @@
+{
+  "schema_version": 2,
+  "starts": [
+    {
+      "id": "PROL_KITCHEN_OVERSLEPT", "location": "home", "scene": "scene_day1_home", "mood": "hopeful", "money": 120, "energy": 70, "next_label": "day_01_opening_choice",
+      "beats": [
+        "Maya blinked awake in her tiny apartment, already calculating her odds before her feet hit the floor.",
+        "Her phone alarm had stayed silent—7:45 AM, and orientation started across town at 9:00."
+      ]
+    },
+    {
+      "id": "PROL_ROOFTOP_SUNRISE", "location": "home", "scene": "bg_prol_rooftop", "mood": "proud", "money": 135, "energy": 75, "next_label": "day_01_opening_choice",
+      "beats": [
+        "Maya sipped espresso on the rooftop ledge at sunrise, sizing up the downtown skyline.",
+        "She had $135, zero connections, and a wide-eyed smile that could talk her past any locked door."
+      ]
+    },
+    {
+      "id": "PROL_CAFE_EARLY_SHIFT", "location": "cafe", "scene": "bg_prol_cafe", "mood": "hopeful", "money": 145, "energy": 65, "next_label": "travel_to_cafe",
+      "beats": [
+        "Maya covered an emergency 6:30 AM counter prep before classes, counting crisp tip bills before anyone else woke up.",
+        "With $145 in her pocket and espresso in her veins, she decided how to play the rest of Day 1."
+      ]
+    },
+    {
+      "id": "PROL_BUS_STOP_DRIZZLE", "location": "bus_stop", "scene": "bg_prol_bus", "mood": "calm", "money": 115, "energy": 68, "next_label": "travel_bus_stop",
+      "beats": [
+        "Light morning rain tapped the glass bus shelter as Maya checked her route with an unbothered smirk.",
+        "She had $115 left—barely enough for the week, unless she turned every chance encounter into leverage."
+      ]
+    },
+    {
+      "id": "PROL_CAMPUS_QUAD_EARLY", "location": "college", "scene": "bg_prol_campus", "mood": "hopeful", "money": 125, "energy": 80, "next_label": "arrive_college",
+      "beats": [
+        "Maya strolled through the campus club fair an hour early, reading every flyer and every face in the crowd.",
+        "New city, new semester—she flashed an innocent smile and stepped onto the quad."
+      ]
+    },
+    {
+      "id": "PROL_SUBWAY_MORNING_RUSH", "location": "bus_stop", "scene": "bg_prol_subway", "mood": "calm", "money": 118, "energy": 72, "next_label": "travel_bus_stop",
+      "beats": [
+        "Maya rode the morning metro downtown, leaning by the turnstiles while quietly reading every face in the station.",
+        "Half the city was asleep on its feet; she was wide awake and ready to play the room."
+      ]
+    },
+    {
+      "id": "PROL_LIBRARY_HEADSTART", "location": "college", "scene": "bg_prol_library", "mood": "hopeful", "money": 122, "energy": 64, "next_label": "location_library",
+      "beats": [
+        "Sunlight slanted across the university library table where Maya had already skimmed half the syllabus.",
+        "She closed her notebook with an angelic grin—time to turn preparation into an unfair advantage."
+      ]
+    },
+    {
+      "id": "PROL_CORNER_MART_COFFEE", "location": "home", "scene": "bg_prol_mart", "mood": "hopeful", "money": 116, "energy": 74, "next_label": "day_01_opening_choice",
+      "beats": [
+        "At the corner mart, Maya winked at the sleepy cashier and walked out with a free croissant beside her $2 coffee.",
+        "Small wins stacked fast in this city—she tucked her receipt away and headed for campus."
+      ]
+    },
+    {
+      "id": "PROL_PARK_BENCH_SKETCH", "location": "home", "scene": "bg_prol_park", "mood": "hopeful", "money": 128, "energy": 78, "next_label": "day_01_opening_choice",
+      "beats": [
+        "Morning breeze drifted across the city park bench as Maya sketched her first week's rent plan on a napkin.",
+        "$128 to start, a campus ID to claim, and a dozen angles left to test."
+      ]
+    },
+    {
+      "id": "PROL_LAUNDROMAT_LUCKY_PASS", "location": "home", "scene": "bg_prol_laundromat", "mood": "proud", "money": 130, "energy": 70, "next_label": "day_01_opening_choice",
+      "beats": [
+        "Maya waited by the warm laundromat dryers at 7:00 AM, spotting an unclaimed campus guest pass by the coin machine.",
+        "She pocketed it with an innocent 'who, me?' glance and stepped out into Day 1."
+      ]
+    },
+    {
+      "id": "PROL_BALCONY_MORNING", "location": "home", "scene": "bg_prol_balcony", "mood": "calm", "money": 126, "energy": 76, "next_label": "day_01_opening_choice",
+      "beats": [
+        "Maya leaned over her tiny balcony railing, watching delivery trucks and commuters wake up the block below.",
+        "Every street down there held a shortcut if she stayed sharp—time to make her first move."
+      ]
+    },
+    {
+      "id": "PROL_LATE_NIGHT_BAR", "location": "cafe", "scene": "bg_prol_dive_bar", "mood": "proud", "money": 140, "energy": 60, "next_label": "travel_to_cafe",
+      "beats": [
+        "After a late-night hospitality trial at a neon-lit dive bar, Maya walked into dawn with $140 in tip cash.",
+        "She was short on sleep, long on nerve, and ready to charm her way through Day 1."
+      ]
+    },
+    {
+      "id": "PROL_SKIPPING_CLASS", "location": "college", "scene": "bg_prol_rooftop_skip", "mood": "calm", "money": 124, "energy": 82, "next_label": "arrive_college",
+      "beats": [
+        "Instead of waiting in the crowded orientation line, Maya slipped onto the campus annex roof for ten quiet minutes.",
+        "From up here the whole university looked like a chessboard—she picked her opening square and headed down."
+      ]
+    },
+    {
+      "id": "PROL_KEYCARD_COUNTER", "location": "home", "scene": "bg_prol_counter", "mood": "hopeful", "money": 132, "energy": 72, "next_label": "day_01_opening_choice",
+      "beats": [
+        "At the building front desk, Maya smoothly pocketed a spare lobby keycard left beside the guest sign-in.",
+        "Little advantages had a habit of compounding—she smiled and stepped out into the morning."
+      ]
+    }
+  ]
+}

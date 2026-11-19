@@ -1,0 +1,40 @@
+type,path,size_bytes,notes
+rpy,game/script.rpy,2464,Entry point
+rpy,game/options.rpy,225,Configuration
+rpy,game/gui.rpy,3624,GUI setup
+rpy,game/screens.rpy,16864,Main screens
+rpy,game/characters/protagonist.rpy,1606,Protagonist config
+rpy,game/characters/recurring_cast.rpy,2233,Recurring characters
+rpy,game/characters/generated_encounters.rpy,4162,Generated encounters
+rpy,game/characters/characters_legacy_backup.rpy,3891,BACKUP - legacy
+rpy,game/story/chapter1.rpy,2519,LEGACY chapter 1
+rpy,game/story/chapter2.rpy,LEGACY chapter 2
+rpy,game/story/chapter3.rpy,LEGACY chapter 3
+rpy,game/story/chapter4_endings.rpy,LEGACY endings
+rpy,game/story/prologue/day_01_home.rpy,1059,Vertical slice day 1 home
+rpy,game/story/prologue/day_01_college.rpy,3982,Vertical slice day 1 college
+rpy,game/story/prologue/day_01_work_search.rpy,2839,Vertical slice day 1 work
+rpy,game/systems/state.rpy,5128,Core state management
+rpy,game/systems/character_registry.rpy,2045,Character ID management
+rpy,game/systems/relationship_manager.rpy,2535,Per-character relationships
+rpy,game/systems/encounter_manager.rpy,3565,Generated encounters
+rpy,game/systems/location_manager.rpy,1982,Location data
+rpy,game/systems/economy_manager.rpy,1360,Money management
+rpy,game/systems/time_manager.rpy,1063,Time progression
+rpy,game/systems/college_manager.rpy,1253,Education tracking
+rpy,game/systems/employment_manager.rpy,1508,Job management
+rpy,game/systems/event_manager.rpy,1285,Event tracking
+rpy,game/locations/home/location_home.rpy,892,Home location
+rpy,game/locations/college/location_college.rpy,994,College location
+rpy,game/locations/transport/location_transport.rpy,849,Transport location
+rpy,game/locations/work/location_work.rpy,1783,Work location
+rpy,game/locations/public/location_public.rpy,1156,Public locations
+rpy,game/screens/navigation.rpy,1962,World map screen
+rpy,game/screens/status.rpy,3173,Status screen
+rpy,game/screens/character_info.rpy,2997,Character info screen
+rpy,game/screens/custom_choices.rpy,2176,Custom choice screens
+rpy,game/world_map/world_map.rpy,2180,Location data (no screen)
+rpy,game/developer-tools/pixel-anime-converter/renpy-integration/example_usage.rpy,DEV TOOLS
+rpy,game/developer-tools/pixel-anime-converter/renpy-integration/main.rpy,DEV TOOLS
+rpy,game/developer-tools/pixel-anime-converter/renpy-integration/world_map.rpy,DEV TOOLS
+legacy,rlegacy_archive/modular/characters/main_character.rpy,14,Archived legacy

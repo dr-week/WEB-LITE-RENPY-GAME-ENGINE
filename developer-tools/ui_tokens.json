@@ -1,0 +1,149 @@
+{
+  "$schema": "lola-ui-tokens-v1",
+  "colors": {
+    "accent_color": "#9b59b6",
+    "accent_secondary": "#8e44ad",
+    "accent_highlight": "#e8d5f5",
+    "gold_hover": "#ffe8a3",
+    "idle_color": "#a0a0b8",
+    "idle_small_color": "#8888a0",
+    "hover_color": "#ffffff",
+    "selected_color": "#ffffff",
+    "insensitive_color": "#8888a080",
+    "muted_color": "#3a3a4a",
+    "hover_muted_color": "#6366f1",
+    "text_color": "#ffffff",
+    "text_secondary": "#d0d0d0",
+    "text_muted": "#8888a0",
+    "interface_text_color": "#ffffff",
+    "choice_idle_color": "#d7d4e6",
+    "bg_dark": "#0a0a1a",
+    "badges": {
+      "charm": "#ff4081",
+      "logic": "#00e5ff",
+      "cash": "#00e676",
+      "energy": "#ffd600",
+      "danger": "#ff1744",
+      "target": "#d500f9",
+      "social": "#2979ff",
+      "quest": "#ffab00",
+      "default": "#b388ff"
+    }
+  },
+  "typography": {
+    "text_font": "fonts/PlusJakartaSans-Regular.ttf",
+    "name_text_font": "fonts/PlusJakartaSans-Bold.ttf",
+    "interface_text_font": "fonts/PlusJakartaSans-SemiBold.ttf",
+    "text_size": 26,
+    "name_text_size": 30,
+    "interface_text_size": 22,
+    "label_text_size": 34,
+    "notify_text_size": 22,
+    "title_text_size": 64,
+    "hint_text_size": 22,
+    "pill_text_size": 20,
+    "language": "unicode"
+  },
+  "spacing": {
+    "choice_btn_width": 830,
+    "choice_btn_pad": [28, 17],
+    "pill_pad": [22, 12],
+    "window_width": 1560,
+    "window_height": 210,
+    "window_yalign": 0.94,
+    "window_pad": [48, 28],
+    "namebox_pad": [24, 10]
+  },
+  "surfaces": {
+    "glass_panel": {
+      "file": "glass/glass_panel.png",
+      "size": [160, 160],
+      "radius": 18,
+      "pad": 16,
+      "fill": [16, 20, 40, 205],
+      "rim": [232, 213, 245, 58],
+      "border": [255, 255, 255, 36],
+      "blur_r": 8,
+      "shadow_a": 130,
+      "slice": 36
+    },
+    "glass_panel_elevated": {
+      "file": "glass/glass_panel_elevated.png",
+      "size": [160, 160],
+      "radius": 20,
+      "pad": 18,
+      "fill": [14, 19, 38, 222],
+      "rim": [242, 216, 255, 76],
+      "border": [255, 255, 255, 48],
+      "blur_r": 10,
+      "shadow_a": 165,
+      "slice": 40
+    },
+    "glass_card": {
+      "file": "glass/glass_card.png",
+      "size": [128, 128],
+      "radius": 14,
+      "pad": 12,
+      "fill": [28, 33, 56, 198],
+      "rim": [232, 213, 245, 46],
+      "border": [255, 255, 255, 28],
+      "blur_r": 6,
+      "shadow_a": 105,
+      "slice": 28
+    },
+    "glass_pill": {
+      "file": "glass/glass_pill.png",
+      "size": [96, 64],
+      "radius": 12,
+      "pad": 8,
+      "fill": [91, 61, 115, 224],
+      "rim": [242, 216, 255, 84],
+      "border": [255, 255, 255, 44],
+      "blur_r": 4,
+      "shadow_a": 110,
+      "slice": 24
+    },
+    "glass_btn_idle": {
+      "file": "glass/glass_btn_idle.png",
+      "size": [128, 72],
+      "radius": 12,
+      "pad": 8,
+      "fill": [36, 31, 56, 212],
+      "rim": [232, 213, 245, 50],
+      "border": [255, 255, 255, 30],
+      "blur_r": 4,
+      "shadow_a": 95,
+      "slice": 22
+    },
+    "glass_btn_hover": {
+      "file": "glass/glass_btn_hover.png",
+      "size": [128, 72],
+      "radius": 12,
+      "pad": 8,
+      "fill": [101, 69, 128, 236],
+      "rim": [255, 232, 163, 120],
+      "border": [242, 216, 255, 95],
+      "blur_r": 5,
+      "shadow_a": 135,
+      "slice": 22
+    },
+    "shadow_soft": {
+      "file": "shadows/shadow_soft.png",
+      "size": [160, 160],
+      "radius": 18,
+      "pad": 20,
+      "blur_r": 11,
+      "alpha": 130,
+      "slice": 40
+    },
+    "shadow_deep": {
+      "file": "shadows/shadow_deep.png",
+      "size": [160, 160],
+      "radius": 22,
+      "pad": 24,
+      "blur_r": 14,
+      "alpha": 175,
+      "slice": 44
+    }
+  }
+}

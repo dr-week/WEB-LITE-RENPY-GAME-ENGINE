@@ -1,0 +1,3935 @@
+{
+  "schema_version": 1,
+  "events": [
+    {
+      "id": "f08dc1de90d42074",
+      "category": "college",
+      "image": "college/Classmate_waving_at_empty_desk_0d70d50b.jpg",
+      "narration": "A classmate waved from the empty desk. Maya answered with a smile and made room for a new friendship.",
+      "intro": "Class brings new routines, unexpected allies, and choices about Maya's future.",
+      "images": [
+        "college/Classmate_waving_at_empty_desk_0d70d50b.jpg"
+      ],
+      "title": "Classmate Waving At Empty Desk",
+      "variants": 1
+    },
+    {
+      "id": "c72cb088897510aa",
+      "category": "college",
+      "image": "college/Girl_entering_classroom_5b1f967d.jpg",
+      "narration": "Maya entered a classroom. The day taught her more than the syllabus could.",
+      "intro": "Class brings new routines, unexpected allies, and choices about Maya's future.",
+      "images": [
+        "college/Girl_entering_classroom_5b1f967d.jpg"
+      ],
+      "title": "Girl Entering Classroom",
+      "variants": 1
+    },
+    {
+      "id": "dcf1f806eecaaed6",
+      "category": "college",
+      "image": "college/Girl_passing_notes_in_classroom_483dbd01.jpg",
+      "narration": "Maya passed notes in the classroom. The day taught her more than the syllabus could.",
+      "intro": "Class brings new routines, unexpected allies, and choices about Maya's future.",
+      "images": [
+        "college/Girl_passing_notes_in_classroom_483dbd01.jpg",
+        "college/Girl_passing_notes_in_classroom_69d423e4.jpg"
+      ],
+      "title": "Girl Passing Notes In Classroom",
+      "variants": 2
+    },
+    {
+      "id": "d674b3ca9d051863",
+      "category": "college",
+      "image": "college/Girl_posing_in_computer_lab_32047276.jpg",
+      "narration": "Maya paused for a photo in the computer lab. She left herself one question to carry into the next class.",
+      "intro": "Class brings new routines, unexpected allies, and choices about Maya's future.",
+      "images": [
+        "college/Girl_posing_in_computer_lab_32047276.jpg",
+        "college/Girl_posing_in_computer_lab_6f261846.jpg"
+      ],
+      "title": "Girl Posing In Computer Lab",
+      "variants": 2
+    },
+    {
+      "id": "f4ce3d5c0cf1b629",
+      "category": "college",
+      "image": "college/Girl_smoking_in_abandoned_classroom_308893ea.jpg",
+      "narration": "Maya faced a tempting shortcut. She thought about the trouble it could bring and chose to step back.",
+      "intro": "Class brings new routines, unexpected allies, and choices about Maya's future.",
+      "images": [
+        "college/Girl_smoking_in_abandoned_classroom_308893ea.jpg"
+      ],
+      "title": "Girl Smoking In Abandoned Classroom",
+      "variants": 1
+    },
+    {
+      "id": "20c64aab8ae53501",
+      "category": "college",
+      "image": "college/Girl_standing_in_classroom_7ffb471a.jpg",
+      "narration": "Maya stood in the classroom. The day taught her more than the syllabus could.",
+      "intro": "Class brings new routines, unexpected allies, and choices about Maya's future.",
+      "images": [
+        "college/Girl_standing_in_classroom_7ffb471a.jpg",
+        "college/Girl_standing_in_classroom_88afe278.jpg",
+        "college/Girl_standing_in_classroom_9566cc9b.jpg",
+        "college/Girl_standing_in_classroom_a8784b48.jpg",
+        "college/Girl_standing_in_classroom_d3a732ba.jpg",
+        "college/Girl_standing_in_classroom_e4c7ae86.jpg"
+      ],
+      "title": "Girl Standing In Classroom",
+      "variants": 6
+    },
+    {
+      "id": "a2d88bd4199e8642",
+      "category": "college",
+      "image": "college/Girl_submitting_late_assignments_95f4a64c.jpg",
+      "narration": "Maya submitted late assignments. The day taught her more than the syllabus could.",
+      "intro": "Class brings new routines, unexpected allies, and choices about Maya's future.",
+      "images": [
+        "college/Girl_submitting_late_assignments_95f4a64c.jpg"
+      ],
+      "title": "Girl Submitting Late Assignments",
+      "variants": 1
+    },
+    {
+      "id": "dc5d4f544e2bc85c",
+      "category": "college",
+      "image": "college/Girl_waving_on_college_bus_7a5d6ae4.jpg",
+      "narration": "Maya waved on the college bus. The day taught her more than the syllabus could.",
+      "intro": "Class brings new routines, unexpected allies, and choices about Maya's future.",
+      "images": [
+        "college/Girl_waving_on_college_bus_7a5d6ae4.jpg"
+      ],
+      "title": "Girl Waving On College Bus",
+      "variants": 1
+    },
+    {
+      "id": "ec657d7517c390ee",
+      "category": "college",
+      "image": "college/Maya_arriving_at_college_entrance_29325938.jpg",
+      "narration": "Maya arrived at the college entrance. The day taught her more than the syllabus could.",
+      "intro": "Class brings new routines, unexpected allies, and choices about Maya's future.",
+      "images": [
+        "college/Maya_arriving_at_college_entrance_29325938.jpg",
+        "college/Maya_arriving_at_college_entrance_e3dcab97.jpg"
+      ],
+      "title": "Maya Arriving At College Entrance",
+      "variants": 2
+    },
+    {
+      "id": "eb9bd8650d7c3213",
+      "category": "college",
+      "image": "college/Maya_overhearing_lecture_hall_se_8120d602.jpg",
+      "narration": "Maya overheared a lecture hall se. The day taught her more than the syllabus could.",
+      "intro": "Class brings new routines, unexpected allies, and choices about Maya's future.",
+      "images": [
+        "college/Maya_overhearing_lecture_hall_se_8120d602.jpg"
+      ],
+      "title": "Maya Overhearing Lecture Hall Se",
+      "variants": 1
+    },
+    {
+      "id": "0db34334ee472a51",
+      "category": "college",
+      "image": "college/Maya_sitting_in_lecture_hall_a3eaf1f0.jpg",
+      "narration": "Maya sitted in the lecture hall. She left herself one question to carry into the next class.",
+      "intro": "Class brings new routines, unexpected allies, and choices about Maya's future.",
+      "images": [
+        "college/Maya_sitting_in_lecture_hall_a3eaf1f0.jpg"
+      ],
+      "title": "Maya Sitting In Lecture Hall",
+      "variants": 1
+    },
+    {
+      "id": "ce3a970bc926f2b8",
+      "category": "college",
+      "image": "college/Maya_walking_at_campus_fair_d1a8600b.jpg",
+      "narration": "Maya walked at the campus fair. She left herself one question to carry into the next class.",
+      "intro": "Class brings new routines, unexpected allies, and choices about Maya's future.",
+      "images": [
+        "college/Maya_walking_at_campus_fair_d1a8600b.jpg"
+      ],
+      "title": "Maya Walking At Campus Fair",
+      "variants": 1
+    },
+    {
+      "id": "82f88b9e55959c06",
+      "category": "college",
+      "image": "college/Maya_watching_professor_in_class_15ce472f.jpg",
+      "narration": "Maya watched a professor in the class. The day taught her more than the syllabus could.",
+      "intro": "Class brings new routines, unexpected allies, and choices about Maya's future.",
+      "images": [
+        "college/Maya_watching_professor_in_class_15ce472f.jpg"
+      ],
+      "title": "Maya Watching Professor In Class",
+      "variants": 1
+    },
+    {
+      "id": "28c6542a3d240c0f",
+      "category": "college",
+      "image": "college/Professor_teaching_college_lecture_32d0214a.jpg",
+      "narration": "The professor led the lecture at college. Maya wrote down one question to ask after class.",
+      "intro": "Class brings new routines, unexpected allies, and choices about Maya's future.",
+      "images": [
+        "college/Professor_teaching_college_lecture_32d0214a.jpg"
+      ],
+      "title": "Professor Teaching College Lecture",
+      "variants": 1
+    },
+    {
+      "id": "d3b5c743d6e60528",
+      "category": "college",
+      "image": "college/Woman_arriving_at_college_campus_54ed2181.jpg",
+      "narration": "Maya arrived at the college campus. The day taught her more than the syllabus could.",
+      "intro": "Class brings new routines, unexpected allies, and choices about Maya's future.",
+      "images": [
+        "college/Woman_arriving_at_college_campus_54ed2181.jpg"
+      ],
+      "title": "Woman Arriving At College Campus",
+      "variants": 1
+    },
+    {
+      "id": "9e99dbf45f705a64",
+      "category": "college",
+      "image": "college/Woman_glancing_at_club_fair_55601cf0.jpg",
+      "narration": "Maya glanced at the club fair. She left herself one question to carry into the next class.",
+      "intro": "Class brings new routines, unexpected allies, and choices about Maya's future.",
+      "images": [
+        "college/Woman_glancing_at_club_fair_55601cf0.jpg"
+      ],
+      "title": "Woman Glancing At Club Fair",
+      "variants": 1
+    },
+    {
+      "id": "a4ac0e46144bfc32",
+      "category": "college",
+      "image": "college/Woman_overhearing_secret_in_lecture_49043229.jpg",
+      "narration": "Maya overheared a secret in the lecture. The day taught her more than the syllabus could.",
+      "intro": "Class brings new routines, unexpected allies, and choices about Maya's future.",
+      "images": [
+        "college/Woman_overhearing_secret_in_lecture_49043229.jpg"
+      ],
+      "title": "Woman Overhearing Secret In Lecture",
+      "variants": 1
+    },
+    {
+      "id": "baa3fbe56241901c",
+      "category": "college",
+      "image": "college/Young_woman_at_club_fair_17d57668.jpg",
+      "narration": "Maya younged a woman at the club fair. She left herself one question to carry into the next class.",
+      "intro": "Class brings new routines, unexpected allies, and choices about Maya's future.",
+      "images": [
+        "college/Young_woman_at_club_fair_17d57668.jpg",
+        "college/Young_woman_at_club_fair_843eb487.jpg"
+      ],
+      "title": "Young Woman At Club Fair",
+      "variants": 2
+    },
+    {
+      "id": "61b0105d77c3593a",
+      "category": "food_drink",
+      "image": "food_drink/Girl_choosing_croissant_at_bakery_42ea6193.jpg",
+      "narration": "Maya chose a croissant at the bakery. She could be careful with money and still enjoy a moment.",
+      "intro": "Cafes and kitchens tie together work, money, and the comfort of a good meal.",
+      "images": [
+        "food_drink/Girl_choosing_croissant_at_bakery_42ea6193.jpg",
+        "food_drink/Girl_choosing_croissant_at_bakery_d0f85183.jpg",
+        "food_drink/Girl_choosing_croissant_at_bakery_f5b53b24.jpg"
+      ],
+      "title": "Girl Choosing Croissant At Bakery",
+      "variants": 3
+    },
+    {
+      "id": "d505b04955504029",
+      "category": "food_drink",
+      "image": "food_drink/Girl_choosing_peaches_at_market_ab47d869.jpg",
+      "narration": "Maya chose peaches at the market. A small comfort made the long day easier to carry.",
+      "intro": "Cafes and kitchens tie together work, money, and the comfort of a good meal.",
+      "images": [
+        "food_drink/Girl_choosing_peaches_at_market_ab47d869.jpg"
+      ],
+      "title": "Girl Choosing Peaches At Market",
+      "variants": 1
+    },
+    {
+      "id": "c476a9cb1e5063db",
+      "category": "food_drink",
+      "image": "food_drink/Girl_drinking_milkshake_in_diner_7384ad94.jpg",
+      "narration": "Maya drank a milkshake in the diner. A small comfort made the long day easier to carry.",
+      "intro": "Cafes and kitchens tie together work, money, and the comfort of a good meal.",
+      "images": [
+        "food_drink/Girl_drinking_milkshake_in_diner_7384ad94.jpg"
+      ],
+      "title": "Girl Drinking Milkshake In Diner",
+      "variants": 1
+    },
+    {
+      "id": "d235e0d632ff75ce",
+      "category": "food_drink",
+      "image": "food_drink/Girl_earning_money_at_cafe_c7f17d68.jpg",
+      "narration": "Maya earned money at the cafe. She could be careful with money and still enjoy a moment.",
+      "intro": "Cafes and kitchens tie together work, money, and the comfort of a good meal.",
+      "images": [
+        "food_drink/Girl_earning_money_at_cafe_c7f17d68.jpg"
+      ],
+      "title": "Girl Earning Money At Cafe",
+      "variants": 1
+    },
+    {
+      "id": "64645de9de1cdab1",
+      "category": "food_drink",
+      "image": "food_drink/Girl_eating_grape_in_vineyard_1a9384a0.jpg",
+      "narration": "Maya ate a grape in the vineyard. A small comfort made the long day easier to carry.",
+      "intro": "Cafes and kitchens tie together work, money, and the comfort of a good meal.",
+      "images": [
+        "food_drink/Girl_eating_grape_in_vineyard_1a9384a0.jpg"
+      ],
+      "title": "Girl Eating Grape In Vineyard",
+      "variants": 1
+    },
+    {
+      "id": "362513ec94c76470",
+      "category": "food_drink",
+      "image": "food_drink/Girl_eating_noodles_at_market_96bca58b.jpg",
+      "narration": "Maya ate noodles at the market. A small comfort made the long day easier to carry.",
+      "intro": "Cafes and kitchens tie together work, money, and the comfort of a good meal.",
+      "images": [
+        "food_drink/Girl_eating_noodles_at_market_96bca58b.jpg",
+        "food_drink/Girl_eating_noodles_at_market_a06a6174.jpg"
+      ],
+      "title": "Girl Eating Noodles At Market",
+      "variants": 2
+    },
+    {
+      "id": "da51631995e9b7c6",
+      "category": "food_drink",
+      "image": "food_drink/Girl_eating_pancakes_in_diner_17dcdc14.jpg",
+      "narration": "Maya ate pancakes in the diner. A small comfort made the long day easier to carry.",
+      "intro": "Cafes and kitchens tie together work, money, and the comfort of a good meal.",
+      "images": [
+        "food_drink/Girl_eating_pancakes_in_diner_17dcdc14.jpg",
+        "food_drink/Girl_eating_pancakes_in_diner_c5b1807e.jpg"
+      ],
+      "title": "Girl Eating Pancakes In Diner",
+      "variants": 2
+    },
+    {
+      "id": "42ad72b5c6c73b54",
+      "category": "food_drink",
+      "image": "food_drink/Girl_eating_ramen_at_shop_ae63c3ad.jpg",
+      "narration": "Maya ate a bowl of ramen at the shop. A small comfort made the long day easier to carry.",
+      "intro": "Cafes and kitchens tie together work, money, and the comfort of a good meal.",
+      "images": [
+        "food_drink/Girl_eating_ramen_at_shop_ae63c3ad.jpg"
+      ],
+      "title": "Girl Eating Ramen At Shop",
+      "variants": 1
+    },
+    {
+      "id": "8796ad1fba64edb1",
+      "category": "food_drink",
+      "image": "food_drink/Girl_holding_chopsticks_at_sushi_57759e21_2K.jpg",
+      "narration": "Maya held chopsticks at the sushi bar. She could be careful with money and still enjoy a moment.",
+      "intro": "Cafes and kitchens tie together work, money, and the comfort of a good meal.",
+      "images": [
+        "food_drink/Girl_holding_chopsticks_at_sushi_57759e21_2K.jpg",
+        "food_drink/Girl_holding_chopsticks_at_sushi_c72cdbd1.jpg",
+        "food_drink/Girl_holding_chopsticks_at_sushi_e1bc0be6.jpg"
+      ],
+      "title": "Girl Holding Chopsticks At Sushi",
+      "variants": 3
+    },
+    {
+      "id": "b996a50fd6ecf98d",
+      "category": "food_drink",
+      "image": "food_drink/Girl_kneading_dough_in_bakery_3d1e55be.jpg",
+      "narration": "Maya kneaded dough in the bakery. She could be careful with money and still enjoy a moment.",
+      "intro": "Cafes and kitchens tie together work, money, and the comfort of a good meal.",
+      "images": [
+        "food_drink/Girl_kneading_dough_in_bakery_3d1e55be.jpg"
+      ],
+      "title": "Girl Kneading Dough In Bakery",
+      "variants": 1
+    },
+    {
+      "id": "3556bc2b08d6a3a1",
+      "category": "food_drink",
+      "image": "food_drink/Girl_kneading_dough_underground_f79e2ac7.jpg",
+      "narration": "Maya kneaded a dough underground. A small comfort made the long day easier to carry.",
+      "intro": "Cafes and kitchens tie together work, money, and the comfort of a good meal.",
+      "images": [
+        "food_drink/Girl_kneading_dough_underground_f79e2ac7.jpg"
+      ],
+      "title": "Girl Kneading Dough Underground",
+      "variants": 1
+    },
+    {
+      "id": "c30a75ee1ce30257",
+      "category": "food_drink",
+      "image": "food_drink/Girl_looking_surprised_in_tea_ad512cbd.jpg",
+      "narration": "Something unexpected happened at the tea shop. Maya took a breath and chose curiosity over panic.",
+      "intro": "Cafes and kitchens tie together work, money, and the comfort of a good meal.",
+      "images": [
+        "food_drink/Girl_looking_surprised_in_tea_ad512cbd.jpg"
+      ],
+      "title": "Girl Looking Surprised In Tea",
+      "variants": 1
+    },
+    {
+      "id": "e1adfcaff926e670",
+      "category": "food_drink",
+      "image": "food_drink/Girl_posing_at_food_market_26e2ac41.jpg",
+      "narration": "Maya paused for a photo at the food market. A small comfort made the long day easier to carry.",
+      "intro": "Cafes and kitchens tie together work, money, and the comfort of a good meal.",
+      "images": [
+        "food_drink/Girl_posing_at_food_market_26e2ac41.jpg",
+        "food_drink/Girl_posing_at_food_market_432ee45d.jpg",
+        "food_drink/Girl_posing_at_food_market_5e536aed.jpg"
+      ],
+      "title": "Girl Posing At Food Market",
+      "variants": 3
+    },
+    {
+      "id": "8efe51b455e0f01c",
+      "category": "food_drink",
+      "image": "food_drink/Girl_posing_in_pizza_parlor_ba505d9f.jpg",
+      "narration": "Maya paused for a photo in the pizza parlor. A small comfort made the long day easier to carry.",
+      "intro": "Cafes and kitchens tie together work, money, and the comfort of a good meal.",
+      "images": [
+        "food_drink/Girl_posing_in_pizza_parlor_ba505d9f.jpg"
+      ],
+      "title": "Girl Posing In Pizza Parlor",
+      "variants": 1
+    },
+    {
+      "id": "003cad57b246379e",
+      "category": "food_drink",
+      "image": "food_drink/Girl_posing_in_vineyard_cellar_04b3efde.jpg",
+      "narration": "Maya paused for a photo in the vineyard cellar. A small comfort made the long day easier to carry.",
+      "intro": "Cafes and kitchens tie together work, money, and the comfort of a good meal.",
+      "images": [
+        "food_drink/Girl_posing_in_vineyard_cellar_04b3efde.jpg"
+      ],
+      "title": "Girl Posing In Vineyard Cellar",
+      "variants": 1
+    },
+    {
+      "id": "27ec8b2ab11b8ede",
+      "category": "food_drink",
+      "image": "food_drink/Girl_posing_in_vintage_diner_08bb13cb.jpg",
+      "narration": "Maya paused for a photo in the vintage diner. A small comfort made the long day easier to carry.",
+      "intro": "Cafes and kitchens tie together work, money, and the comfort of a good meal.",
+      "images": [
+        "food_drink/Girl_posing_in_vintage_diner_08bb13cb.jpg"
+      ],
+      "title": "Girl Posing In Vintage Diner",
+      "variants": 1
+    },
+    {
+      "id": "83aef2bdfd02dc06",
+      "category": "food_drink",
+      "image": "food_drink/Girl_roasting_marshmallow_on_beach_35a1b7aa.jpg",
+      "narration": "Maya roasted a marshmallow on the beach. A small comfort made the long day easier to carry.",
+      "intro": "Cafes and kitchens tie together work, money, and the comfort of a good meal.",
+      "images": [
+        "food_drink/Girl_roasting_marshmallow_on_beach_35a1b7aa.jpg"
+      ],
+      "title": "Girl Roasting Marshmallow On Beach",
+      "variants": 1
+    },
+    {
+      "id": "97772bfd8aea12bc",
+      "category": "food_drink",
+      "image": "food_drink/Girl_sipping_espresso_at_cafe_6b8a2c4b.jpg",
+      "narration": "Maya sipped an espresso at the cafe. She could be careful with money and still enjoy a moment.",
+      "intro": "Cafes and kitchens tie together work, money, and the comfort of a good meal.",
+      "images": [
+        "food_drink/Girl_sipping_espresso_at_cafe_6b8a2c4b.jpg",
+        "food_drink/Girl_sipping_espresso_at_cafe_8dea6314.jpg"
+      ],
+      "title": "Girl Sipping Espresso At Cafe",
+      "variants": 2
+    },
+    {
+      "id": "a998b079057dc528",
+      "category": "food_drink",
+      "image": "food_drink/Girl_sipping_smoothie_at_juice_37607b0c.jpg",
+      "narration": "Maya sipped a smoothie at the juice bar. She could be careful with money and still enjoy a moment.",
+      "intro": "Cafes and kitchens tie together work, money, and the comfort of a good meal.",
+      "images": [
+        "food_drink/Girl_sipping_smoothie_at_juice_37607b0c.jpg"
+      ],
+      "title": "Girl Sipping Smoothie At Juice",
+      "variants": 1
+    },
+    {
+      "id": "da4766da5f821542",
+      "category": "food_drink",
+      "image": "food_drink/Girl_smelling_coffee_beans_8eb6c6e0.jpg",
+      "narration": "Maya smelled coffee beans. She could be careful with money and still enjoy a moment.",
+      "intro": "Cafes and kitchens tie together work, money, and the comfort of a good meal.",
+      "images": [
+        "food_drink/Girl_smelling_coffee_beans_8eb6c6e0.jpg"
+      ],
+      "title": "Girl Smelling Coffee Beans",
+      "variants": 1
+    },
+    {
+      "id": "8f2d70839a0c0e38",
+      "category": "food_drink",
+      "image": "food_drink/Girl_sorting_bottles_in_cellar_ef0e6c19.jpg",
+      "narration": "Maya sorted bottles in the cellar. A small comfort made the long day easier to carry.",
+      "intro": "Cafes and kitchens tie together work, money, and the comfort of a good meal.",
+      "images": [
+        "food_drink/Girl_sorting_bottles_in_cellar_ef0e6c19.jpg"
+      ],
+      "title": "Girl Sorting Bottles In Cellar",
+      "variants": 1
+    },
+    {
+      "id": "e0077babdc87c983",
+      "category": "food_drink",
+      "image": "food_drink/Girl_spilling_coffee_at_cafe_3ecfddc2.jpg",
+      "narration": "Maya spilled coffee at the cafe. She could be careful with money and still enjoy a moment.",
+      "intro": "Cafes and kitchens tie together work, money, and the comfort of a good meal.",
+      "images": [
+        "food_drink/Girl_spilling_coffee_at_cafe_3ecfddc2.jpg",
+        "food_drink/Girl_spilling_coffee_at_cafe_b13dad85.jpg",
+        "food_drink/Girl_spilling_coffee_at_cafe_e8bec485.jpg"
+      ],
+      "title": "Girl Spilling Coffee At Cafe",
+      "variants": 3
+    },
+    {
+      "id": "7114e02184af3e26",
+      "category": "food_drink",
+      "image": "food_drink/Girl_stealing_in_a_shop_51c12b5a.jpg",
+      "narration": "Maya faced a tempting shortcut. She thought about the trouble it could bring and chose to step back.",
+      "intro": "Cafes and kitchens tie together work, money, and the comfort of a good meal.",
+      "images": [
+        "food_drink/Girl_stealing_in_a_shop_51c12b5a.jpg"
+      ],
+      "title": "Girl Stealing In A Shop",
+      "variants": 1
+    },
+    {
+      "id": "a6cc4ac02a94432b",
+      "category": "food_drink",
+      "image": "food_drink/Girl_stealing_in_shop_618e0e69.jpg",
+      "narration": "Maya faced a tempting shortcut. She thought about the trouble it could bring and chose to step back.",
+      "intro": "Cafes and kitchens tie together work, money, and the comfort of a good meal.",
+      "images": [
+        "food_drink/Girl_stealing_in_shop_618e0e69.jpg",
+        "food_drink/Girl_stealing_in_shop_d004a407.jpg"
+      ],
+      "title": "Girl Stealing In Shop",
+      "variants": 2
+    },
+    {
+      "id": "7e645ead1b98a9ba",
+      "category": "food_drink",
+      "image": "food_drink/Girl_surprised_in_pizza_parlor_00b98e57.jpg",
+      "narration": "Something unexpected happened at the pizza parlor. Maya took a breath and chose curiosity over panic.",
+      "intro": "Cafes and kitchens tie together work, money, and the comfort of a good meal.",
+      "images": [
+        "food_drink/Girl_surprised_in_pizza_parlor_00b98e57.jpg",
+        "food_drink/Girl_surprised_in_pizza_parlor_37315825.jpg"
+      ],
+      "title": "Girl Surprised In Pizza Parlor",
+      "variants": 2
+    },
+    {
+      "id": "42bfe6d9d8149b22",
+      "category": "food_drink",
+      "image": "food_drink/Girl_waiting_at_food_counter_8e1a08ab.jpg",
+      "narration": "Maya waited at the food counter. A small comfort made the long day easier to carry.",
+      "intro": "Cafes and kitchens tie together work, money, and the comfort of a good meal.",
+      "images": [
+        "food_drink/Girl_waiting_at_food_counter_8e1a08ab.jpg"
+      ],
+      "title": "Girl Waiting At Food Counter",
+      "variants": 1
+    },
+    {
+      "id": "7519584f1a7ca0eb",
+      "category": "food_drink",
+      "image": "food_drink/Girl_waiting_for_food_delivery_8fe7f5db.jpg",
+      "narration": "Maya waited for a food delivery. She could be careful with money and still enjoy a moment.",
+      "intro": "Cafes and kitchens tie together work, money, and the comfort of a good meal.",
+      "images": [
+        "food_drink/Girl_waiting_for_food_delivery_8fe7f5db.jpg"
+      ],
+      "title": "Girl Waiting For Food Delivery",
+      "variants": 1
+    },
+    {
+      "id": "97297466e48ec864",
+      "category": "food_drink",
+      "image": "food_drink/__LOCATION____[(Sunny_vineyard_+_tasting_bc5747bc.jpg",
+      "narration": "Maya sunnied a vineyard tasting. She could be careful with money and still enjoy a moment.",
+      "intro": "Cafes and kitchens tie together work, money, and the comfort of a good meal.",
+      "images": [
+        "food_drink/__LOCATION____[(Sunny_vineyard_+_tasting_bc5747bc.jpg"
+      ],
+      "title": "Location Sunny Vineyard Tasting",
+      "variants": 1
+    },
+    {
+      "id": "b32439281389d126",
+      "category": "food_drink",
+      "image": "food_drink/Maya_holding_coffee_in_bookstore_ebef8a10.jpg",
+      "narration": "Maya held coffee in the bookstore. She could be careful with money and still enjoy a moment.",
+      "intro": "Cafes and kitchens tie together work, money, and the comfort of a good meal.",
+      "images": [
+        "food_drink/Maya_holding_coffee_in_bookstore_ebef8a10.jpg"
+      ],
+      "title": "Maya Holding Coffee In Bookstore",
+      "variants": 1
+    },
+    {
+      "id": "77c4028e6336dab1",
+      "category": "food_drink",
+      "image": "food_drink/Maya_negotiating_cafe_shift_swap_42340c79.jpg",
+      "narration": "Maya negotiated a cafe shift swap. A small comfort made the long day easier to carry.",
+      "intro": "Cafes and kitchens tie together work, money, and the comfort of a good meal.",
+      "images": [
+        "food_drink/Maya_negotiating_cafe_shift_swap_42340c79.jpg"
+      ],
+      "title": "Maya Negotiating Cafe Shift Swap",
+      "variants": 1
+    },
+    {
+      "id": "f4b6c937a5731fcd",
+      "category": "food_drink",
+      "image": "food_drink/Maya_walking_at_cafe_counter_eae7d418.jpg",
+      "narration": "Maya walked at the cafe counter. A small comfort made the long day easier to carry.",
+      "intro": "Cafes and kitchens tie together work, money, and the comfort of a good meal.",
+      "images": [
+        "food_drink/Maya_walking_at_cafe_counter_eae7d418.jpg"
+      ],
+      "title": "Maya Walking At Cafe Counter",
+      "variants": 1
+    },
+    {
+      "id": "dd03ad2ced419fbd",
+      "category": "food_drink",
+      "image": "food_drink/Surprised_girl_at_ramen_shop_718fa667.jpg",
+      "narration": "Something unexpected happened at the ramen shop. Maya took a breath and chose curiosity over panic.",
+      "intro": "Cafes and kitchens tie together work, money, and the comfort of a good meal.",
+      "images": [
+        "food_drink/Surprised_girl_at_ramen_shop_718fa667.jpg"
+      ],
+      "title": "Surprised Girl At Ramen Shop",
+      "variants": 1
+    },
+    {
+      "id": "f8bba69c0c5f0724",
+      "category": "food_drink",
+      "image": "food_drink/Surprised_girl_in_coffee_roastery_4137f10e.jpg",
+      "narration": "Something unexpected happened at the coffee roastery. Maya took a breath and chose curiosity over panic.",
+      "intro": "Cafes and kitchens tie together work, money, and the comfort of a good meal.",
+      "images": [
+        "food_drink/Surprised_girl_in_coffee_roastery_4137f10e.jpg"
+      ],
+      "title": "Surprised Girl In Coffee Roastery",
+      "variants": 1
+    },
+    {
+      "id": "8e0496c50cf02394",
+      "category": "food_drink",
+      "image": "food_drink/Surprised_girl_in_pizza_parlor_a885749a.jpg",
+      "narration": "Something unexpected happened at the pizza parlor. Maya took a breath and chose curiosity over panic.",
+      "intro": "Cafes and kitchens tie together work, money, and the comfort of a good meal.",
+      "images": [
+        "food_drink/Surprised_girl_in_pizza_parlor_a885749a.jpg"
+      ],
+      "title": "Surprised Girl In Pizza Parlor",
+      "variants": 1
+    },
+    {
+      "id": "f0f1019b2410eb24",
+      "category": "food_drink",
+      "image": "food_drink/Surprised_girl_sipping_smoothie_f9ef1b9c.jpg",
+      "narration": "Something unexpected happened at the city. Maya took a breath and chose curiosity over panic.",
+      "intro": "Cafes and kitchens tie together work, money, and the comfort of a good meal.",
+      "images": [
+        "food_drink/Surprised_girl_sipping_smoothie_f9ef1b9c.jpg"
+      ],
+      "title": "Surprised Girl Sipping Smoothie",
+      "variants": 1
+    },
+    {
+      "id": "5435087dc5f6c555",
+      "category": "food_drink",
+      "image": "food_drink/Surprised_girl_spilling_chili_179e4644.jpg",
+      "narration": "Something unexpected happened at the city. Maya took a breath and chose curiosity over panic.",
+      "intro": "Cafes and kitchens tie together work, money, and the comfort of a good meal.",
+      "images": [
+        "food_drink/Surprised_girl_spilling_chili_179e4644.jpg"
+      ],
+      "title": "Surprised Girl Spilling Chili",
+      "variants": 1
+    },
+    {
+      "id": "eee4398e2e0830f8",
+      "category": "food_drink",
+      "image": "food_drink/Woman_adjusting_strap_in_bakery_ac125120.jpg",
+      "narration": "Maya adjusted a strap in the bakery. She could be careful with money and still enjoy a moment.",
+      "intro": "Cafes and kitchens tie together work, money, and the comfort of a good meal.",
+      "images": [
+        "food_drink/Woman_adjusting_strap_in_bakery_ac125120.jpg"
+      ],
+      "title": "Woman Adjusting Strap In Bakery",
+      "variants": 1
+    },
+    {
+      "id": "cda7a0a6a46f1b9b",
+      "category": "food_drink",
+      "image": "food_drink/Woman_counting_tips_in_cafe_7302d0c9.jpg",
+      "narration": "Maya counted tips in the cafe. She could be careful with money and still enjoy a moment.",
+      "intro": "Cafes and kitchens tie together work, money, and the comfort of a good meal.",
+      "images": [
+        "food_drink/Woman_counting_tips_in_cafe_7302d0c9.jpg"
+      ],
+      "title": "Woman Counting Tips In Cafe",
+      "variants": 1
+    },
+    {
+      "id": "e87683a4572a072d",
+      "category": "food_drink",
+      "image": "food_drink/Woman_drinking_espresso_on_rooftop_31a4ddb9.jpg",
+      "narration": "Maya drank an espresso on the rooftop. A small comfort made the long day easier to carry.",
+      "intro": "Cafes and kitchens tie together work, money, and the comfort of a good meal.",
+      "images": [
+        "food_drink/Woman_drinking_espresso_on_rooftop_31a4ddb9.jpg"
+      ],
+      "title": "Woman Drinking Espresso On Rooftop",
+      "variants": 1
+    },
+    {
+      "id": "d95f60cade4a2ba6",
+      "category": "food_drink",
+      "image": "food_drink/Woman_holding_coffee_cup_outdoors_e8f653f9.jpg",
+      "narration": "Maya held coffee cup outdoors. She could be careful with money and still enjoy a moment.",
+      "intro": "Cafes and kitchens tie together work, money, and the comfort of a good meal.",
+      "images": [
+        "food_drink/Woman_holding_coffee_cup_outdoors_e8f653f9.jpg"
+      ],
+      "title": "Woman Holding Coffee Cup Outdoors",
+      "variants": 1
+    },
+    {
+      "id": "f519506e5337cb96",
+      "category": "food_drink",
+      "image": "food_drink/Woman_holding_coffee_in_lobby_78bbfb71.jpg",
+      "narration": "Maya held coffee in the lobby. She could be careful with money and still enjoy a moment.",
+      "intro": "Cafes and kitchens tie together work, money, and the comfort of a good meal.",
+      "images": [
+        "food_drink/Woman_holding_coffee_in_lobby_78bbfb71.jpg",
+        "food_drink/Woman_holding_coffee_in_lobby_b406926e.jpg"
+      ],
+      "title": "Woman Holding Coffee In Lobby",
+      "variants": 2
+    },
+    {
+      "id": "26589b3690dd12ef",
+      "category": "food_drink",
+      "image": "food_drink/Woman_interviewing_for_barista_job_5d7c9364.jpg",
+      "narration": "Maya interviewed for the barista job. A small comfort made the long day easier to carry.",
+      "intro": "Cafes and kitchens tie together work, money, and the comfort of a good meal.",
+      "images": [
+        "food_drink/Woman_interviewing_for_barista_job_5d7c9364.jpg"
+      ],
+      "title": "Woman Interviewing For Barista Job",
+      "variants": 1
+    },
+    {
+      "id": "867031dd2fc5d284",
+      "category": "food_drink",
+      "image": "food_drink/Woman_resting_chin_in_bakery_bb1761b2.jpg",
+      "narration": "Maya rested a chin in the bakery. She could be careful with money and still enjoy a moment.",
+      "intro": "Cafes and kitchens tie together work, money, and the comfort of a good meal.",
+      "images": [
+        "food_drink/Woman_resting_chin_in_bakery_bb1761b2.jpg"
+      ],
+      "title": "Woman Resting Chin In Bakery",
+      "variants": 1
+    },
+    {
+      "id": "710e0ec99183840e",
+      "category": "food_drink",
+      "image": "food_drink/Woman_standing_at_cafe_counter_4b1b0c5e.jpg",
+      "narration": "Maya stood at the cafe counter. A small comfort made the long day easier to carry.",
+      "intro": "Cafes and kitchens tie together work, money, and the comfort of a good meal.",
+      "images": [
+        "food_drink/Woman_standing_at_cafe_counter_4b1b0c5e.jpg"
+      ],
+      "title": "Woman Standing At Cafe Counter",
+      "variants": 1
+    },
+    {
+      "id": "126ae36ac14e295c",
+      "category": "food_drink",
+      "image": "food_drink/Woman_walking_in_cafe_74040381.jpg",
+      "narration": "Maya walked in the cafe. She could be careful with money and still enjoy a moment.",
+      "intro": "Cafes and kitchens tie together work, money, and the comfort of a good meal.",
+      "images": [
+        "food_drink/Woman_walking_in_cafe_74040381.jpg"
+      ],
+      "title": "Woman Walking In Cafe",
+      "variants": 1
+    },
+    {
+      "id": "5ba5144f0c162198",
+      "category": "general_scenes",
+      "image": "general_scenes/Girl_interacting_with_environmen_1232b621.jpg",
+      "narration": "Maya shared a quiet exchange with someone she did not yet know. The conversation left the city feeling less anonymous.",
+      "intro": "Unexpected moments give Maya a reason to pause and choose what comes next.",
+      "images": [
+        "general_scenes/Girl_interacting_with_environmen_1232b621.jpg",
+        "general_scenes/Girl_interacting_with_environmen_da6b7604.jpg"
+      ],
+      "title": "Girl Interacting With Environmen",
+      "variants": 2
+    },
+    {
+      "id": "dc67ccb7b079b79c",
+      "category": "general_scenes",
+      "image": "general_scenes/Girl_looking_surprised_in_music_70531db5.jpg",
+      "narration": "Something unexpected happened at the music. Maya took a breath and chose curiosity over panic.",
+      "intro": "Unexpected moments give Maya a reason to pause and choose what comes next.",
+      "images": [
+        "general_scenes/Girl_looking_surprised_in_music_70531db5.jpg"
+      ],
+      "title": "Girl Looking Surprised In Music",
+      "variants": 1
+    },
+    {
+      "id": "452cfeb7840b2661",
+      "category": "general_scenes",
+      "image": "general_scenes/Girl_on_merry_go_round_45c58cae.jpg",
+      "narration": "Maya paused and took in the scene. She was learning to notice the small moments that made a place feel real.",
+      "intro": "Unexpected moments give Maya a reason to pause and choose what comes next.",
+      "images": [
+        "general_scenes/Girl_on_merry_go_round_45c58cae.jpg"
+      ],
+      "title": "Girl On Merry Go Round",
+      "variants": 1
+    },
+    {
+      "id": "1658af5d7be1504f",
+      "category": "general_scenes",
+      "image": "general_scenes/Girl_posing_on_playground_merry-_5a8f1e1d.jpg",
+      "narration": "Maya paused for a photo on the playground merry. She made a note to remember how this felt.",
+      "intro": "Unexpected moments give Maya a reason to pause and choose what comes next.",
+      "images": [
+        "general_scenes/Girl_posing_on_playground_merry-_5a8f1e1d.jpg"
+      ],
+      "title": "Girl Posing On Playground Merry",
+      "variants": 1
+    },
+    {
+      "id": "530bc6063374608d",
+      "category": "general_scenes",
+      "image": "general_scenes/Girl_standing_in_abandoned_class_40ec6418.jpg",
+      "narration": "Maya stood in the abandoned class. For a few seconds, the rush of the city eased.",
+      "intro": "Unexpected moments give Maya a reason to pause and choose what comes next.",
+      "images": [
+        "general_scenes/Girl_standing_in_abandoned_class_40ec6418.jpg",
+        "general_scenes/Girl_standing_in_abandoned_class_7575887d.jpg"
+      ],
+      "title": "Girl Standing In Abandoned Class",
+      "variants": 2
+    },
+    {
+      "id": "00136031c11b2319",
+      "category": "general_scenes",
+      "image": "general_scenes/Girl_talking_on_phone_6816365e.jpg",
+      "narration": "Maya talked on the phone. She made a note to remember how this felt.",
+      "intro": "Unexpected moments give Maya a reason to pause and choose what comes next.",
+      "images": [
+        "general_scenes/Girl_talking_on_phone_6816365e.jpg"
+      ],
+      "title": "Girl Talking On Phone",
+      "variants": 1
+    },
+    {
+      "id": "7050c2440db669b9",
+      "category": "general_scenes",
+      "image": "general_scenes/Girl_using_computer_in_lab_28c9233f.jpg",
+      "narration": "Maya used a computer in the lab. A small choice felt like the beginning of something.",
+      "intro": "Unexpected moments give Maya a reason to pause and choose what comes next.",
+      "images": [
+        "general_scenes/Girl_using_computer_in_lab_28c9233f.jpg"
+      ],
+      "title": "Girl Using Computer In Lab",
+      "variants": 1
+    },
+    {
+      "id": "9e38851c5c1a4a57",
+      "category": "general_scenes",
+      "image": "general_scenes/Maya_pocketing_spare_keycard_c6faff60.jpg",
+      "narration": "Maya pocketted a spare keycard. It was an ordinary moment, but it belonged to her.",
+      "intro": "Unexpected moments give Maya a reason to pause and choose what comes next.",
+      "images": [
+        "general_scenes/Maya_pocketing_spare_keycard_c6faff60.jpg"
+      ],
+      "title": "Maya Pocketing Spare Keycard",
+      "variants": 1
+    },
+    {
+      "id": "aed60ea56e084e8b",
+      "category": "general_scenes",
+      "image": "general_scenes/Surprised_girl_mixing_paint_c6df9f4e.jpg",
+      "narration": "Something unexpected happened at the city. Maya took a breath and chose curiosity over panic.",
+      "intro": "Unexpected moments give Maya a reason to pause and choose what comes next.",
+      "images": [
+        "general_scenes/Surprised_girl_mixing_paint_c6df9f4e.jpg"
+      ],
+      "title": "Surprised Girl Mixing Paint",
+      "variants": 1
+    },
+    {
+      "id": "3eea07645592e5c2",
+      "category": "general_scenes",
+      "image": "general_scenes/Woman_drinking_on_fire_escape_810c280f.jpg",
+      "narration": "Maya drank on the fire escape. She made a note to remember how this felt.",
+      "intro": "Unexpected moments give Maya a reason to pause and choose what comes next.",
+      "images": [
+        "general_scenes/Woman_drinking_on_fire_escape_810c280f.jpg"
+      ],
+      "title": "Woman Drinking On Fire Escape",
+      "variants": 1
+    },
+    {
+      "id": "07da8d3c79b1f9e7",
+      "category": "general_scenes",
+      "image": "general_scenes/Woman_glancing_over_sunglasses_5f06def0.jpg",
+      "narration": "Maya glanced over sunglasses. For a few seconds, the rush of the city eased.",
+      "intro": "Unexpected moments give Maya a reason to pause and choose what comes next.",
+      "images": [
+        "general_scenes/Woman_glancing_over_sunglasses_5f06def0.jpg"
+      ],
+      "title": "Woman Glancing Over Sunglasses",
+      "variants": 1
+    },
+    {
+      "id": "9e2b5835f6e66c86",
+      "category": "general_scenes",
+      "image": "general_scenes/Woman_glancing_sideways_at_thrif_2c2f1542.jpg",
+      "narration": "Maya glanced sideways at the thrif. A small choice felt like the beginning of something.",
+      "intro": "Unexpected moments give Maya a reason to pause and choose what comes next.",
+      "images": [
+        "general_scenes/Woman_glancing_sideways_at_thrif_2c2f1542.jpg"
+      ],
+      "title": "Woman Glancing Sideways At Thrif",
+      "variants": 1
+    },
+    {
+      "id": "0ccf61e8490b687b",
+      "category": "general_scenes",
+      "image": "general_scenes/Woman_hiding_VIP_pass_on_43c7c0db.jpg",
+      "narration": "Maya hid a vip pass. A small choice felt like the beginning of something.",
+      "intro": "Unexpected moments give Maya a reason to pause and choose what comes next.",
+      "images": [
+        "general_scenes/Woman_hiding_VIP_pass_on_43c7c0db.jpg"
+      ],
+      "title": "Woman Hiding Vip Pass On",
+      "variants": 1
+    },
+    {
+      "id": "8773cb6e733d9b2d",
+      "category": "general_scenes",
+      "image": "general_scenes/Woman_looking_over_sunglasses_4ce60d1c.jpg",
+      "narration": "Maya looked over sunglasses. For a few seconds, the rush of the city eased.",
+      "intro": "Unexpected moments give Maya a reason to pause and choose what comes next.",
+      "images": [
+        "general_scenes/Woman_looking_over_sunglasses_4ce60d1c.jpg"
+      ],
+      "title": "Woman Looking Over Sunglasses",
+      "variants": 1
+    },
+    {
+      "id": "cf5670b69e84fd6f",
+      "category": "general_scenes",
+      "image": "general_scenes/Woman_negotiating_over_counter_056010fe.jpg",
+      "narration": "Maya negotiated an over counter. A small choice felt like the beginning of something.",
+      "intro": "Unexpected moments give Maya a reason to pause and choose what comes next.",
+      "images": [
+        "general_scenes/Woman_negotiating_over_counter_056010fe.jpg"
+      ],
+      "title": "Woman Negotiating Over Counter",
+      "variants": 1
+    },
+    {
+      "id": "c320a0491f63b9e5",
+      "category": "general_scenes",
+      "image": "general_scenes/Woman_overhearing_secret_at_counter_0724f6af.jpg",
+      "narration": "Maya overheared a secret at the counter. A small choice felt like the beginning of something.",
+      "intro": "Unexpected moments give Maya a reason to pause and choose what comes next.",
+      "images": [
+        "general_scenes/Woman_overhearing_secret_at_counter_0724f6af.jpg",
+        "general_scenes/Woman_overhearing_secret_at_counter_22c5e2af.jpg"
+      ],
+      "title": "Woman Overhearing Secret At Counter",
+      "variants": 2
+    },
+    {
+      "id": "e40f0c2a65b9d0ae",
+      "category": "general_scenes",
+      "image": "general_scenes/Woman_pausing_in_midnight_laundr_76324fb9.jpg",
+      "narration": "Maya paused in the midnight laundr. A small choice felt like the beginning of something.",
+      "intro": "Unexpected moments give Maya a reason to pause and choose what comes next.",
+      "images": [
+        "general_scenes/Woman_pausing_in_midnight_laundr_76324fb9.jpg"
+      ],
+      "title": "Woman Pausing In Midnight Laundr",
+      "variants": 1
+    },
+    {
+      "id": "9c8f09fdbfe13045",
+      "category": "general_scenes",
+      "image": "general_scenes/Woman_pocketing_keycard_at_counter_b35ae056.jpg",
+      "narration": "Maya pocketted a keycard at the counter. A small choice felt like the beginning of something.",
+      "intro": "Unexpected moments give Maya a reason to pause and choose what comes next.",
+      "images": [
+        "general_scenes/Woman_pocketing_keycard_at_counter_b35ae056.jpg"
+      ],
+      "title": "Woman Pocketing Keycard At Counter",
+      "variants": 1
+    },
+    {
+      "id": "0d83fc9e4219d246",
+      "category": "general_scenes",
+      "image": "general_scenes/Woman_pocketing_keycard_in_laund_32b5e0ea.jpg",
+      "narration": "Maya pocketted a keycard in the laund. It was an ordinary moment, but it belonged to her.",
+      "intro": "Unexpected moments give Maya a reason to pause and choose what comes next.",
+      "images": [
+        "general_scenes/Woman_pocketing_keycard_in_laund_32b5e0ea.jpg"
+      ],
+      "title": "Woman Pocketing Keycard In Laund",
+      "variants": 1
+    },
+    {
+      "id": "97cec9e115068367",
+      "category": "general_scenes",
+      "image": "general_scenes/Woman_pocketing_keycard_on_stair_f330e2f1.jpg",
+      "narration": "Maya pocketted a keycard on the stair. A small choice felt like the beginning of something.",
+      "intro": "Unexpected moments give Maya a reason to pause and choose what comes next.",
+      "images": [
+        "general_scenes/Woman_pocketing_keycard_on_stair_f330e2f1.jpg"
+      ],
+      "title": "Woman Pocketing Keycard On Stair",
+      "variants": 1
+    },
+    {
+      "id": "3f1b799a1b374691",
+      "category": "general_scenes",
+      "image": "general_scenes/Woman_resting_chin_on_hand_ae62e8ed.jpg",
+      "narration": "Maya rested a chin on the hand. It was an ordinary moment, but it belonged to her.",
+      "intro": "Unexpected moments give Maya a reason to pause and choose what comes next.",
+      "images": [
+        "general_scenes/Woman_resting_chin_on_hand_ae62e8ed.jpg"
+      ],
+      "title": "Woman Resting Chin On Hand",
+      "variants": 1
+    },
+    {
+      "id": "94954ebb5871d00d",
+      "category": "general_scenes",
+      "image": "general_scenes/Woman_walking_in_rain_b02789f0.jpg",
+      "narration": "Maya walked in the rain. A small choice felt like the beginning of something.",
+      "intro": "Unexpected moments give Maya a reason to pause and choose what comes next.",
+      "images": [
+        "general_scenes/Woman_walking_in_rain_b02789f0.jpg"
+      ],
+      "title": "Woman Walking In Rain",
+      "variants": 1
+    },
+    {
+      "id": "e1894521c0d5c7d2",
+      "category": "general_scenes",
+      "image": "general_scenes/Young_woman_counting_money_55c7090d.jpg",
+      "narration": "Maya younged a woman counting money. She made a note to remember how this felt.",
+      "intro": "Unexpected moments give Maya a reason to pause and choose what comes next.",
+      "images": [
+        "general_scenes/Young_woman_counting_money_55c7090d.jpg"
+      ],
+      "title": "Young Woman Counting Money",
+      "variants": 1
+    },
+    {
+      "id": "82fbb9ef6505cf2b",
+      "category": "general_scenes",
+      "image": "general_scenes/Young_woman_negotiating_on_stair_91cb2897.jpg",
+      "narration": "Maya younged a woman negotiating on the stair. A small choice felt like the beginning of something.",
+      "intro": "Unexpected moments give Maya a reason to pause and choose what comes next.",
+      "images": [
+        "general_scenes/Young_woman_negotiating_on_stair_91cb2897.jpg"
+      ],
+      "title": "Young Woman Negotiating On Stair",
+      "variants": 1
+    },
+    {
+      "id": "e171fc9928d85ea9",
+      "category": "general_scenes",
+      "image": "general_scenes/Young_woman_peeking_over_notebook_ae697a8a.jpg",
+      "narration": "Maya younged a woman peeking over notebook. For a few seconds, the rush of the city eased.",
+      "intro": "Unexpected moments give Maya a reason to pause and choose what comes next.",
+      "images": [
+        "general_scenes/Young_woman_peeking_over_notebook_ae697a8a.jpg"
+      ],
+      "title": "Young Woman Peeking Over Notebook",
+      "variants": 1
+    },
+    {
+      "id": "78e511cf8bcc5433",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Adding_story_start_prompts_716489eb.jpg",
+      "narration": "Maya added story start prompts. For a few seconds, the rush of the city eased.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Adding_story_start_prompts_716489eb.jpg"
+      ],
+      "title": "Adding Story Start Prompts",
+      "variants": 1
+    },
+    {
+      "id": "541ed0942b9e71e5",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Girl_adjusting_backpack_on_trail_2e706680.jpg",
+      "narration": "Maya adjusted her backpack on the trail. It was an ordinary moment, but it belonged to her.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Girl_adjusting_backpack_on_trail_2e706680.jpg",
+        "hobbies_outdoors/Girl_adjusting_backpack_on_trail_9af182c1.jpg"
+      ],
+      "title": "Girl Adjusting Backpack On Trail",
+      "variants": 2
+    },
+    {
+      "id": "bd8ae0cacbf97e62",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Girl_admiring_museum_sculpture_0f873907.jpg",
+      "narration": "Maya admired a museum sculpture. She made a note to remember how this felt.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Girl_admiring_museum_sculpture_0f873907.jpg",
+        "hobbies_outdoors/Girl_admiring_museum_sculpture_470178e5.jpg"
+      ],
+      "title": "Girl Admiring Museum Sculpture",
+      "variants": 2
+    },
+    {
+      "id": "9d28041c60f7a428",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Girl_and_boy_in_alley_f5e4e71d.jpg",
+      "narration": "Maya shared a close moment with someone she was getting to know. It felt good to be wanted, and she still kept her own boundaries in view.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Girl_and_boy_in_alley_f5e4e71d.jpg"
+      ],
+      "title": "Girl And Boy In Alley",
+      "variants": 1
+    },
+    {
+      "id": "e32287e16cab9a63",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Girl_at_beach_bonfire_6dfd375d.jpg",
+      "narration": "Maya paused and took in the scene. She was learning to notice the small moments that made a place feel real.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Girl_at_beach_bonfire_6dfd375d.jpg"
+      ],
+      "title": "Girl At Beach Bonfire",
+      "variants": 1
+    },
+    {
+      "id": "83240dd3deec841c",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Girl_balancing_on_rooftop_helipad_03162029.jpg",
+      "narration": "Maya balanced on the rooftop helipad. It was an ordinary moment, but it belonged to her.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Girl_balancing_on_rooftop_helipad_03162029.jpg"
+      ],
+      "title": "Girl Balancing On Rooftop Helipad",
+      "variants": 1
+    },
+    {
+      "id": "be6c1315397caa49",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Girl_chasing_flying_scarf_beachside_4dfb8fe4.jpg",
+      "narration": "Maya chased a flying scarf beachside. She made a note to remember how this felt.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Girl_chasing_flying_scarf_beachside_4dfb8fe4.jpg",
+        "hobbies_outdoors/Girl_chasing_flying_scarf_beachside_892be567.jpg"
+      ],
+      "title": "Girl Chasing Flying Scarf Beachside",
+      "variants": 2
+    },
+    {
+      "id": "4d07b692e26ec7b4",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Girl_checking_bike_tire_f2d2e5cf.jpg",
+      "narration": "Maya checked a bike tire. She made a note to remember how this felt.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Girl_checking_bike_tire_f2d2e5cf.jpg"
+      ],
+      "title": "Girl Checking Bike Tire",
+      "variants": 1
+    },
+    {
+      "id": "24f22704503a2da8",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Girl_dodging_planets_at_observatory_2fa17b07.jpg",
+      "narration": "Maya dodged planets at the observatory. She made a note to remember how this felt.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Girl_dodging_planets_at_observatory_2fa17b07.jpg"
+      ],
+      "title": "Girl Dodging Planets At Observatory",
+      "variants": 1
+    },
+    {
+      "id": "b28f0b0322e1cdce",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Girl_doing_squats_in_gym_a4c7a634.jpg",
+      "narration": "Maya did squats in the gym. She made a note to remember how this felt.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Girl_doing_squats_in_gym_a4c7a634.jpg",
+        "hobbies_outdoors/Girl_doing_squats_in_gym_a9628d83.jpg"
+      ],
+      "title": "Girl Doing Squats In Gym",
+      "variants": 2
+    },
+    {
+      "id": "7563118087844a64",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Girl_fixing_arcade_machine_9ebe0266.jpg",
+      "narration": "Maya fixed an arcade machine. She made a note to remember how this felt.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Girl_fixing_arcade_machine_9ebe0266.jpg",
+        "hobbies_outdoors/Girl_fixing_arcade_machine_b26d13e2.jpg"
+      ],
+      "title": "Girl Fixing Arcade Machine",
+      "variants": 2
+    },
+    {
+      "id": "702a9d3115d6d485",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Girl_hiding_laugh_in_library_03050b05.jpg",
+      "narration": "Maya hid a laugh in the library. She made a note to remember how this felt.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Girl_hiding_laugh_in_library_03050b05.jpg"
+      ],
+      "title": "Girl Hiding Laugh In Library",
+      "variants": 1
+    },
+    {
+      "id": "23faed24fb6327e8",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Girl_lacing_skates_ice_rink_3ca28c17.jpg",
+      "narration": "Maya laced skates at the ice rink. For a few seconds, the rush of the city eased.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Girl_lacing_skates_ice_rink_3ca28c17.jpg"
+      ],
+      "title": "Girl Lacing Skates Ice Rink",
+      "variants": 1
+    },
+    {
+      "id": "450e6b01346dde20",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Girl_playing_arcade_pinball_94046a68.jpg",
+      "narration": "Maya played an arcade pinball. It was an ordinary moment, but it belonged to her.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Girl_playing_arcade_pinball_94046a68.jpg",
+        "hobbies_outdoors/Girl_playing_arcade_pinball_f7f87537.jpg"
+      ],
+      "title": "Girl Playing Arcade Pinball",
+      "variants": 2
+    },
+    {
+      "id": "bfbc6b5591f94fd4",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Girl_playing_pinball_arcade_19cb7a8a.jpg",
+      "narration": "Maya played a pinball arcade. She made a note to remember how this felt.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Girl_playing_pinball_arcade_19cb7a8a.jpg"
+      ],
+      "title": "Girl Playing Pinball Arcade",
+      "variants": 1
+    },
+    {
+      "id": "160e69ed7ab57d79",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Girl_playing_retro_arcade_pinball_0816c83e.jpg",
+      "narration": "Maya played a retro arcade pinball. It was an ordinary moment, but it belonged to her.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Girl_playing_retro_arcade_pinball_0816c83e.jpg"
+      ],
+      "title": "Girl Playing Retro Arcade Pinball",
+      "variants": 1
+    },
+    {
+      "id": "b0f876de4d81b922",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Girl_playing_skee-ball_arcade_7ab9adbb.jpg",
+      "narration": "Maya played a skee ball arcade. She made a note to remember how this felt.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Girl_playing_skee-ball_arcade_7ab9adbb.jpg",
+        "hobbies_outdoors/Girl_playing_skee-ball_arcade_818f45c9.jpg"
+      ],
+      "title": "Girl Playing Skee Ball Arcade",
+      "variants": 2
+    },
+    {
+      "id": "3b670442821c0c93",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Girl_posing_at_mountain_observatory_d01e5709.jpg",
+      "narration": "Maya paused for a photo at the mountain observatory. She made a note to remember how this felt.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Girl_posing_at_mountain_observatory_d01e5709.jpg"
+      ],
+      "title": "Girl Posing At Mountain Observatory",
+      "variants": 1
+    },
+    {
+      "id": "301b9a1229c96b93",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Girl_posing_at_museum_7f0c4172.jpg",
+      "narration": "Maya paused for a photo at the museum. She made a note to remember how this felt.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Girl_posing_at_museum_7f0c4172.jpg"
+      ],
+      "title": "Girl Posing At Museum",
+      "variants": 1
+    },
+    {
+      "id": "194767a60261ac76",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Girl_posing_at_skate_park_6c972ade.jpg",
+      "narration": "Maya paused for a photo at the skate park. For a few seconds, the rush of the city eased.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Girl_posing_at_skate_park_6c972ade.jpg"
+      ],
+      "title": "Girl Posing At Skate Park",
+      "variants": 1
+    },
+    {
+      "id": "d0a4ffffedc1ebd7",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Girl_posing_at_skating_rink_a4f3f925.jpg",
+      "narration": "Maya paused for a photo at the skating rink. For a few seconds, the rush of the city eased.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Girl_posing_at_skating_rink_a4f3f925.jpg"
+      ],
+      "title": "Girl Posing At Skating Rink",
+      "variants": 1
+    },
+    {
+      "id": "e68ee2d32b622aa2",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Girl_posing_in_alley_2e0ba4e4.jpg",
+      "narration": "Maya paused for a photo in the alley. She made a note to remember how this felt.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Girl_posing_in_alley_2e0ba4e4.jpg",
+        "hobbies_outdoors/Girl_posing_in_alley_c4d394ff.jpg"
+      ],
+      "title": "Girl Posing In Alley",
+      "variants": 2
+    },
+    {
+      "id": "edcec56ea4415328",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Girl_posing_in_arcade_basement_2b945c53.jpg",
+      "narration": "Maya paused for a photo in the arcade basement. It was an ordinary moment, but it belonged to her.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Girl_posing_in_arcade_basement_2b945c53.jpg"
+      ],
+      "title": "Girl Posing In Arcade Basement",
+      "variants": 1
+    },
+    {
+      "id": "3521dfac034797ea",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Girl_posing_in_greenhouse_nursery_85c85507.jpg",
+      "narration": "Maya paused for a photo in the greenhouse nursery. She made a note to remember how this felt.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Girl_posing_in_greenhouse_nursery_85c85507.jpg"
+      ],
+      "title": "Girl Posing In Greenhouse Nursery",
+      "variants": 1
+    },
+    {
+      "id": "3e956515331ed3f9",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Girl_posing_in_museum_163e42a2.jpg",
+      "narration": "Maya paused for a photo in the museum. She made a note to remember how this felt.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Girl_posing_in_museum_163e42a2.jpg",
+        "hobbies_outdoors/Girl_posing_in_museum_5465d755.jpg",
+        "hobbies_outdoors/Girl_posing_in_museum_7c3f8ea8.jpg"
+      ],
+      "title": "Girl Posing In Museum",
+      "variants": 3
+    },
+    {
+      "id": "9898976b9becdbfb",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Girl_posing_in_museum_storage_2d59e413.jpg",
+      "narration": "Maya paused for a photo in the museum storage. She made a note to remember how this felt.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Girl_posing_in_museum_storage_2d59e413.jpg",
+        "hobbies_outdoors/Girl_posing_in_museum_storage_a273b08f.jpg"
+      ],
+      "title": "Girl Posing In Museum Storage",
+      "variants": 2
+    },
+    {
+      "id": "57dbc264882d3573",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Girl_posing_in_planetarium_lobby_ef18c41a.jpg",
+      "narration": "Maya paused for a photo in the planetarium lobby. She made a note to remember how this felt.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Girl_posing_in_planetarium_lobby_ef18c41a.jpg"
+      ],
+      "title": "Girl Posing In Planetarium Lobby",
+      "variants": 1
+    },
+    {
+      "id": "defe1008393fde2c",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Girl_posing_in_rooftop_greenhouse_f66ee041.jpg",
+      "narration": "Maya paused for a photo in the rooftop greenhouse. She made a note to remember how this felt.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Girl_posing_in_rooftop_greenhouse_f66ee041.jpg"
+      ],
+      "title": "Girl Posing In Rooftop Greenhouse",
+      "variants": 1
+    },
+    {
+      "id": "1ac5bf7270005105",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Girl_posing_in_skating_rink_3157641a.jpg",
+      "narration": "Maya paused for a photo in the skating rink. For a few seconds, the rush of the city eased.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Girl_posing_in_skating_rink_3157641a.jpg"
+      ],
+      "title": "Girl Posing In Skating Rink",
+      "variants": 1
+    },
+    {
+      "id": "0f122d5bd65e9434",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Girl_posing_on_beach_at_0f0cae60.jpg",
+      "narration": "Maya paused for a photo on the beach at. It was an ordinary moment, but it belonged to her.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Girl_posing_on_beach_at_0f0cae60.jpg"
+      ],
+      "title": "Girl Posing On Beach At",
+      "variants": 1
+    },
+    {
+      "id": "6c19de6e07a49e59",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Girl_posing_on_merry-go-round_0280ee66.jpg",
+      "narration": "Maya paused for a photo on the merry go round. It was an ordinary moment, but it belonged to her.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Girl_posing_on_merry-go-round_0280ee66.jpg",
+        "hobbies_outdoors/Girl_posing_on_merry-go-round_ddaf2add.jpg"
+      ],
+      "title": "Girl Posing On Merry Go Round",
+      "variants": 2
+    },
+    {
+      "id": "4f4093c176bc9fb8",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Girl_posing_on_rooftop_cinema_4e2461a0.jpg",
+      "narration": "Maya paused for a photo on the rooftop cinema. She made a note to remember how this felt.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Girl_posing_on_rooftop_cinema_4e2461a0.jpg"
+      ],
+      "title": "Girl Posing On Rooftop Cinema",
+      "variants": 1
+    },
+    {
+      "id": "59a007b4642fcbbf",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Girl_reading_paperback_on_beach_3040d184.jpg",
+      "narration": "Maya read a paperback on the beach. It was an ordinary moment, but it belonged to her.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Girl_reading_paperback_on_beach_3040d184.jpg"
+      ],
+      "title": "Girl Reading Paperback On Beach",
+      "variants": 1
+    },
+    {
+      "id": "5e5de42f9f313d5e",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Girl_reading_textbook_in_library_58452c9e.jpg",
+      "narration": "Maya read her textbook in the library. She made a note to remember how this felt.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Girl_reading_textbook_in_library_58452c9e.jpg"
+      ],
+      "title": "Girl Reading Textbook In Library",
+      "variants": 1
+    },
+    {
+      "id": "ac9bb4cf5efe72d6",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Girl_repairing_radio_in_desert_91d9066e.jpg",
+      "narration": "Maya repaired a radio in the desert. It was an ordinary moment, but it belonged to her.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Girl_repairing_radio_in_desert_91d9066e.jpg"
+      ],
+      "title": "Girl Repairing Radio In Desert",
+      "variants": 1
+    },
+    {
+      "id": "3b0ea9cd42c033b7",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Girl_shaping_clay_in_pottery_8cfd98a4.jpg",
+      "narration": "Maya shaped a clay in the pottery. She made a note to remember how this felt.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Girl_shaping_clay_in_pottery_8cfd98a4.jpg",
+        "hobbies_outdoors/Girl_shaping_clay_in_pottery_c0c3f050.jpg"
+      ],
+      "title": "Girl Shaping Clay In Pottery",
+      "variants": 2
+    },
+    {
+      "id": "1a764775d2964668",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Girl_shaping_clay_in_studio_905e2647.jpg",
+      "narration": "Maya shaped a clay in the studio. For a few seconds, the rush of the city eased.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Girl_shaping_clay_in_studio_905e2647.jpg"
+      ],
+      "title": "Girl Shaping Clay In Studio",
+      "variants": 1
+    },
+    {
+      "id": "1733afe3271f251b",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Girl_skating_at_indoor_rink_985ba5a9.jpg",
+      "narration": "Maya skated at the indoor rink. For a few seconds, the rush of the city eased.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Girl_skating_at_indoor_rink_985ba5a9.jpg"
+      ],
+      "title": "Girl Skating At Indoor Rink",
+      "variants": 1
+    },
+    {
+      "id": "22bb399d21c6e1fb",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Girl_sketching_ferns_in_conserva_acb88557.jpg",
+      "narration": "Maya sketched ferns in the conserva. She made a note to remember how this felt.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Girl_sketching_ferns_in_conserva_acb88557.jpg",
+        "hobbies_outdoors/Girl_sketching_ferns_in_conserva_cc50f224.jpg"
+      ],
+      "title": "Girl Sketching Ferns In Conserva",
+      "variants": 2
+    },
+    {
+      "id": "0d2532006148a32c",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Girl_smelling_jasmine_in_garden_2a6be59c.jpg",
+      "narration": "Maya smelled a jasmine in the garden. A small choice felt like the beginning of something.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Girl_smelling_jasmine_in_garden_2a6be59c.jpg",
+        "hobbies_outdoors/Girl_smelling_jasmine_in_garden_4c8cb981.jpg"
+      ],
+      "title": "Girl Smelling Jasmine In Garden",
+      "variants": 2
+    },
+    {
+      "id": "cca883ad7caff637",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Girl_smelling_roses_in_garden_d117d8fc.jpg",
+      "narration": "Maya smelled roses in the garden. A small choice felt like the beginning of something.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Girl_smelling_roses_in_garden_d117d8fc.jpg",
+        "hobbies_outdoors/Girl_smelling_roses_in_garden_d8e7313f.jpg"
+      ],
+      "title": "Girl Smelling Roses In Garden",
+      "variants": 2
+    },
+    {
+      "id": "4752f5f0cb36dadf",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Girl_smoking_in_alley_corner_0984fd50.jpg",
+      "narration": "Maya faced a tempting shortcut. She thought about the trouble it could bring and chose to step back.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Girl_smoking_in_alley_corner_0984fd50.jpg",
+        "hobbies_outdoors/Girl_smoking_in_alley_corner_26b1b355.jpg"
+      ],
+      "title": "Girl Smoking In Alley Corner",
+      "variants": 2
+    },
+    {
+      "id": "450ddb719009a2be",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Girl_sorting_library_books_c230afae.jpg",
+      "narration": "Maya sorted library books. For a few seconds, the rush of the city eased.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Girl_sorting_library_books_c230afae.jpg",
+        "hobbies_outdoors/Girl_sorting_library_books_dac66a34.jpg"
+      ],
+      "title": "Girl Sorting Library Books",
+      "variants": 2
+    },
+    {
+      "id": "65f93d789b707958",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Girl_standing_in_abandoned_alley_153bfe0e.jpg",
+      "narration": "Maya stood in the abandoned alley. She made a note to remember how this felt.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Girl_standing_in_abandoned_alley_153bfe0e.jpg",
+        "hobbies_outdoors/Girl_standing_in_abandoned_alley_d070993a.jpg"
+      ],
+      "title": "Girl Standing In Abandoned Alley",
+      "variants": 2
+    },
+    {
+      "id": "1f95da38ec06638b",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Girl_standing_in_alley_d7239ba1.jpg",
+      "narration": "Maya stood in the alley. She made a note to remember how this felt.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Girl_standing_in_alley_d7239ba1.jpg"
+      ],
+      "title": "Girl Standing In Alley",
+      "variants": 1
+    },
+    {
+      "id": "010de4a72c32f55f",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Girl_standing_in_garden_e3754757.jpg",
+      "narration": "Maya stood in the garden. A small choice felt like the beginning of something.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Girl_standing_in_garden_e3754757.jpg"
+      ],
+      "title": "Girl Standing In Garden",
+      "variants": 1
+    },
+    {
+      "id": "8978adb5270a5ab3",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Girl_taking_rooftop_selfies_b2077470.jpg",
+      "narration": "Maya took rooftop selfies. For a few seconds, the rush of the city eased.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Girl_taking_rooftop_selfies_b2077470.jpg"
+      ],
+      "title": "Girl Taking Rooftop Selfies",
+      "variants": 1
+    },
+    {
+      "id": "3016a489e382955e",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Girl_talking_on_phone_rooftop_3ab529b1.jpg",
+      "narration": "Maya talked on the phone rooftop. It was an ordinary moment, but it belonged to her.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Girl_talking_on_phone_rooftop_3ab529b1.jpg"
+      ],
+      "title": "Girl Talking On Phone Rooftop",
+      "variants": 1
+    },
+    {
+      "id": "3cfd7f903f3102db",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Girl_talking_on_rooftop_phone_0d1e13d0.jpg",
+      "narration": "Maya talked on the rooftop phone. She made a note to remember how this felt.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Girl_talking_on_rooftop_phone_0d1e13d0.jpg"
+      ],
+      "title": "Girl Talking On Rooftop Phone",
+      "variants": 1
+    },
+    {
+      "id": "4f1b82c3fdda2772",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Girl_throwing_frisbee_at_park_e693bdbb.jpg",
+      "narration": "Maya threw a frisbee at the park. For a few seconds, the rush of the city eased.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Girl_throwing_frisbee_at_park_e693bdbb.jpg"
+      ],
+      "title": "Girl Throwing Frisbee At Park",
+      "variants": 1
+    },
+    {
+      "id": "06516549e6757bb1",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Girl_throwing_frisbee_in_park_886807dd.jpg",
+      "narration": "Maya threw a frisbee in the park. For a few seconds, the rush of the city eased.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Girl_throwing_frisbee_in_park_886807dd.jpg"
+      ],
+      "title": "Girl Throwing Frisbee In Park",
+      "variants": 1
+    },
+    {
+      "id": "805561c2f14aba19",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Girl_trimming_greenhouse_vines_c9d9ea74.jpg",
+      "narration": "Maya trimmed greenhouse vines. For a few seconds, the rush of the city eased.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Girl_trimming_greenhouse_vines_c9d9ea74.jpg"
+      ],
+      "title": "Girl Trimming Greenhouse Vines",
+      "variants": 1
+    },
+    {
+      "id": "0b1ce634e62ebe3f",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Girl_tying_shoelaces_895f884a.jpg",
+      "narration": "Maya tied shoelaces. For a few seconds, the rush of the city eased.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Girl_tying_shoelaces_895f884a.jpg"
+      ],
+      "title": "Girl Tying Shoelaces",
+      "variants": 1
+    },
+    {
+      "id": "224ed9e5c5b1c9ee",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Girl_viewing_painting_in_gallery_768cd801.jpg",
+      "narration": "Maya viewed a painting in the gallery. She made a note to remember how this felt.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Girl_viewing_painting_in_gallery_768cd801.jpg",
+        "hobbies_outdoors/Girl_viewing_painting_in_gallery_ce33d106.jpg"
+      ],
+      "title": "Girl Viewing Painting In Gallery",
+      "variants": 2
+    },
+    {
+      "id": "f2bc5c6889863a13",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Girl_watching_sharks_in_aquarium_80f82432.jpg",
+      "narration": "Maya watched sharks in the aquarium. She made a note to remember how this felt.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Girl_watching_sharks_in_aquarium_80f82432.jpg",
+        "hobbies_outdoors/Girl_watching_sharks_in_aquarium_aa788a4a.jpg",
+        "hobbies_outdoors/Girl_watching_sharks_in_aquarium_d34867c4.jpg",
+        "hobbies_outdoors/Girl_watching_sharks_in_aquarium_e90c5e91.jpg"
+      ],
+      "title": "Girl Watching Sharks In Aquarium",
+      "variants": 4
+    },
+    {
+      "id": "4168955a07ff81cc",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Girl_watching_sunset_at_ocean_b5df592c.jpg",
+      "narration": "Maya watched a sunset at the ocean. A small choice felt like the beginning of something.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Girl_watching_sunset_at_ocean_b5df592c.jpg"
+      ],
+      "title": "Girl Watching Sunset At Ocean",
+      "variants": 1
+    },
+    {
+      "id": "7c2c0aa5fa34b34a",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Girl_watching_sunset_on_cliff_d3099112.jpg",
+      "narration": "Maya watched a sunset on the cliff. A small choice felt like the beginning of something.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Girl_watching_sunset_on_cliff_d3099112.jpg"
+      ],
+      "title": "Girl Watching Sunset On Cliff",
+      "variants": 1
+    },
+    {
+      "id": "709e1cd22cbf58a4",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Girl_working_out_in_gym_1650fe30.jpg",
+      "narration": "Maya worked out of the in gym. She made a note to remember how this felt.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Girl_working_out_in_gym_1650fe30.jpg",
+        "hobbies_outdoors/Girl_working_out_in_gym_723df4b9.jpg",
+        "hobbies_outdoors/Girl_working_out_in_gym_9e36dad6.jpg",
+        "hobbies_outdoors/Girl_working_out_in_gym_b50a8ff6.jpg",
+        "hobbies_outdoors/Girl_working_out_in_gym_bf70200d.jpg",
+        "hobbies_outdoors/Girl_working_out_in_gym_f73c4429.jpg"
+      ],
+      "title": "Girl Working Out In Gym",
+      "variants": 6
+    },
+    {
+      "id": "e0a22a5b5ef72f8a",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Innocent_girl_dodging_planets_d5cfe5de.jpg",
+      "narration": "Maya dodged planets. For a few seconds, the rush of the city eased.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Innocent_girl_dodging_planets_d5cfe5de.jpg"
+      ],
+      "title": "Innocent Girl Dodging Planets",
+      "variants": 1
+    },
+    {
+      "id": "a633ed2f09bc035c",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/__LOCATION____[(Private_library_+_turning_b80ae63b.jpg",
+      "narration": "Maya privated a library turning. For a few seconds, the rush of the city eased.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/__LOCATION____[(Private_library_+_turning_b80ae63b.jpg"
+      ],
+      "title": "Location Private Library Turning",
+      "variants": 1
+    },
+    {
+      "id": "a845bb964eef5d65",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Maya_glancing_sideways_in_park_242e73d5.jpg",
+      "narration": "Maya glanced sideways in the park. For a few seconds, the rush of the city eased.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Maya_glancing_sideways_in_park_242e73d5.jpg",
+        "hobbies_outdoors/Maya_glancing_sideways_in_park_4599ef9e.jpg"
+      ],
+      "title": "Maya Glancing Sideways In Park",
+      "variants": 2
+    },
+    {
+      "id": "119e4100276c8abc",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Maya_holding_VIP_pass_rooftop_e8746b96.jpg",
+      "narration": "Maya held a vip pass rooftop. It was an ordinary moment, but it belonged to her.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Maya_holding_VIP_pass_rooftop_e8746b96.jpg"
+      ],
+      "title": "Maya Holding Vip Pass Rooftop",
+      "variants": 1
+    },
+    {
+      "id": "29175a317d89401f",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Maya_leaning_against_library_boo_c61297d1.jpg",
+      "narration": "Maya leaned an against library boo. For a few seconds, the rush of the city eased.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Maya_leaning_against_library_boo_c61297d1.jpg"
+      ],
+      "title": "Maya Leaning Against Library Boo",
+      "variants": 1
+    },
+    {
+      "id": "e2c6c1d4477f20d9",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Maya_leaning_forward_on_rooftop_c5402765.jpg",
+      "narration": "Maya leaned a forward on the rooftop. It was an ordinary moment, but it belonged to her.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Maya_leaning_forward_on_rooftop_c5402765.jpg",
+        "hobbies_outdoors/Maya_leaning_forward_on_rooftop_cb44c4f2.jpg"
+      ],
+      "title": "Maya Leaning Forward On Rooftop",
+      "variants": 2
+    },
+    {
+      "id": "e55383e178ccb591",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Maya_leaning_in_library_study_35d9c767.jpg",
+      "narration": "Maya leaned in the library study. She made a note to remember how this felt.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Maya_leaning_in_library_study_35d9c767.jpg"
+      ],
+      "title": "Maya Leaning In Library Study",
+      "variants": 1
+    },
+    {
+      "id": "93732e9db7850bcf",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Maya_sitting_on_rooftopledge_4f78c51a.jpg",
+      "narration": "Maya sitted on the rooftopledge. She made a note to remember how this felt.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Maya_sitting_on_rooftopledge_4f78c51a.jpg"
+      ],
+      "title": "Maya Sitting On Rooftopledge",
+      "variants": 1
+    },
+    {
+      "id": "dcce3a7c2da8e54d",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Maya_walking_in_street_alley_4938a4ec.jpg",
+      "narration": "Maya walked in the street alley. She made a note to remember how this felt.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Maya_walking_in_street_alley_4938a4ec.jpg"
+      ],
+      "title": "Maya Walking In Street Alley",
+      "variants": 1
+    },
+    {
+      "id": "77eb886bf0f03671",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Surprised_girl_at_bowling_alley_9f27ba34.jpg",
+      "narration": "Something unexpected happened at the bowling alley. Maya took a breath and chose curiosity over panic.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Surprised_girl_at_bowling_alley_9f27ba34.jpg"
+      ],
+      "title": "Surprised Girl At Bowling Alley",
+      "variants": 1
+    },
+    {
+      "id": "dcce071fd95d6dd5",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Surprised_girl_at_ice_rink_7f8aa430.jpg",
+      "narration": "Something unexpected happened at the ice rink. Maya took a breath and chose curiosity over panic.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Surprised_girl_at_ice_rink_7f8aa430.jpg",
+        "hobbies_outdoors/Surprised_girl_at_ice_rink_ba36c773.jpg"
+      ],
+      "title": "Surprised Girl At Ice Rink",
+      "variants": 2
+    },
+    {
+      "id": "b5cc75cdbb1c34e2",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Surprised_girl_checking_bike_tire_d4c4d2e9.jpg",
+      "narration": "Something unexpected happened at the city. Maya took a breath and chose curiosity over panic.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Surprised_girl_checking_bike_tire_d4c4d2e9.jpg"
+      ],
+      "title": "Surprised Girl Checking Bike Tire",
+      "variants": 1
+    },
+    {
+      "id": "44107857452cbfcb",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Surprised_girl_in_art_studio_5adcd094.jpg",
+      "narration": "Something unexpected happened at the art studio. Maya took a breath and chose curiosity over panic.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Surprised_girl_in_art_studio_5adcd094.jpg"
+      ],
+      "title": "Surprised Girl In Art Studio",
+      "variants": 1
+    },
+    {
+      "id": "e58b345c926181c3",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Surprised_girl_in_bowling_alley_4b0a6f28.jpg",
+      "narration": "Something unexpected happened at the bowling alley. Maya took a breath and chose curiosity over panic.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Surprised_girl_in_bowling_alley_4b0a6f28.jpg"
+      ],
+      "title": "Surprised Girl In Bowling Alley",
+      "variants": 1
+    },
+    {
+      "id": "e0f0aa971b78c97d",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Surprised_girl_inspecting_skateb_54f4989c.jpg",
+      "narration": "Something unexpected happened at the city. Maya took a breath and chose curiosity over panic.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Surprised_girl_inspecting_skateb_54f4989c.jpg"
+      ],
+      "title": "Surprised Girl Inspecting Skateb",
+      "variants": 1
+    },
+    {
+      "id": "f8dae395695a4144",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Surprised_girl_playing_skee-ball_36a07006.jpg",
+      "narration": "Something unexpected happened at the city. Maya took a breath and chose curiosity over panic.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Surprised_girl_playing_skee-ball_36a07006.jpg"
+      ],
+      "title": "Surprised Girl Playing Skee Ball",
+      "variants": 1
+    },
+    {
+      "id": "0ac3cd3dc262e60d",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Surprised_girl_watering_succulents_1a43acd9.jpg",
+      "narration": "Something unexpected happened at the city. Maya took a breath and chose curiosity over panic.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Surprised_girl_watering_succulents_1a43acd9.jpg",
+        "hobbies_outdoors/Surprised_girl_watering_succulents_fd5794b7.jpg"
+      ],
+      "title": "Surprised Girl Watering Succulents",
+      "variants": 2
+    },
+    {
+      "id": "574367c2dfc6f18f",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Woman_adjusting_strap_in_park_ad2e1b2b.jpg",
+      "narration": "Maya adjusted a strap in the park. For a few seconds, the rush of the city eased.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Woman_adjusting_strap_in_park_ad2e1b2b.jpg"
+      ],
+      "title": "Woman Adjusting Strap In Park",
+      "variants": 1
+    },
+    {
+      "id": "d22c49344b4cfb0e",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Woman_holding_cocktail_on_rooftop_d53e24da.jpg",
+      "narration": "Maya held a cocktail on the rooftop. It was an ordinary moment, but it belonged to her.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Woman_holding_cocktail_on_rooftop_d53e24da.jpg"
+      ],
+      "title": "Woman Holding Cocktail On Rooftop",
+      "variants": 1
+    },
+    {
+      "id": "712d10f73ea9f869",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Woman_leaning_by_cliffside_pool_4b58d8d0.jpg",
+      "narration": "Maya leaned by the cliffside pool. It was an ordinary moment, but it belonged to her.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Woman_leaning_by_cliffside_pool_4b58d8d0.jpg"
+      ],
+      "title": "Woman Leaning By Cliffside Pool",
+      "variants": 1
+    },
+    {
+      "id": "6b577d5cde411177",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Woman_pocketing_keycard_at_gallery_a72ea869.jpg",
+      "narration": "Maya pocketted a keycard at the gallery. She made a note to remember how this felt.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Woman_pocketing_keycard_at_gallery_a72ea869.jpg"
+      ],
+      "title": "Woman Pocketing Keycard At Gallery",
+      "variants": 1
+    },
+    {
+      "id": "26495387e42f2dc2",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Woman_resting_at_library_table_d004d94f.jpg",
+      "narration": "Maya rested at the library table. She made a note to remember how this felt.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Woman_resting_at_library_table_d004d94f.jpg"
+      ],
+      "title": "Woman Resting At Library Table",
+      "variants": 1
+    },
+    {
+      "id": "77652fa427757f6c",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Woman_resting_chin_at_library_9bd282c7.jpg",
+      "narration": "Maya rested a chin at the library. She made a note to remember how this felt.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Woman_resting_chin_at_library_9bd282c7.jpg"
+      ],
+      "title": "Woman Resting Chin At Library",
+      "variants": 1
+    },
+    {
+      "id": "a2715a62df94f999",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Woman_sitting_in_park_7835fb81.jpg",
+      "narration": "Maya sitted in the park. For a few seconds, the rush of the city eased.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Woman_sitting_in_park_7835fb81.jpg"
+      ],
+      "title": "Woman Sitting In Park",
+      "variants": 1
+    },
+    {
+      "id": "21269814b4c70fb4",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Woman_sitting_on_park_bench_ac42be38.jpg",
+      "narration": "Maya sitted on the park bench. It was an ordinary moment, but it belonged to her.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Woman_sitting_on_park_bench_ac42be38.jpg",
+        "hobbies_outdoors/Woman_sitting_on_park_bench_e7ba32fa.jpg"
+      ],
+      "title": "Woman Sitting On Park Bench",
+      "variants": 2
+    },
+    {
+      "id": "2ca46063717e6684",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Woman_smoking_in_alley_821e97d7.jpg",
+      "narration": "Maya faced a tempting shortcut. She thought about the trouble it could bring and chose to step back.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Woman_smoking_in_alley_821e97d7.jpg"
+      ],
+      "title": "Woman Smoking In Alley",
+      "variants": 1
+    },
+    {
+      "id": "7e0baec93d0268ab",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Woman_standing_in_art_gallery_c8a0cdd1.jpg",
+      "narration": "Maya stood in the art gallery. She made a note to remember how this felt.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Woman_standing_in_art_gallery_c8a0cdd1.jpg"
+      ],
+      "title": "Woman Standing In Art Gallery",
+      "variants": 1
+    },
+    {
+      "id": "bb70821cd31580f4",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Woman_swirling_cocktail_on_rooftop_cb320fed.jpg",
+      "narration": "Maya swirled a cocktail on the rooftop. It was an ordinary moment, but it belonged to her.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Woman_swirling_cocktail_on_rooftop_cb320fed.jpg"
+      ],
+      "title": "Woman Swirling Cocktail On Rooftop",
+      "variants": 1
+    },
+    {
+      "id": "f8e25ddc3b3de87e",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Woman_walking_in_street_alley_c4902ad5.jpg",
+      "narration": "Maya walked in the street alley. She made a note to remember how this felt.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Woman_walking_in_street_alley_c4902ad5.jpg"
+      ],
+      "title": "Woman Walking In Street Alley",
+      "variants": 1
+    },
+    {
+      "id": "82f01069dd6a2c4c",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Young_woman_kneeling_on_rooftop_546dd596.jpg",
+      "narration": "Maya younged a woman kneeling on the rooftop. It was an ordinary moment, but it belonged to her.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Young_woman_kneeling_on_rooftop_546dd596.jpg"
+      ],
+      "title": "Young Woman Kneeling On Rooftop",
+      "variants": 1
+    },
+    {
+      "id": "e2d4bf28bcbd0bf0",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Young_woman_leaning_in_alley_a7843b22.jpg",
+      "narration": "Maya younged a woman leaning in the alley. She made a note to remember how this felt.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Young_woman_leaning_in_alley_a7843b22.jpg"
+      ],
+      "title": "Young Woman Leaning In Alley",
+      "variants": 1
+    },
+    {
+      "id": "b82efc75bf3f878b",
+      "category": "hobbies_outdoors",
+      "image": "hobbies_outdoors/Young_woman_skipping_class_rooftop_0e320c03.jpg",
+      "narration": "Maya younged a woman skipping class rooftop. It was an ordinary moment, but it belonged to her.",
+      "intro": "Free time gives Maya room to discover what she enjoys beyond work and class.",
+      "images": [
+        "hobbies_outdoors/Young_woman_skipping_class_rooftop_0e320c03.jpg"
+      ],
+      "title": "Young Woman Skipping Class Rooftop",
+      "variants": 1
+    },
+    {
+      "id": "7cf017840bb9ec2b",
+      "category": "home_lodging",
+      "image": "home_lodging/Alarm_failing_to_wake_person_73e283ed.jpg",
+      "narration": "Maya alarmed a failing to wake person. A small choice felt like the beginning of something.",
+      "intro": "Home is where Maya catches her breath, makes plans, and decides what matters.",
+      "images": [
+        "home_lodging/Alarm_failing_to_wake_person_73e283ed.jpg",
+        "home_lodging/Alarm_failing_to_wake_person_cf1c1b6f.jpg"
+      ],
+      "title": "Alarm Failing To Wake Person",
+      "variants": 2
+    },
+    {
+      "id": "fbc990b7ab3c9b8e",
+      "category": "home_lodging",
+      "image": "home_lodging/Girl_adjusting_dress_near_window_8487c795.jpg",
+      "narration": "Maya adjusted a dress near the window. For a few seconds, the rush of the city eased.",
+      "intro": "Home is where Maya catches her breath, makes plans, and decides what matters.",
+      "images": [
+        "home_lodging/Girl_adjusting_dress_near_window_8487c795.jpg"
+      ],
+      "title": "Girl Adjusting Dress Near Window",
+      "variants": 1
+    },
+    {
+      "id": "8d68ae03d5757c1e",
+      "category": "home_lodging",
+      "image": "home_lodging/Girl_checking_plans_at_home_bc4820df.jpg",
+      "narration": "Maya checked plans at home. She made a note to remember how this felt.",
+      "intro": "Home is where Maya catches her breath, makes plans, and decides what matters.",
+      "images": [
+        "home_lodging/Girl_checking_plans_at_home_bc4820df.jpg"
+      ],
+      "title": "Girl Checking Plans At Home",
+      "variants": 1
+    },
+    {
+      "id": "3a7970261f00c838",
+      "category": "home_lodging",
+      "image": "home_lodging/Girl_cleaning_rooftop_windows_30133eac.jpg",
+      "narration": "Maya cleaned rooftop windows. For a few seconds, the rush of the city eased.",
+      "intro": "Home is where Maya catches her breath, makes plans, and decides what matters.",
+      "images": [
+        "home_lodging/Girl_cleaning_rooftop_windows_30133eac.jpg"
+      ],
+      "title": "Girl Cleaning Rooftop Windows",
+      "variants": 1
+    },
+    {
+      "id": "700e881c518739b5",
+      "category": "home_lodging",
+      "image": "home_lodging/Girl_on_leather_sofa_a3ba55db.jpg",
+      "narration": "Maya paused and took in the scene. She was learning to notice the small moments that made a place feel real.",
+      "intro": "Home is where Maya catches her breath, makes plans, and decides what matters.",
+      "images": [
+        "home_lodging/Girl_on_leather_sofa_a3ba55db.jpg"
+      ],
+      "title": "Girl On Leather Sofa",
+      "variants": 1
+    },
+    {
+      "id": "b719caa1273d7ff9",
+      "category": "home_lodging",
+      "image": "home_lodging/Girl_posing_in_kitchen_5ba25df5.jpg",
+      "narration": "Maya paused for a photo in the kitchen. A small choice felt like the beginning of something.",
+      "intro": "Home is where Maya catches her breath, makes plans, and decides what matters.",
+      "images": [
+        "home_lodging/Girl_posing_in_kitchen_5ba25df5.jpg"
+      ],
+      "title": "Girl Posing In Kitchen",
+      "variants": 1
+    },
+    {
+      "id": "646e30509fd3f16b",
+      "category": "home_lodging",
+      "image": "home_lodging/Girl_posing_in_loft_a6a9f60c.jpg",
+      "narration": "Maya paused for a photo in the loft. It was an ordinary moment, but it belonged to her.",
+      "intro": "Home is where Maya catches her breath, makes plans, and decides what matters.",
+      "images": [
+        "home_lodging/Girl_posing_in_loft_a6a9f60c.jpg"
+      ],
+      "title": "Girl Posing In Loft",
+      "variants": 1
+    },
+    {
+      "id": "be64f231b1539e63",
+      "category": "home_lodging",
+      "image": "home_lodging/Girl_removing_mask_on_balcony_2d7bb2cc.jpg",
+      "narration": "Maya removved a mask on the balcony. She made a note to remember how this felt.",
+      "intro": "Home is where Maya catches her breath, makes plans, and decides what matters.",
+      "images": [
+        "home_lodging/Girl_removing_mask_on_balcony_2d7bb2cc.jpg",
+        "home_lodging/Girl_removing_mask_on_balcony_396ef1f6.jpg"
+      ],
+      "title": "Girl Removing Mask On Balcony",
+      "variants": 2
+    },
+    {
+      "id": "1af42b9521527497",
+      "category": "home_lodging",
+      "image": "home_lodging/Girl_standing_at_home_b25ae9df.jpg",
+      "narration": "Maya stood at home. She made a note to remember how this felt.",
+      "intro": "Home is where Maya catches her breath, makes plans, and decides what matters.",
+      "images": [
+        "home_lodging/Girl_standing_at_home_b25ae9df.jpg"
+      ],
+      "title": "Girl Standing At Home",
+      "variants": 1
+    },
+    {
+      "id": "98b71850bab3583a",
+      "category": "home_lodging",
+      "image": "home_lodging/Girl_washing_dishes_in_kitchen_2abbfec1.jpg",
+      "narration": "Maya washed dishes in the kitchen. A small choice felt like the beginning of something.",
+      "intro": "Home is where Maya catches her breath, makes plans, and decides what matters.",
+      "images": [
+        "home_lodging/Girl_washing_dishes_in_kitchen_2abbfec1.jpg",
+        "home_lodging/Girl_washing_dishes_in_kitchen_9b24434b.jpg",
+        "home_lodging/Girl_washing_dishes_in_kitchen_c707821a.jpg"
+      ],
+      "title": "Girl Washing Dishes In Kitchen",
+      "variants": 3
+    },
+    {
+      "id": "0eb75c1ca3b20e08",
+      "category": "home_lodging",
+      "image": "home_lodging/__LOCATION____[(Bedroom_balcony_+_stretching_8ce3bacb.jpg",
+      "narration": "Maya bedroomed a balcony stretching. For a few seconds, the rush of the city eased.",
+      "intro": "Home is where Maya catches her breath, makes plans, and decides what matters.",
+      "images": [
+        "home_lodging/__LOCATION____[(Bedroom_balcony_+_stretching_8ce3bacb.jpg"
+      ],
+      "title": "Location Bedroom Balcony Stretching",
+      "variants": 1
+    },
+    {
+      "id": "768a3f27a65f6fa2",
+      "category": "home_lodging",
+      "image": "home_lodging/__LOCATION____[(Candlelit_bathtub_+_holding_0322f2c6.jpg",
+      "narration": "Maya candlelitted a bathtub holding. For a few seconds, the rush of the city eased.",
+      "intro": "Home is where Maya catches her breath, makes plans, and decides what matters.",
+      "images": [
+        "home_lodging/__LOCATION____[(Candlelit_bathtub_+_holding_0322f2c6.jpg"
+      ],
+      "title": "Location Candlelit Bathtub Holding",
+      "variants": 1
+    },
+    {
+      "id": "2e6af93592d67afa",
+      "category": "home_lodging",
+      "image": "home_lodging/__LOCATION____[(Kitchen_island_+_licking_ccb9dc5f.jpg",
+      "narration": "Maya kitchenned an island licking. For a few seconds, the rush of the city eased.",
+      "intro": "Home is where Maya catches her breath, makes plans, and decides what matters.",
+      "images": [
+        "home_lodging/__LOCATION____[(Kitchen_island_+_licking_ccb9dc5f.jpg"
+      ],
+      "title": "Location Kitchen Island Licking",
+      "variants": 1
+    },
+    {
+      "id": "670695c5924a7a19",
+      "category": "home_lodging",
+      "image": "home_lodging/__LOCATION____[(Poolside_cabana_+_applying_4ca76b27.jpg",
+      "narration": "Maya poolsided a cabana applying. For a few seconds, the rush of the city eased.",
+      "intro": "Home is where Maya catches her breath, makes plans, and decides what matters.",
+      "images": [
+        "home_lodging/__LOCATION____[(Poolside_cabana_+_applying_4ca76b27.jpg",
+        "home_lodging/__LOCATION____[(Poolside_cabana_+_applying_d0891a46.jpg"
+      ],
+      "title": "Location Poolside Cabana Applying",
+      "variants": 2
+    },
+    {
+      "id": "44aa7d8c6832fcaa",
+      "category": "home_lodging",
+      "image": "home_lodging/__LOCATION____[(Rooftop_jacuzzi_+_testing_d2488bb3.jpg",
+      "narration": "Maya rooftopped a jacuzzi testing. For a few seconds, the rush of the city eased.",
+      "intro": "Home is where Maya catches her breath, makes plans, and decides what matters.",
+      "images": [
+        "home_lodging/__LOCATION____[(Rooftop_jacuzzi_+_testing_d2488bb3.jpg"
+      ],
+      "title": "Location Rooftop Jacuzzi Testing",
+      "variants": 1
+    },
+    {
+      "id": "b088fabe3350ed09",
+      "category": "home_lodging",
+      "image": "home_lodging/__LOCATION____[(Secluded_cabin_+_stoking_396f0326.jpg",
+      "narration": "Maya secludedded a cabin stoking. For a few seconds, the rush of the city eased.",
+      "intro": "Home is where Maya catches her breath, makes plans, and decides what matters.",
+      "images": [
+        "home_lodging/__LOCATION____[(Secluded_cabin_+_stoking_396f0326.jpg",
+        "home_lodging/__LOCATION____[(Secluded_cabin_+_stoking_6f8f7374.jpg"
+      ],
+      "title": "Location Secluded Cabin Stoking",
+      "variants": 2
+    },
+    {
+      "id": "368ad9f99ba76233",
+      "category": "home_lodging",
+      "image": "home_lodging/__LOCATION____[(Steamy_shower_+_wiping_51a146f6.jpg",
+      "narration": "Maya steamied a shower wiping. For a few seconds, the rush of the city eased.",
+      "intro": "Home is where Maya catches her breath, makes plans, and decides what matters.",
+      "images": [
+        "home_lodging/__LOCATION____[(Steamy_shower_+_wiping_51a146f6.jpg"
+      ],
+      "title": "Location Steamy Shower Wiping",
+      "variants": 1
+    },
+    {
+      "id": "fd9db0d565324e76",
+      "category": "home_lodging",
+      "image": "home_lodging/__LOCATION____[(Steamy_shower_+_wiping_52731762 (1).jpg",
+      "narration": "Maya steamied a shower wiping 52731762. A small choice felt like the beginning of something.",
+      "intro": "Home is where Maya catches her breath, makes plans, and decides what matters.",
+      "images": [
+        "home_lodging/__LOCATION____[(Steamy_shower_+_wiping_52731762 (1).jpg"
+      ],
+      "title": "Location Steamy Shower Wiping 52731762",
+      "variants": 1
+    },
+    {
+      "id": "e036b03286e887ab",
+      "category": "home_lodging",
+      "image": "home_lodging/Maya_checking_phone_at_home_cdd73de3.jpg",
+      "narration": "Maya checked her phone at home. She made a note to remember how this felt.",
+      "intro": "Home is where Maya catches her breath, makes plans, and decides what matters.",
+      "images": [
+        "home_lodging/Maya_checking_phone_at_home_cdd73de3.jpg"
+      ],
+      "title": "Maya Checking Phone At Home",
+      "variants": 1
+    },
+    {
+      "id": "afd966f0c78f4acf",
+      "category": "home_lodging",
+      "image": "home_lodging/Person_checking_phone_bank_balance_a8338e1e.jpg",
+      "narration": "Maya personned a checking phone bank balance. She made a note to remember how this felt.",
+      "intro": "Home is where Maya catches her breath, makes plans, and decides what matters.",
+      "images": [
+        "home_lodging/Person_checking_phone_bank_balance_a8338e1e.jpg"
+      ],
+      "title": "Person Checking Phone Bank Balance",
+      "variants": 1
+    },
+    {
+      "id": "872f596ee4786c14",
+      "category": "home_lodging",
+      "image": "home_lodging/Surprised_girl_in_hotel_lobby_0d1ded8f.jpg",
+      "narration": "Something unexpected happened at the hotel lobby. Maya took a breath and chose curiosity over panic.",
+      "intro": "Home is where Maya catches her breath, makes plans, and decides what matters.",
+      "images": [
+        "home_lodging/Surprised_girl_in_hotel_lobby_0d1ded8f.jpg",
+        "home_lodging/Surprised_girl_in_hotel_lobby_22f1e617.jpg"
+      ],
+      "title": "Surprised Girl In Hotel Lobby",
+      "variants": 2
+    },
+    {
+      "id": "721501cc714b1a03",
+      "category": "home_lodging",
+      "image": "home_lodging/Surprised_girl_looking_out_window_15135dd8.jpg",
+      "narration": "Something unexpected happened at the window. Maya took a breath and chose curiosity over panic.",
+      "intro": "Home is where Maya catches her breath, makes plans, and decides what matters.",
+      "images": [
+        "home_lodging/Surprised_girl_looking_out_window_15135dd8.jpg",
+        "home_lodging/Surprised_girl_looking_out_window_9bf1863e.jpg"
+      ],
+      "title": "Surprised Girl Looking Out Window",
+      "variants": 2
+    },
+    {
+      "id": "3ad88b21a14b19a3",
+      "category": "home_lodging",
+      "image": "home_lodging/Woman_checking_phone_at_home_dc6068cd.jpg",
+      "narration": "Maya checked her phone at home. She made a note to remember how this felt.",
+      "intro": "Home is where Maya catches her breath, makes plans, and decides what matters.",
+      "images": [
+        "home_lodging/Woman_checking_phone_at_home_dc6068cd.jpg"
+      ],
+      "title": "Woman Checking Phone At Home",
+      "variants": 1
+    },
+    {
+      "id": "aec51937ca9f6999",
+      "category": "home_lodging",
+      "image": "home_lodging/Woman_checking_phone_in_kitchen_a566eec0.jpg",
+      "narration": "Maya checked her phone in the kitchen. A small choice felt like the beginning of something.",
+      "intro": "Home is where Maya catches her breath, makes plans, and decides what matters.",
+      "images": [
+        "home_lodging/Woman_checking_phone_in_kitchen_a566eec0.jpg"
+      ],
+      "title": "Woman Checking Phone In Kitchen",
+      "variants": 1
+    },
+    {
+      "id": "36f03a4e3648a098",
+      "category": "home_lodging",
+      "image": "home_lodging/Woman_checking_plans_at_home_9eb8f710.jpg",
+      "narration": "Maya checked plans at home. She made a note to remember how this felt.",
+      "intro": "Home is where Maya catches her breath, makes plans, and decides what matters.",
+      "images": [
+        "home_lodging/Woman_checking_plans_at_home_9eb8f710.jpg",
+        "home_lodging/Woman_checking_plans_at_home_f65bc43c.jpg"
+      ],
+      "title": "Woman Checking Plans At Home",
+      "variants": 2
+    },
+    {
+      "id": "60997b3b83179be5",
+      "category": "home_lodging",
+      "image": "home_lodging/Woman_planning_in_apartment_35231e86.jpg",
+      "narration": "Maya planned in the apartment. It was an ordinary moment, but it belonged to her.",
+      "intro": "Home is where Maya catches her breath, makes plans, and decides what matters.",
+      "images": [
+        "home_lodging/Woman_planning_in_apartment_35231e86.jpg"
+      ],
+      "title": "Woman Planning In Apartment",
+      "variants": 1
+    },
+    {
+      "id": "899ad8d9df3efd59",
+      "category": "home_lodging",
+      "image": "home_lodging/Woman_planning_in_kitchen_aa207456.jpg",
+      "narration": "Maya planned in the kitchen. A small choice felt like the beginning of something.",
+      "intro": "Home is where Maya catches her breath, makes plans, and decides what matters.",
+      "images": [
+        "home_lodging/Woman_planning_in_kitchen_aa207456.jpg"
+      ],
+      "title": "Woman Planning In Kitchen",
+      "variants": 1
+    },
+    {
+      "id": "f11c2003a9df1397",
+      "category": "home_lodging",
+      "image": "home_lodging/Woman_pocketing_keycard_at_window_4cc537bc.jpg",
+      "narration": "Maya pocketted a keycard at the window. For a few seconds, the rush of the city eased.",
+      "intro": "Home is where Maya catches her breath, makes plans, and decides what matters.",
+      "images": [
+        "home_lodging/Woman_pocketing_keycard_at_window_4cc537bc.jpg"
+      ],
+      "title": "Woman Pocketing Keycard At Window",
+      "variants": 1
+    },
+    {
+      "id": "1085b93357160fe6",
+      "category": "home_lodging",
+      "image": "home_lodging/Woman_pocketing_keycard_in_kitchen_ed36919d.jpg",
+      "narration": "Maya pocketted a keycard in the kitchen. A small choice felt like the beginning of something.",
+      "intro": "Home is where Maya catches her breath, makes plans, and decides what matters.",
+      "images": [
+        "home_lodging/Woman_pocketing_keycard_in_kitchen_ed36919d.jpg"
+      ],
+      "title": "Woman Pocketing Keycard In Kitchen",
+      "variants": 1
+    },
+    {
+      "id": "d3f91479ff2ffce4",
+      "category": "home_lodging",
+      "image": "home_lodging/Woman_posing_in_kitchen_kitchen_360c67aa.jpg",
+      "narration": "Maya paused for a photo in the kitchen kitchen. A small choice felt like the beginning of something.",
+      "intro": "Home is where Maya catches her breath, makes plans, and decides what matters.",
+      "images": [
+        "home_lodging/Woman_posing_in_kitchen_kitchen_360c67aa.jpg"
+      ],
+      "title": "Woman Posing In Kitchen Kitchen",
+      "variants": 1
+    },
+    {
+      "id": "86eb440e9fb7b7a2",
+      "category": "home_lodging",
+      "image": "home_lodging/Woman_sitting_in_kitchen_c751ba9b.jpg",
+      "narration": "Maya sitted in the kitchen. A small choice felt like the beginning of something.",
+      "intro": "Home is where Maya catches her breath, makes plans, and decides what matters.",
+      "images": [
+        "home_lodging/Woman_sitting_in_kitchen_c751ba9b.jpg"
+      ],
+      "title": "Woman Sitting In Kitchen",
+      "variants": 1
+    },
+    {
+      "id": "f806249fe9d8ee66",
+      "category": "home_lodging",
+      "image": "home_lodging/Woman_tossing_hair_in_kitchen_65059668.jpg",
+      "narration": "Maya tossed a hair in the kitchen. A small choice felt like the beginning of something.",
+      "intro": "Home is where Maya catches her breath, makes plans, and decides what matters.",
+      "images": [
+        "home_lodging/Woman_tossing_hair_in_kitchen_65059668.jpg"
+      ],
+      "title": "Woman Tossing Hair In Kitchen",
+      "variants": 1
+    },
+    {
+      "id": "a192acec9dcb7026",
+      "category": "home_lodging",
+      "image": "home_lodging/Woman_watching_street_from_balcony_59316112.jpg",
+      "narration": "Maya watched a street from the balcony. She made a note to remember how this felt.",
+      "intro": "Home is where Maya catches her breath, makes plans, and decides what matters.",
+      "images": [
+        "home_lodging/Woman_watching_street_from_balcony_59316112.jpg"
+      ],
+      "title": "Woman Watching Street From Balcony",
+      "variants": 1
+    },
+    {
+      "id": "5dab5e87016484e6",
+      "category": "public_places",
+      "image": "public_places/Girl_acting_surprised_in_lobby_5be4f1c4.jpg",
+      "narration": "Something unexpected happened at the lobby. Maya took a breath and chose curiosity over panic.",
+      "intro": "Every public place offers a small chance to ask for help or meet someone new.",
+      "images": [
+        "public_places/Girl_acting_surprised_in_lobby_5be4f1c4.jpg"
+      ],
+      "title": "Girl Acting Surprised In Lobby",
+      "variants": 1
+    },
+    {
+      "id": "6e1da08879247974",
+      "category": "public_places",
+      "image": "public_places/Girl_asking_for_directions_1485a8f5.jpg",
+      "narration": "When the streets stopped making sense, Maya asked for directions. The answer helped her feel less like a stranger.",
+      "intro": "Every public place offers a small chance to ask for help or meet someone new.",
+      "images": [
+        "public_places/Girl_asking_for_directions_1485a8f5.jpg",
+        "public_places/Girl_asking_for_directions_5ef3cf6c.jpg",
+        "public_places/Girl_asking_for_directions_8904660e.jpg",
+        "public_places/Girl_asking_for_directions_a47458ea.jpg"
+      ],
+      "title": "Girl Asking For Directions",
+      "variants": 4
+    },
+    {
+      "id": "b21d99a446ff8863",
+      "category": "public_places",
+      "image": "public_places/Girl_checking_phone_in_corridor_222cca07.jpg",
+      "narration": "Maya checked her phone in the corridor. A small choice felt like the beginning of something.",
+      "intro": "Every public place offers a small chance to ask for help or meet someone new.",
+      "images": [
+        "public_places/Girl_checking_phone_in_corridor_222cca07.jpg",
+        "public_places/Girl_checking_phone_in_corridor_25707da7.jpg",
+        "public_places/Girl_checking_phone_in_corridor_77dc60a3.jpg",
+        "public_places/Girl_checking_phone_in_corridor_ad5e638e.jpg"
+      ],
+      "title": "Girl Checking Phone In Corridor",
+      "variants": 4
+    },
+    {
+      "id": "8aa3e1686c19e821",
+      "category": "public_places",
+      "image": "public_places/Girl_in_street_interview_45e32ef6.jpg",
+      "narration": "Maya paused and took in the scene. She was learning to notice the small moments that made a place feel real.",
+      "intro": "Every public place offers a small chance to ask for help or meet someone new.",
+      "images": [
+        "public_places/Girl_in_street_interview_45e32ef6.jpg",
+        "public_places/Girl_in_street_interview_a92e050b.jpg"
+      ],
+      "title": "Girl In Street Interview",
+      "variants": 2
+    },
+    {
+      "id": "f6cdd5a2ac6690cc",
+      "category": "public_places",
+      "image": "public_places/Maya_resting_in_stairwell_3effe183.jpg",
+      "narration": "Maya rested in the stairwell. It was an ordinary moment, but it belonged to her.",
+      "intro": "Every public place offers a small chance to ask for help or meet someone new.",
+      "images": [
+        "public_places/Maya_resting_in_stairwell_3effe183.jpg"
+      ],
+      "title": "Maya Resting In Stairwell",
+      "variants": 1
+    },
+    {
+      "id": "19794e7d7184a40e",
+      "category": "relationships",
+      "image": "relationships/Couple_holding_hands_in_alley_52fa5668.jpg",
+      "narration": "Maya shared a close moment with someone she was getting to know. It felt good to be wanted, and she still kept her own boundaries in view.",
+      "intro": "Maya learns how trust, attraction, and personal boundaries grow over time.",
+      "images": [
+        "relationships/Couple_holding_hands_in_alley_52fa5668.jpg"
+      ],
+      "title": "Couple Holding Hands In Alley",
+      "variants": 1
+    },
+    {
+      "id": "28ad69aadb898142",
+      "category": "relationships",
+      "image": "relationships/Couple_in_alleyway_8cfc8a16.jpg",
+      "narration": "Maya shared a close moment with someone she was getting to know. It felt good to be wanted, and she still kept her own boundaries in view.",
+      "intro": "Maya learns how trust, attraction, and personal boundaries grow over time.",
+      "images": [
+        "relationships/Couple_in_alleyway_8cfc8a16.jpg"
+      ],
+      "title": "Couple In Alleyway",
+      "variants": 1
+    },
+    {
+      "id": "4fadb791c1058530",
+      "category": "relationships",
+      "image": "relationships/Couple_interacting_in_alley_3514777e.jpg",
+      "narration": "Maya shared a close moment with someone she was getting to know. It felt good to be wanted, and she still kept her own boundaries in view.",
+      "intro": "Maya learns how trust, attraction, and personal boundaries grow over time.",
+      "images": [
+        "relationships/Couple_interacting_in_alley_3514777e.jpg",
+        "relationships/Couple_interacting_in_alley_8c557ce1.jpg",
+        "relationships/Couple_interacting_in_alley_ab238c00.jpg",
+        "relationships/Couple_interacting_in_alley_cd428737.jpg",
+        "relationships/Couple_interacting_in_alley_f58a027f.jpg"
+      ],
+      "title": "Couple Interacting In Alley",
+      "variants": 5
+    },
+    {
+      "id": "8933060606b4b38e",
+      "category": "relationships",
+      "image": "relationships/Couple_interacting_in_alleyway_42d15a7d.jpg",
+      "narration": "Maya shared a close moment with someone she was getting to know. It felt good to be wanted, and she still kept her own boundaries in view.",
+      "intro": "Maya learns how trust, attraction, and personal boundaries grow over time.",
+      "images": [
+        "relationships/Couple_interacting_in_alleyway_42d15a7d.jpg",
+        "relationships/Couple_interacting_in_alleyway_f2b9b16d.jpg"
+      ],
+      "title": "Couple Interacting In Alleyway",
+      "variants": 2
+    },
+    {
+      "id": "b9413ecee1edf1bc",
+      "category": "relationships",
+      "image": "relationships/Girl_embracing_man_on_rooftop_9d925b8b.jpg",
+      "narration": "Maya embracced a man on the rooftop. She wanted to know them better, at her own pace.",
+      "intro": "Maya learns how trust, attraction, and personal boundaries grow over time.",
+      "images": [
+        "relationships/Girl_embracing_man_on_rooftop_9d925b8b.jpg"
+      ],
+      "title": "Girl Embracing Man On Rooftop",
+      "variants": 1
+    },
+    {
+      "id": "774be8253e1c417c",
+      "category": "relationships",
+      "image": "relationships/Girl_interacting_with_boyfriend__5cc37ca6.jpg",
+      "narration": "Maya shared a quiet exchange with someone she did not yet know. The conversation left the city feeling less anonymous.",
+      "intro": "Maya learns how trust, attraction, and personal boundaries grow over time.",
+      "images": [
+        "relationships/Girl_interacting_with_boyfriend__5cc37ca6.jpg"
+      ],
+      "title": "Girl Interacting With Boyfriend",
+      "variants": 1
+    },
+    {
+      "id": "a6a076100aded17a",
+      "category": "relationships",
+      "image": "relationships/Girl_with_boyfriend_in_alley_938d1033.jpg",
+      "narration": "Maya withed a boyfriend in the alley. The moment felt warmer because she chose to be there.",
+      "intro": "Maya learns how trust, attraction, and personal boundaries grow over time.",
+      "images": [
+        "relationships/Girl_with_boyfriend_in_alley_938d1033.jpg",
+        "relationships/Girl_with_boyfriend_in_alley_beb1f700.jpg",
+        "relationships/Girl_with_boyfriend_in_alley_e01304af.jpg"
+      ],
+      "title": "Girl With Boyfriend In Alley",
+      "variants": 3
+    },
+    {
+      "id": "0884a7e9eb7e35d4",
+      "category": "shops_markets",
+      "image": "shops_markets/Girl_bargaining_at_street_market_cba28816 (1).jpg",
+      "narration": "Maya bargained at the street market cba28816. She made a note of what felt worth the price.",
+      "intro": "Errands turn into choices about money, independence, and the people around her.",
+      "images": [
+        "shops_markets/Girl_bargaining_at_street_market_cba28816 (1).jpg"
+      ],
+      "title": "Girl Bargaining At Street Market Cba28816",
+      "variants": 1
+    },
+    {
+      "id": "657d09ae476be1cf",
+      "category": "shops_markets",
+      "image": "shops_markets/Girl_browsing_records_at_fair_9fa0b12e.jpg",
+      "narration": "Maya browsed records at the fair. She made a note of what felt worth the price.",
+      "intro": "Errands turn into choices about money, independence, and the people around her.",
+      "images": [
+        "shops_markets/Girl_browsing_records_at_fair_9fa0b12e.jpg"
+      ],
+      "title": "Girl Browsing Records At Fair",
+      "variants": 1
+    },
+    {
+      "id": "1b2f6ce0739a96fe",
+      "category": "shops_markets",
+      "image": "shops_markets/Girl_buying_flowers_at_market_6b2eb26a.jpg",
+      "narration": "Maya bought flowers at the market. She made a note of what felt worth the price.",
+      "intro": "Errands turn into choices about money, independence, and the people around her.",
+      "images": [
+        "shops_markets/Girl_buying_flowers_at_market_6b2eb26a.jpg"
+      ],
+      "title": "Girl Buying Flowers At Market",
+      "variants": 1
+    },
+    {
+      "id": "46dd2cebd74f03b4",
+      "category": "shops_markets",
+      "image": "shops_markets/Girl_checking_mirror_in_boutique_a8af25c6.jpg",
+      "narration": "Maya checked a mirror in the boutique. Independence came from knowing what she wanted.",
+      "intro": "Errands turn into choices about money, independence, and the people around her.",
+      "images": [
+        "shops_markets/Girl_checking_mirror_in_boutique_a8af25c6.jpg"
+      ],
+      "title": "Girl Checking Mirror In Boutique",
+      "variants": 1
+    },
+    {
+      "id": "99cd08a30f405d0e",
+      "category": "shops_markets",
+      "image": "shops_markets/Girl_delivering_groceries_in_pen_4d7ee8a7.jpg",
+      "narration": "Maya delivered groceries in the pen. She made a note of what felt worth the price.",
+      "intro": "Errands turn into choices about money, independence, and the people around her.",
+      "images": [
+        "shops_markets/Girl_delivering_groceries_in_pen_4d7ee8a7.jpg"
+      ],
+      "title": "Girl Delivering Groceries In Pen",
+      "variants": 1
+    },
+    {
+      "id": "35128ceb046a9610",
+      "category": "shops_markets",
+      "image": "shops_markets/Girl_eating_snacks_in_store_1de481ac.jpg",
+      "narration": "Maya ate snacks in the store. Independence came from knowing what she wanted.",
+      "intro": "Errands turn into choices about money, independence, and the people around her.",
+      "images": [
+        "shops_markets/Girl_eating_snacks_in_store_1de481ac.jpg",
+        "shops_markets/Girl_eating_snacks_in_store_69b82158.jpg",
+        "shops_markets/Girl_eating_snacks_in_store_9be0a01c.jpg"
+      ],
+      "title": "Girl Eating Snacks In Store",
+      "variants": 3
+    },
+    {
+      "id": "59a022b3a2f2e520",
+      "category": "shops_markets",
+      "image": "shops_markets/Girl_in_tailor_workshop_adeb249c.jpg",
+      "narration": "Maya paused and took in the scene. She was learning to notice the small moments that made a place feel real.",
+      "intro": "Errands turn into choices about money, independence, and the people around her.",
+      "images": [
+        "shops_markets/Girl_in_tailor_workshop_adeb249c.jpg"
+      ],
+      "title": "Girl In Tailor Workshop",
+      "variants": 1
+    },
+    {
+      "id": "006269b2e1987b98",
+      "category": "shops_markets",
+      "image": "shops_markets/Girl_in_workshop_35cd0967.jpg",
+      "narration": "Maya paused and took in the scene. She was learning to notice the small moments that made a place feel real.",
+      "intro": "Errands turn into choices about money, independence, and the people around her.",
+      "images": [
+        "shops_markets/Girl_in_workshop_35cd0967.jpg"
+      ],
+      "title": "Girl In Workshop",
+      "variants": 1
+    },
+    {
+      "id": "901f2cfb7ee04e15",
+      "category": "shops_markets",
+      "image": "shops_markets/Girl_inspecting_skateboard_in_shop_d6d0c851.jpg",
+      "narration": "Maya inspected a skateboard in the shop. She made a note of what felt worth the price.",
+      "intro": "Errands turn into choices about money, independence, and the people around her.",
+      "images": [
+        "shops_markets/Girl_inspecting_skateboard_in_shop_d6d0c851.jpg"
+      ],
+      "title": "Girl Inspecting Skateboard In Shop",
+      "variants": 1
+    },
+    {
+      "id": "0310c93b84b865f7",
+      "category": "shops_markets",
+      "image": "shops_markets/Girl_inspecting_vinyl_at_market_4213f953.jpg",
+      "narration": "Maya inspected a vinyl at the market. She made a note of what felt worth the price.",
+      "intro": "Errands turn into choices about money, independence, and the people around her.",
+      "images": [
+        "shops_markets/Girl_inspecting_vinyl_at_market_4213f953.jpg",
+        "shops_markets/Girl_inspecting_vinyl_at_market_b7d3ffe4.jpg"
+      ],
+      "title": "Girl Inspecting Vinyl At Market",
+      "variants": 2
+    },
+    {
+      "id": "d93a5415db3205ac",
+      "category": "shops_markets",
+      "image": "shops_markets/Girl_interacting_at_street_market_0c7de13e.jpg",
+      "narration": "Maya shared a few words at the street market. She made a note of what felt worth the price.",
+      "intro": "Errands turn into choices about money, independence, and the people around her.",
+      "images": [
+        "shops_markets/Girl_interacting_at_street_market_0c7de13e.jpg",
+        "shops_markets/Girl_interacting_at_street_market_2d2c16c7.jpg",
+        "shops_markets/Girl_interacting_at_street_market_6c724984.jpg",
+        "shops_markets/Girl_interacting_at_street_market_85196e6b.jpg"
+      ],
+      "title": "Girl Interacting At Street Market",
+      "variants": 4
+    },
+    {
+      "id": "506ebf7127f2eb22",
+      "category": "shops_markets",
+      "image": "shops_markets/Girl_posing_at_antique_auction_d4ce5d72.jpg",
+      "narration": "Maya paused for a photo at the antique auction. She made a note of what felt worth the price.",
+      "intro": "Errands turn into choices about money, independence, and the people around her.",
+      "images": [
+        "shops_markets/Girl_posing_at_antique_auction_d4ce5d72.jpg"
+      ],
+      "title": "Girl Posing At Antique Auction",
+      "variants": 1
+    },
+    {
+      "id": "23170a8dc25b8e23",
+      "category": "shops_markets",
+      "image": "shops_markets/Girl_posing_at_car_dealership_7aec08a8.jpg",
+      "narration": "Maya paused for a photo at the car dealership. She made a note of what felt worth the price.",
+      "intro": "Errands turn into choices about money, independence, and the people around her.",
+      "images": [
+        "shops_markets/Girl_posing_at_car_dealership_7aec08a8.jpg"
+      ],
+      "title": "Girl Posing At Car Dealership",
+      "variants": 1
+    },
+    {
+      "id": "7fd616046fb09b5c",
+      "category": "shops_markets",
+      "image": "shops_markets/Girl_posing_at_street_market_ccb6f91d.jpg",
+      "narration": "Maya paused for a photo at the street market. She made a note of what felt worth the price.",
+      "intro": "Errands turn into choices about money, independence, and the people around her.",
+      "images": [
+        "shops_markets/Girl_posing_at_street_market_ccb6f91d.jpg"
+      ],
+      "title": "Girl Posing At Street Market",
+      "variants": 1
+    },
+    {
+      "id": "a99b356e9eb205c6",
+      "category": "shops_markets",
+      "image": "shops_markets/Girl_posing_in_car_dealership_a5cbce67.jpg",
+      "narration": "Maya paused for a photo in the car dealership. She made a note of what felt worth the price.",
+      "intro": "Errands turn into choices about money, independence, and the people around her.",
+      "images": [
+        "shops_markets/Girl_posing_in_car_dealership_a5cbce67.jpg",
+        "shops_markets/Girl_posing_in_car_dealership_d7b183ec.jpg"
+      ],
+      "title": "Girl Posing In Car Dealership",
+      "variants": 2
+    },
+    {
+      "id": "1e8b2edeb81af8f0",
+      "category": "shops_markets",
+      "image": "shops_markets/Girl_posing_in_clock_workshop_f78f1a69.jpg",
+      "narration": "Maya paused for a photo in the clock workshop. She made a note of what felt worth the price.",
+      "intro": "Errands turn into choices about money, independence, and the people around her.",
+      "images": [
+        "shops_markets/Girl_posing_in_clock_workshop_f78f1a69.jpg"
+      ],
+      "title": "Girl Posing In Clock Workshop",
+      "variants": 1
+    },
+    {
+      "id": "1cc56d181c07aeee",
+      "category": "shops_markets",
+      "image": "shops_markets/Girl_posing_in_record_store_7a1ddf8b.jpg",
+      "narration": "Maya paused for a photo in the record store. Independence came from knowing what she wanted.",
+      "intro": "Errands turn into choices about money, independence, and the people around her.",
+      "images": [
+        "shops_markets/Girl_posing_in_record_store_7a1ddf8b.jpg",
+        "shops_markets/Girl_posing_in_record_store_c0ecdbfd.jpg"
+      ],
+      "title": "Girl Posing In Record Store",
+      "variants": 2
+    },
+    {
+      "id": "0247e88378f136e0",
+      "category": "shops_markets",
+      "image": "shops_markets/Girl_posing_in_thrift_boutique_5e58f1a4.jpg",
+      "narration": "Maya paused for a photo in the thrift boutique. Independence came from knowing what she wanted.",
+      "intro": "Errands turn into choices about money, independence, and the people around her.",
+      "images": [
+        "shops_markets/Girl_posing_in_thrift_boutique_5e58f1a4.jpg"
+      ],
+      "title": "Girl Posing In Thrift Boutique",
+      "variants": 1
+    },
+    {
+      "id": "56467d11e242aeaa",
+      "category": "shops_markets",
+      "image": "shops_markets/Girl_posing_in_workshop_5c331635.jpg",
+      "narration": "Maya paused for a photo in the workshop. She made a note of what felt worth the price.",
+      "intro": "Errands turn into choices about money, independence, and the people around her.",
+      "images": [
+        "shops_markets/Girl_posing_in_workshop_5c331635.jpg",
+        "shops_markets/Girl_posing_in_workshop_c08a4fab.jpg",
+        "shops_markets/Girl_posing_in_workshop_efeece55.jpg",
+        "shops_markets/Girl_posing_in_workshop_f7c6e376.jpg"
+      ],
+      "title": "Girl Posing In Workshop",
+      "variants": 4
+    },
+    {
+      "id": "e3d6c5a80052b324",
+      "category": "shops_markets",
+      "image": "shops_markets/Girl_repairing_clocks_in_workshop_c2894368.jpg",
+      "narration": "Maya repaired clocks in the workshop. She made a note of what felt worth the price.",
+      "intro": "Errands turn into choices about money, independence, and the people around her.",
+      "images": [
+        "shops_markets/Girl_repairing_clocks_in_workshop_c2894368.jpg"
+      ],
+      "title": "Girl Repairing Clocks In Workshop",
+      "variants": 1
+    },
+    {
+      "id": "c5fa382690e221a9",
+      "category": "shops_markets",
+      "image": "shops_markets/Girl_repairing_watch_in_workshop_e3ff4706.jpg",
+      "narration": "Maya repaired her watch in the workshop. She made a note of what felt worth the price.",
+      "intro": "Errands turn into choices about money, independence, and the people around her.",
+      "images": [
+        "shops_markets/Girl_repairing_watch_in_workshop_e3ff4706.jpg"
+      ],
+      "title": "Girl Repairing Watch In Workshop",
+      "variants": 1
+    },
+    {
+      "id": "f5ef976f8a9667b9",
+      "category": "shops_markets",
+      "image": "shops_markets/Girl_shopping_at_market_b6dc5d12.jpg",
+      "narration": "Maya shopped at the market. She made a note of what felt worth the price.",
+      "intro": "Errands turn into choices about money, independence, and the people around her.",
+      "images": [
+        "shops_markets/Girl_shopping_at_market_b6dc5d12.jpg"
+      ],
+      "title": "Girl Shopping At Market",
+      "variants": 1
+    },
+    {
+      "id": "f78c83d898198207",
+      "category": "shops_markets",
+      "image": "shops_markets/Girl_smelling_tulips_at_market_67d0b5fb.jpg",
+      "narration": "Maya smelled tulips at the market. She made a note of what felt worth the price.",
+      "intro": "Errands turn into choices about money, independence, and the people around her.",
+      "images": [
+        "shops_markets/Girl_smelling_tulips_at_market_67d0b5fb.jpg",
+        "shops_markets/Girl_smelling_tulips_at_market_ae69f9e3.jpg",
+        "shops_markets/Girl_smelling_tulips_at_market_c368c59e.jpg"
+      ],
+      "title": "Girl Smelling Tulips At Market",
+      "variants": 3
+    },
+    {
+      "id": "d9e6981f70237148",
+      "category": "shops_markets",
+      "image": "shops_markets/Girl_trying_sunglasses_in_mall_60578f41.jpg",
+      "narration": "Maya tried sunglasses in the mall. She made a note of what felt worth the price.",
+      "intro": "Errands turn into choices about money, independence, and the people around her.",
+      "images": [
+        "shops_markets/Girl_trying_sunglasses_in_mall_60578f41.jpg"
+      ],
+      "title": "Girl Trying Sunglasses In Mall",
+      "variants": 1
+    },
+    {
+      "id": "bfd6366ea996eb94",
+      "category": "shops_markets",
+      "image": "shops_markets/Girl_working_convenience_store_c_3a12e2b8.jpg",
+      "narration": "Maya worked a convenience store c. Independence came from knowing what she wanted.",
+      "intro": "Errands turn into choices about money, independence, and the people around her.",
+      "images": [
+        "shops_markets/Girl_working_convenience_store_c_3a12e2b8.jpg",
+        "shops_markets/Girl_working_convenience_store_c_8db14dc0.jpg"
+      ],
+      "title": "Girl Working Convenience Store C",
+      "variants": 2
+    },
+    {
+      "id": "488497e2def9168c",
+      "category": "shops_markets",
+      "image": "shops_markets/Maya_counting_cash_at_store_069257aa.jpg",
+      "narration": "Maya counted a cash at the store. Independence came from knowing what she wanted.",
+      "intro": "Errands turn into choices about money, independence, and the people around her.",
+      "images": [
+        "shops_markets/Maya_counting_cash_at_store_069257aa.jpg"
+      ],
+      "title": "Maya Counting Cash At Store",
+      "variants": 1
+    },
+    {
+      "id": "e00afd30f5fa910a",
+      "category": "shops_markets",
+      "image": "shops_markets/Maya_counting_money_in_store_edf9a38c.jpg",
+      "narration": "Maya counted money in the store. Independence came from knowing what she wanted.",
+      "intro": "Errands turn into choices about money, independence, and the people around her.",
+      "images": [
+        "shops_markets/Maya_counting_money_in_store_edf9a38c.jpg"
+      ],
+      "title": "Maya Counting Money In Store",
+      "variants": 1
+    },
+    {
+      "id": "c8843de44427210c",
+      "category": "shops_markets",
+      "image": "shops_markets/Maya_walking_in_laundromat_e3ed25d8.jpg",
+      "narration": "Maya walked in the laundromat. She made a note of what felt worth the price.",
+      "intro": "Errands turn into choices about money, independence, and the people around her.",
+      "images": [
+        "shops_markets/Maya_walking_in_laundromat_e3ed25d8.jpg"
+      ],
+      "title": "Maya Walking In Laundromat",
+      "variants": 1
+    },
+    {
+      "id": "3e85f81523e0f15f",
+      "category": "shops_markets",
+      "image": "shops_markets/Surprised_girl_at_music_shop_cd991052.jpg",
+      "narration": "Something unexpected happened at the music shop. Maya took a breath and chose curiosity over panic.",
+      "intro": "Errands turn into choices about money, independence, and the people around her.",
+      "images": [
+        "shops_markets/Surprised_girl_at_music_shop_cd991052.jpg"
+      ],
+      "title": "Surprised Girl At Music Shop",
+      "variants": 1
+    },
+    {
+      "id": "c027eacbefe7d402",
+      "category": "shops_markets",
+      "image": "shops_markets/Surprised_girl_browsing_record_c_1e6113e8.jpg",
+      "narration": "Something unexpected happened at the city. Maya took a breath and chose curiosity over panic.",
+      "intro": "Errands turn into choices about money, independence, and the people around her.",
+      "images": [
+        "shops_markets/Surprised_girl_browsing_record_c_1e6113e8.jpg"
+      ],
+      "title": "Surprised Girl Browsing Record C",
+      "variants": 1
+    },
+    {
+      "id": "f0de761a611a22e6",
+      "category": "shops_markets",
+      "image": "shops_markets/Surprised_girl_in_antique_store_0b07ed00.jpg",
+      "narration": "Something unexpected happened at the antique store. Maya took a breath and chose curiosity over panic.",
+      "intro": "Errands turn into choices about money, independence, and the people around her.",
+      "images": [
+        "shops_markets/Surprised_girl_in_antique_store_0b07ed00.jpg",
+        "shops_markets/Surprised_girl_in_antique_store_e032ed10.jpg"
+      ],
+      "title": "Surprised Girl In Antique Store",
+      "variants": 2
+    },
+    {
+      "id": "7e7d5ea6c3e38d11",
+      "category": "shops_markets",
+      "image": "shops_markets/Surprised_girl_in_bookstore_aisle_b1025a0e.jpg",
+      "narration": "Something unexpected happened at the bookstore aisle. Maya took a breath and chose curiosity over panic.",
+      "intro": "Errands turn into choices about money, independence, and the people around her.",
+      "images": [
+        "shops_markets/Surprised_girl_in_bookstore_aisle_b1025a0e.jpg",
+        "shops_markets/Surprised_girl_in_bookstore_aisle_f8cc8b2b.jpg"
+      ],
+      "title": "Surprised Girl In Bookstore Aisle",
+      "variants": 2
+    },
+    {
+      "id": "02793bf769e7bcd7",
+      "category": "shops_markets",
+      "image": "shops_markets/Surprised_girl_in_comic_shop_76910f8c.jpg",
+      "narration": "Something unexpected happened at the comic shop. Maya took a breath and chose curiosity over panic.",
+      "intro": "Errands turn into choices about money, independence, and the people around her.",
+      "images": [
+        "shops_markets/Surprised_girl_in_comic_shop_76910f8c.jpg"
+      ],
+      "title": "Surprised Girl In Comic Shop",
+      "variants": 1
+    },
+    {
+      "id": "20da8e53bd0d7c0e",
+      "category": "shops_markets",
+      "image": "shops_markets/Surprised_girl_in_hardware_store_926847ce.jpg",
+      "narration": "Something unexpected happened at the hardware store. Maya took a breath and chose curiosity over panic.",
+      "intro": "Errands turn into choices about money, independence, and the people around her.",
+      "images": [
+        "shops_markets/Surprised_girl_in_hardware_store_926847ce.jpg"
+      ],
+      "title": "Surprised Girl In Hardware Store",
+      "variants": 1
+    },
+    {
+      "id": "99cdb8df764c85a1",
+      "category": "shops_markets",
+      "image": "shops_markets/Woman_counting_money_in_store_955b8338.jpg",
+      "narration": "Maya counted money in the store. Independence came from knowing what she wanted.",
+      "intro": "Errands turn into choices about money, independence, and the people around her.",
+      "images": [
+        "shops_markets/Woman_counting_money_in_store_955b8338.jpg"
+      ],
+      "title": "Woman Counting Money In Store",
+      "variants": 1
+    },
+    {
+      "id": "e539846ae3f075ab",
+      "category": "shops_markets",
+      "image": "shops_markets/Woman_hiding_pass_in_bookstore_f7ab39be.jpg",
+      "narration": "Maya hid a pass in the bookstore. Independence came from knowing what she wanted.",
+      "intro": "Errands turn into choices about money, independence, and the people around her.",
+      "images": [
+        "shops_markets/Woman_hiding_pass_in_bookstore_f7ab39be.jpg"
+      ],
+      "title": "Woman Hiding Pass In Bookstore",
+      "variants": 1
+    },
+    {
+      "id": "c962b07416f45e7c",
+      "category": "shops_markets",
+      "image": "shops_markets/Woman_leaning_in_bookstore_aisle_85101e6a.jpg",
+      "narration": "Maya leaned in the bookstore aisle. Independence came from knowing what she wanted.",
+      "intro": "Errands turn into choices about money, independence, and the people around her.",
+      "images": [
+        "shops_markets/Woman_leaning_in_bookstore_aisle_85101e6a.jpg"
+      ],
+      "title": "Woman Leaning In Bookstore Aisle",
+      "variants": 1
+    },
+    {
+      "id": "d498bc29a2346b60",
+      "category": "shops_markets",
+      "image": "shops_markets/Woman_standing_in_bookstore_aisle_1da1524a.jpg",
+      "narration": "Maya stood in the bookstore aisle. Independence came from knowing what she wanted.",
+      "intro": "Errands turn into choices about money, independence, and the people around her.",
+      "images": [
+        "shops_markets/Woman_standing_in_bookstore_aisle_1da1524a.jpg"
+      ],
+      "title": "Woman Standing In Bookstore Aisle",
+      "variants": 1
+    },
+    {
+      "id": "69ae9d8c91f3d40c",
+      "category": "shops_markets",
+      "image": "shops_markets/Young_woman_posing_in_laundromat_d802fb13.jpg",
+      "narration": "Maya younged a woman posing in the laundromat. She made a note of what felt worth the price.",
+      "intro": "Errands turn into choices about money, independence, and the people around her.",
+      "images": [
+        "shops_markets/Young_woman_posing_in_laundromat_d802fb13.jpg"
+      ],
+      "title": "Young Woman Posing In Laundromat",
+      "variants": 1
+    },
+    {
+      "id": "a89faeabada2c154",
+      "category": "shops_markets",
+      "image": "shops_markets/Young_woman_winking_at_mart_28209fe5.jpg",
+      "narration": "Maya younged a woman winking at the mart. She made a note of what felt worth the price.",
+      "intro": "Errands turn into choices about money, independence, and the people around her.",
+      "images": [
+        "shops_markets/Young_woman_winking_at_mart_28209fe5.jpg"
+      ],
+      "title": "Young Woman Winking At Mart",
+      "variants": 1
+    },
+    {
+      "id": "e58b69dba71c8b18",
+      "category": "social_events",
+      "image": "social_events/Girl_at_house_party_20efa697.jpg",
+      "narration": "Maya paused and took in the scene. She was learning to notice the small moments that made a place feel real.",
+      "intro": "Each invitation asks Maya how much of herself she wants to share with the city.",
+      "images": [
+        "social_events/Girl_at_house_party_20efa697.jpg",
+        "social_events/Girl_at_house_party_34de17ac.jpg",
+        "social_events/Girl_at_house_party_b3a89c70.jpg"
+      ],
+      "title": "Girl At House Party",
+      "variants": 3
+    },
+    {
+      "id": "a63a9e8ef94db853",
+      "category": "social_events",
+      "image": "social_events/Girl_attending_house_party_0b743f30.jpg",
+      "narration": "Maya attended a house party. She made a note to remember how this felt.",
+      "intro": "Each invitation asks Maya how much of herself she wants to share with the city.",
+      "images": [
+        "social_events/Girl_attending_house_party_0b743f30.jpg",
+        "social_events/Girl_attending_house_party_3311a523.jpg",
+        "social_events/Girl_attending_house_party_d9f19881.jpg"
+      ],
+      "title": "Girl Attending House Party",
+      "variants": 3
+    },
+    {
+      "id": "5b3d45687839d788",
+      "category": "social_events",
+      "image": "social_events/Girl_dancing_at_house_party_1c81578d.jpg",
+      "narration": "Maya danced at the house party. She made a note to remember how this felt.",
+      "intro": "Each invitation asks Maya how much of herself she wants to share with the city.",
+      "images": [
+        "social_events/Girl_dancing_at_house_party_1c81578d.jpg",
+        "social_events/Girl_dancing_at_house_party_6d8dadb9.jpg",
+        "social_events/Girl_dancing_at_house_party_b97a466a.jpg",
+        "social_events/Girl_dancing_at_house_party_cb4b4a8e.jpg",
+        "social_events/Girl_dancing_at_house_party_e2e75491.jpg"
+      ],
+      "title": "Girl Dancing At House Party",
+      "variants": 5
+    },
+    {
+      "id": "89f544f5a5bb3a7e",
+      "category": "social_events",
+      "image": "social_events/Girl_DJing_at_rave_572c9a24.jpg",
+      "narration": "Maya djed at the rave. She made a note to remember how this felt.",
+      "intro": "Each invitation asks Maya how much of herself she wants to share with the city.",
+      "images": [
+        "social_events/Girl_DJing_at_rave_572c9a24.jpg"
+      ],
+      "title": "Girl Djing At Rave",
+      "variants": 1
+    },
+    {
+      "id": "e24e7b19138bbd96",
+      "category": "social_events",
+      "image": "social_events/Girl_drinking_at_house_party_2bc70e96.jpg",
+      "narration": "Maya drank at the house party. She made a note to remember how this felt.",
+      "intro": "Each invitation asks Maya how much of herself she wants to share with the city.",
+      "images": [
+        "social_events/Girl_drinking_at_house_party_2bc70e96.jpg",
+        "social_events/Girl_drinking_at_house_party_81251ce8.jpg"
+      ],
+      "title": "Girl Drinking At House Party",
+      "variants": 2
+    },
+    {
+      "id": "8e9fbf4c58f4a1bb",
+      "category": "social_events",
+      "image": "social_events/Girl_interacting_at_house_party_645ab867.jpg",
+      "narration": "Maya shared a few words at the house party. She made a note to remember how this felt.",
+      "intro": "Each invitation asks Maya how much of herself she wants to share with the city.",
+      "images": [
+        "social_events/Girl_interacting_at_house_party_645ab867.jpg"
+      ],
+      "title": "Girl Interacting At House Party",
+      "variants": 1
+    },
+    {
+      "id": "d8a1d2e3082fd008",
+      "category": "social_events",
+      "image": "social_events/Girl_interacting_with_house_party_e98d9fbb.jpg",
+      "narration": "Maya shared a quiet exchange with someone she did not yet know. The conversation left the city feeling less anonymous.",
+      "intro": "Each invitation asks Maya how much of herself she wants to share with the city.",
+      "images": [
+        "social_events/Girl_interacting_with_house_party_e98d9fbb.jpg"
+      ],
+      "title": "Girl Interacting With House Party",
+      "variants": 1
+    },
+    {
+      "id": "b12cb05b4babebf3",
+      "category": "social_events",
+      "image": "social_events/Girl_interacting_with_party_props_ada7d55a.jpg",
+      "narration": "Maya shared a quiet exchange with someone she did not yet know. The conversation left the city feeling less anonymous.",
+      "intro": "Each invitation asks Maya how much of herself she wants to share with the city.",
+      "images": [
+        "social_events/Girl_interacting_with_party_props_ada7d55a.jpg"
+      ],
+      "title": "Girl Interacting With Party Props",
+      "variants": 1
+    },
+    {
+      "id": "29ff750da55d084e",
+      "category": "social_events",
+      "image": "social_events/Girl_posing_at_house_party_5dd3f726.jpg",
+      "narration": "Maya paused for a photo at the house party. She made a note to remember how this felt.",
+      "intro": "Each invitation asks Maya how much of herself she wants to share with the city.",
+      "images": [
+        "social_events/Girl_posing_at_house_party_5dd3f726.jpg",
+        "social_events/Girl_posing_at_house_party_905e5621.jpg"
+      ],
+      "title": "Girl Posing At House Party",
+      "variants": 2
+    },
+    {
+      "id": "ba566b7c7c192d9a",
+      "category": "social_events",
+      "image": "social_events/Girl_posing_at_rave_7c31c92b.jpg",
+      "narration": "Maya paused for a photo at the rave. She made a note to remember how this felt.",
+      "intro": "Each invitation asks Maya how much of herself she wants to share with the city.",
+      "images": [
+        "social_events/Girl_posing_at_rave_7c31c92b.jpg"
+      ],
+      "title": "Girl Posing At Rave",
+      "variants": 1
+    },
+    {
+      "id": "932428f14c928eb4",
+      "category": "social_events",
+      "image": "social_events/Girl_posing_at_rooftop_bar_ac31538a.jpg",
+      "narration": "Maya paused for a photo at the rooftop bar. A small choice felt like the beginning of something.",
+      "intro": "Each invitation asks Maya how much of herself she wants to share with the city.",
+      "images": [
+        "social_events/Girl_posing_at_rooftop_bar_ac31538a.jpg"
+      ],
+      "title": "Girl Posing At Rooftop Bar",
+      "variants": 1
+    },
+    {
+      "id": "cdec79d0c37ae588",
+      "category": "social_events",
+      "image": "social_events/Girl_posing_at_wedding_venue_c24787a8.jpg",
+      "narration": "Maya paused for a photo at the wedding venue. She made a note to remember how this felt.",
+      "intro": "Each invitation asks Maya how much of herself she wants to share with the city.",
+      "images": [
+        "social_events/Girl_posing_at_wedding_venue_c24787a8.jpg",
+        "social_events/Girl_posing_at_wedding_venue_f0fcf3b1.jpg"
+      ],
+      "title": "Girl Posing At Wedding Venue",
+      "variants": 2
+    },
+    {
+      "id": "09ecd84c4a8b25e9",
+      "category": "social_events",
+      "image": "social_events/Girl_posing_awkwardly_in_reception_8ef0e771.jpg",
+      "narration": "Maya paused for a photo in the reception. A small choice felt like the beginning of something.",
+      "intro": "Each invitation asks Maya how much of herself she wants to share with the city.",
+      "images": [
+        "social_events/Girl_posing_awkwardly_in_reception_8ef0e771.jpg"
+      ],
+      "title": "Girl Posing Awkwardly In Reception",
+      "variants": 1
+    },
+    {
+      "id": "9c673d59f9c370b2",
+      "category": "social_events",
+      "image": "social_events/Girl_posing_in_jazz_club_36ae835e.jpg",
+      "narration": "Maya paused for a photo in the jazz club. A small choice felt like the beginning of something.",
+      "intro": "Each invitation asks Maya how much of herself she wants to share with the city.",
+      "images": [
+        "social_events/Girl_posing_in_jazz_club_36ae835e.jpg",
+        "social_events/Girl_posing_in_jazz_club_fb898dba.jpg"
+      ],
+      "title": "Girl Posing In Jazz Club",
+      "variants": 2
+    },
+    {
+      "id": "7cc98575e30c6735",
+      "category": "social_events",
+      "image": "social_events/Girl_posing_in_vinyl_lounge_c555de8f.jpg",
+      "narration": "Maya paused for a photo in the vinyl lounge. She made a note to remember how this felt.",
+      "intro": "Each invitation asks Maya how much of herself she wants to share with the city.",
+      "images": [
+        "social_events/Girl_posing_in_vinyl_lounge_c555de8f.jpg"
+      ],
+      "title": "Girl Posing In Vinyl Lounge",
+      "variants": 1
+    },
+    {
+      "id": "e2bd72ffc407f8dc",
+      "category": "social_events",
+      "image": "social_events/Girl_posing_on_candlelit_terrace_499a374a.jpg",
+      "narration": "Maya paused for a photo on the candlelit terrace. She made a note to remember how this felt.",
+      "intro": "Each invitation asks Maya how much of herself she wants to share with the city.",
+      "images": [
+        "social_events/Girl_posing_on_candlelit_terrace_499a374a.jpg"
+      ],
+      "title": "Girl Posing On Candlelit Terrace",
+      "variants": 1
+    },
+    {
+      "id": "5ae48009523afac4",
+      "category": "social_events",
+      "image": "social_events/Girl_reacting_in_nightclub_booth_c0906a6e.jpg",
+      "narration": "Maya reacted in the nightclub booth. It was an ordinary moment, but it belonged to her.",
+      "intro": "Each invitation asks Maya how much of herself she wants to share with the city.",
+      "images": [
+        "social_events/Girl_reacting_in_nightclub_booth_c0906a6e.jpg"
+      ],
+      "title": "Girl Reacting In Nightclub Booth",
+      "variants": 1
+    },
+    {
+      "id": "05a02c91ca947f17",
+      "category": "social_events",
+      "image": "social_events/Girl_sipping_champagne_in_nightclub_3bd01a2c.jpg",
+      "narration": "Maya sipped a champagne in the nightclub. A small choice felt like the beginning of something.",
+      "intro": "Each invitation asks Maya how much of herself she wants to share with the city.",
+      "images": [
+        "social_events/Girl_sipping_champagne_in_nightclub_3bd01a2c.jpg"
+      ],
+      "title": "Girl Sipping Champagne In Nightclub",
+      "variants": 1
+    },
+    {
+      "id": "237746a0d49eaf1a",
+      "category": "social_events",
+      "image": "social_events/Girl_surprised_on_candlelit_terrace_ca9ca444.jpg",
+      "narration": "Something unexpected happened at the candlelit terrace. Maya took a breath and chose curiosity over panic.",
+      "intro": "Each invitation asks Maya how much of herself she wants to share with the city.",
+      "images": [
+        "social_events/Girl_surprised_on_candlelit_terrace_ca9ca444.jpg"
+      ],
+      "title": "Girl Surprised On Candlelit Terrace",
+      "variants": 1
+    },
+    {
+      "id": "7365fee858f69fa5",
+      "category": "social_events",
+      "image": "social_events/Girl_testing_microphone_in_lounge_7ea2e40d.jpg",
+      "narration": "Maya tested a microphone in the lounge. She made a note to remember how this felt.",
+      "intro": "Each invitation asks Maya how much of herself she wants to share with the city.",
+      "images": [
+        "social_events/Girl_testing_microphone_in_lounge_7ea2e40d.jpg"
+      ],
+      "title": "Girl Testing Microphone In Lounge",
+      "variants": 1
+    },
+    {
+      "id": "7838682e38814c76",
+      "category": "social_events",
+      "image": "social_events/Girl_testing_microphones_in_karaoke_8d28ed99.jpg",
+      "narration": "Maya tested microphones in the karaoke. She made a note to remember how this felt.",
+      "intro": "Each invitation asks Maya how much of herself she wants to share with the city.",
+      "images": [
+        "social_events/Girl_testing_microphones_in_karaoke_8d28ed99.jpg"
+      ],
+      "title": "Girl Testing Microphones In Karaoke",
+      "variants": 1
+    },
+    {
+      "id": "c46010f42588bacf",
+      "category": "social_events",
+      "image": "social_events/__LOCATION____[(Velvet_booth_+_sipping_3d48408e.jpg",
+      "narration": "Maya velvetted a booth sipping. For a few seconds, the rush of the city eased.",
+      "intro": "Each invitation asks Maya how much of herself she wants to share with the city.",
+      "images": [
+        "social_events/__LOCATION____[(Velvet_booth_+_sipping_3d48408e.jpg",
+        "social_events/__LOCATION____[(Velvet_booth_+_sipping_dd7f110f.jpg"
+      ],
+      "title": "Location Velvet Booth Sipping",
+      "variants": 2
+    },
+    {
+      "id": "29091d110f33a2f1",
+      "category": "social_events",
+      "image": "social_events/__LOCATION____[(VIP_lounge_+_fixing_1a979366.jpg",
+      "narration": "Maya vipped a lounge fixing. For a few seconds, the rush of the city eased.",
+      "intro": "Each invitation asks Maya how much of herself she wants to share with the city.",
+      "images": [
+        "social_events/__LOCATION____[(VIP_lounge_+_fixing_1a979366.jpg"
+      ],
+      "title": "Location Vip Lounge Fixing",
+      "variants": 1
+    },
+    {
+      "id": "b47b60356639a017",
+      "category": "social_events",
+      "image": "social_events/Surprised_girl_in_vinyl_lounge_0dbc39da.jpg",
+      "narration": "Something unexpected happened at the vinyl lounge. Maya took a breath and chose curiosity over panic.",
+      "intro": "Each invitation asks Maya how much of herself she wants to share with the city.",
+      "images": [
+        "social_events/Surprised_girl_in_vinyl_lounge_0dbc39da.jpg",
+        "social_events/Surprised_girl_in_vinyl_lounge_be726ad5.jpg"
+      ],
+      "title": "Surprised Girl In Vinyl Lounge",
+      "variants": 2
+    },
+    {
+      "id": "7858acfbb8b382fc",
+      "category": "social_events",
+      "image": "social_events/Woman_lounging_in_dive_bar_5e31d733.jpg",
+      "narration": "Maya lounged in the dive bar. A small choice felt like the beginning of something.",
+      "intro": "Each invitation asks Maya how much of herself she wants to share with the city.",
+      "images": [
+        "social_events/Woman_lounging_in_dive_bar_5e31d733.jpg"
+      ],
+      "title": "Woman Lounging In Dive Bar",
+      "variants": 1
+    },
+    {
+      "id": "431db731dbd2db84",
+      "category": "social_events",
+      "image": "social_events/Woman_posing_awkwardly_in_reception_d06c0409.jpg",
+      "narration": "Maya paused for a photo in the reception. A small choice felt like the beginning of something.",
+      "intro": "Each invitation asks Maya how much of herself she wants to share with the city.",
+      "images": [
+        "social_events/Woman_posing_awkwardly_in_reception_d06c0409.jpg"
+      ],
+      "title": "Woman Posing Awkwardly In Reception",
+      "variants": 1
+    },
+    {
+      "id": "2f37d0fa99e5f722",
+      "category": "social_events",
+      "image": "social_events/Woman_sipping_champagne_in_night_361f5595.jpg",
+      "narration": "Maya sipped a champagne in the night. It was an ordinary moment, but it belonged to her.",
+      "intro": "Each invitation asks Maya how much of herself she wants to share with the city.",
+      "images": [
+        "social_events/Woman_sipping_champagne_in_night_361f5595.jpg"
+      ],
+      "title": "Woman Sipping Champagne In Night",
+      "variants": 1
+    },
+    {
+      "id": "1744896d8736f7a6",
+      "category": "transport",
+      "image": "transport/Girl_acting_surprised_in_subway_e23858fb.jpg",
+      "narration": "Something unexpected happened at the subway. Maya took a breath and chose curiosity over panic.",
+      "intro": "Each route across the city makes Maya's world feel a little larger.",
+      "images": [
+        "transport/Girl_acting_surprised_in_subway_e23858fb.jpg"
+      ],
+      "title": "Girl Acting Surprised In Subway",
+      "variants": 1
+    },
+    {
+      "id": "6edc79e2417300b0",
+      "category": "transport",
+      "image": "transport/Girl_arranging_luggage_in_airport_9c77d107.jpg",
+      "narration": "Maya arranged a luggage in the airport. The city felt less distant than it had yesterday.",
+      "intro": "Each route across the city makes Maya's world feel a little larger.",
+      "images": [
+        "transport/Girl_arranging_luggage_in_airport_9c77d107.jpg"
+      ],
+      "title": "Girl Arranging Luggage In Airport",
+      "variants": 1
+    },
+    {
+      "id": "5e28817b3aa492e1",
+      "category": "transport",
+      "image": "transport/Girl_catching_train_at_station_b70486da.jpg",
+      "narration": "Maya caught a train at the station. The city felt less distant than it had yesterday.",
+      "intro": "Each route across the city makes Maya's world feel a little larger.",
+      "images": [
+        "transport/Girl_catching_train_at_station_b70486da.jpg"
+      ],
+      "title": "Girl Catching Train At Station",
+      "variants": 1
+    },
+    {
+      "id": "99aee4dae7f2d0d1",
+      "category": "transport",
+      "image": "transport/Girl_checking_watch_at_station_3dda6f25.jpg",
+      "narration": "Maya checked her watch at the station. The city felt less distant than it had yesterday.",
+      "intro": "Each route across the city makes Maya's world feel a little larger.",
+      "images": [
+        "transport/Girl_checking_watch_at_station_3dda6f25.jpg"
+      ],
+      "title": "Girl Checking Watch At Station",
+      "variants": 1
+    },
+    {
+      "id": "56a2b52c80cd7306",
+      "category": "transport",
+      "image": "transport/Girl_leaning_on_yacht_railing_8827b800.jpg",
+      "narration": "Maya leaned on the yacht railing. She was finding her own way through the streets.",
+      "intro": "Each route across the city makes Maya's world feel a little larger.",
+      "images": [
+        "transport/Girl_leaning_on_yacht_railing_8827b800.jpg",
+        "transport/Girl_leaning_on_yacht_railing_d27c8960.jpg"
+      ],
+      "title": "Girl Leaning On Yacht Railing",
+      "variants": 2
+    },
+    {
+      "id": "2a43943fcecc5d06",
+      "category": "transport",
+      "image": "transport/Girl_looking_out_train_window_35ffda90.jpg",
+      "narration": "Maya looked out of the train window. She was finding her own way through the streets.",
+      "intro": "Each route across the city makes Maya's world feel a little larger.",
+      "images": [
+        "transport/Girl_looking_out_train_window_35ffda90.jpg"
+      ],
+      "title": "Girl Looking Out Train Window",
+      "variants": 1
+    },
+    {
+      "id": "641d7e41e5e989e0",
+      "category": "transport",
+      "image": "transport/Girl_looking_surprised_on_ferry_2a918059.jpg",
+      "narration": "Something unexpected happened at the ferry. Maya took a breath and chose curiosity over panic.",
+      "intro": "Each route across the city makes Maya's world feel a little larger.",
+      "images": [
+        "transport/Girl_looking_surprised_on_ferry_2a918059.jpg"
+      ],
+      "title": "Girl Looking Surprised On Ferry",
+      "variants": 1
+    },
+    {
+      "id": "ea2ea28fe8393a7d",
+      "category": "transport",
+      "image": "transport/Girl_posing_at_boat_harbour_9e548949.jpg",
+      "narration": "Maya paused for a photo at the boat harbour. The city felt less distant than it had yesterday.",
+      "intro": "Each route across the city makes Maya's world feel a little larger.",
+      "images": [
+        "transport/Girl_posing_at_boat_harbour_9e548949.jpg",
+        "transport/Girl_posing_at_boat_harbour_a3260ab6.jpg"
+      ],
+      "title": "Girl Posing At Boat Harbour",
+      "variants": 2
+    },
+    {
+      "id": "ec68811948a1af40",
+      "category": "transport",
+      "image": "transport/Girl_posing_at_subway_platform_55b05a93.jpg",
+      "narration": "Maya paused for a photo at the subway platform. She was finding her own way through the streets.",
+      "intro": "Each route across the city makes Maya's world feel a little larger.",
+      "images": [
+        "transport/Girl_posing_at_subway_platform_55b05a93.jpg"
+      ],
+      "title": "Girl Posing At Subway Platform",
+      "variants": 1
+    },
+    {
+      "id": "8ba74e5b2200cbde",
+      "category": "transport",
+      "image": "transport/Girl_posing_in_boathouse_loft_f5f2b0d3.jpg",
+      "narration": "Maya paused for a photo in the boathouse loft. The city felt less distant than it had yesterday.",
+      "intro": "Each route across the city makes Maya's world feel a little larger.",
+      "images": [
+        "transport/Girl_posing_in_boathouse_loft_f5f2b0d3.jpg"
+      ],
+      "title": "Girl Posing In Boathouse Loft",
+      "variants": 1
+    },
+    {
+      "id": "6421c7784ddc73be",
+      "category": "transport",
+      "image": "transport/Girl_posing_on_yacht_9d4f6767.jpg",
+      "narration": "Maya paused for a photo on the yacht. The city felt less distant than it had yesterday.",
+      "intro": "Each route across the city makes Maya's world feel a little larger.",
+      "images": [
+        "transport/Girl_posing_on_yacht_9d4f6767.jpg"
+      ],
+      "title": "Girl Posing On Yacht",
+      "variants": 1
+    },
+    {
+      "id": "4c7d3a9d66eefa47",
+      "category": "transport",
+      "image": "transport/Girl_pulling_luggage_at_airport_0cfcd9de.jpg",
+      "narration": "Maya pulled a luggage at the airport. The city felt less distant than it had yesterday.",
+      "intro": "Each route across the city makes Maya's world feel a little larger.",
+      "images": [
+        "transport/Girl_pulling_luggage_at_airport_0cfcd9de.jpg"
+      ],
+      "title": "Girl Pulling Luggage At Airport",
+      "variants": 1
+    },
+    {
+      "id": "60ace6617dab7e1a",
+      "category": "transport",
+      "image": "transport/Girl_reacting_on_yacht_d32fafc2.jpg",
+      "narration": "Maya reacted on the yacht. The city felt less distant than it had yesterday.",
+      "intro": "Each route across the city makes Maya's world feel a little larger.",
+      "images": [
+        "transport/Girl_reacting_on_yacht_d32fafc2.jpg"
+      ],
+      "title": "Girl Reacting On Yacht",
+      "variants": 1
+    },
+    {
+      "id": "d4aa6fc00802087f",
+      "category": "transport",
+      "image": "transport/Girl_running_at_train_station_3ce86d75.jpg",
+      "narration": "Maya ran at the train station. The city felt less distant than it had yesterday.",
+      "intro": "Each route across the city makes Maya's world feel a little larger.",
+      "images": [
+        "transport/Girl_running_at_train_station_3ce86d75.jpg",
+        "transport/Girl_running_at_train_station_83a1a8ae.jpg"
+      ],
+      "title": "Girl Running At Train Station",
+      "variants": 2
+    },
+    {
+      "id": "78fa471c511c7345",
+      "category": "transport",
+      "image": "transport/Girl_standing_at_bus_stand_4d65aae2.jpg",
+      "narration": "Maya stood at the bus stand. The city felt less distant than it had yesterday.",
+      "intro": "Each route across the city makes Maya's world feel a little larger.",
+      "images": [
+        "transport/Girl_standing_at_bus_stand_4d65aae2.jpg"
+      ],
+      "title": "Girl Standing At Bus Stand",
+      "variants": 1
+    },
+    {
+      "id": "dce425c8b35d47e4",
+      "category": "transport",
+      "image": "transport/Girl_surprised_on_ferry_deck_b5eafddd.jpg",
+      "narration": "Something unexpected happened at the ferry deck. Maya took a breath and chose curiosity over panic.",
+      "intro": "Each route across the city makes Maya's world feel a little larger.",
+      "images": [
+        "transport/Girl_surprised_on_ferry_deck_b5eafddd.jpg"
+      ],
+      "title": "Girl Surprised On Ferry Deck",
+      "variants": 1
+    },
+    {
+      "id": "200a8c2e4a32afdd",
+      "category": "transport",
+      "image": "transport/Girl_waiting_at_bus_stop_28a54620.jpg",
+      "narration": "Maya waited at the bus stop. The city felt less distant than it had yesterday.",
+      "intro": "Each route across the city makes Maya's world feel a little larger.",
+      "images": [
+        "transport/Girl_waiting_at_bus_stop_28a54620.jpg"
+      ],
+      "title": "Girl Waiting At Bus Stop",
+      "variants": 1
+    },
+    {
+      "id": "69a8b3004dc2f7f0",
+      "category": "transport",
+      "image": "transport/Girl_waiting_for_bus_37a9f56c.jpg",
+      "narration": "Maya waited for a bus at the bus stop. She was finding her own way through the streets.",
+      "intro": "Each route across the city makes Maya's world feel a little larger.",
+      "images": [
+        "transport/Girl_waiting_for_bus_37a9f56c.jpg",
+        "transport/Girl_waiting_for_bus_880bb749.jpg",
+        "transport/Girl_waiting_for_bus_dec7003a.jpg",
+        "transport/Girl_waiting_for_bus_e390797e.jpg",
+        "transport/Girl_waiting_for_bus_f887681e.jpg"
+      ],
+      "title": "Girl Waiting For Bus",
+      "variants": 5
+    },
+    {
+      "id": "705402957782fe28",
+      "category": "transport",
+      "image": "transport/Girl_waiting_on_subway_platform_0992f342.jpg",
+      "narration": "Maya waited on the subway platform. She was finding her own way through the streets.",
+      "intro": "Each route across the city makes Maya's world feel a little larger.",
+      "images": [
+        "transport/Girl_waiting_on_subway_platform_0992f342.jpg",
+        "transport/Girl_waiting_on_subway_platform_c1df9068.jpg"
+      ],
+      "title": "Girl Waiting On Subway Platform",
+      "variants": 2
+    },
+    {
+      "id": "564d4dfe3eca04d0",
+      "category": "transport",
+      "image": "transport/Girl_watching_boats_at_night_62916f3f.jpg",
+      "narration": "Maya watched boats at the night. The city felt less distant than it had yesterday.",
+      "intro": "Each route across the city makes Maya's world feel a little larger.",
+      "images": [
+        "transport/Girl_watching_boats_at_night_62916f3f.jpg"
+      ],
+      "title": "Girl Watching Boats At Night",
+      "variants": 1
+    },
+    {
+      "id": "feabe523c06ada5b",
+      "category": "transport",
+      "image": "transport/Girl_waving_from_bus_2b5a281b.jpg",
+      "narration": "Maya waved from the bus. She was finding her own way through the streets.",
+      "intro": "Each route across the city makes Maya's world feel a little larger.",
+      "images": [
+        "transport/Girl_waving_from_bus_2b5a281b.jpg"
+      ],
+      "title": "Girl Waving From Bus",
+      "variants": 1
+    },
+    {
+      "id": "0a2295bf5a9e0b91",
+      "category": "transport",
+      "image": "transport/Girl_waving_on_bus_1f6dc926.jpg",
+      "narration": "Maya waved on the bus. She was finding her own way through the streets.",
+      "intro": "Each route across the city makes Maya's world feel a little larger.",
+      "images": [
+        "transport/Girl_waving_on_bus_1f6dc926.jpg"
+      ],
+      "title": "Girl Waving On Bus",
+      "variants": 1
+    },
+    {
+      "id": "53ad279a642e6590",
+      "category": "transport",
+      "image": "transport/Maya_waiting_at_bus_stop_646f0728.jpg",
+      "narration": "Maya waited at the bus stop. The city felt less distant than it had yesterday.",
+      "intro": "Each route across the city makes Maya's world feel a little larger.",
+      "images": [
+        "transport/Maya_waiting_at_bus_stop_646f0728.jpg",
+        "transport/Maya_waiting_at_bus_stop_955d7982.jpg"
+      ],
+      "title": "Maya Waiting At Bus Stop",
+      "variants": 2
+    },
+    {
+      "id": "b74a0a6f277d12ea",
+      "category": "transport",
+      "image": "transport/Woman_adjusting_strap_at_bus_7184e2e0.jpg",
+      "narration": "Maya adjusted a strap at the bus. She was finding her own way through the streets.",
+      "intro": "Each route across the city makes Maya's world feel a little larger.",
+      "images": [
+        "transport/Woman_adjusting_strap_at_bus_7184e2e0.jpg"
+      ],
+      "title": "Woman Adjusting Strap At Bus",
+      "variants": 1
+    },
+    {
+      "id": "7b7cca589a759c40",
+      "category": "transport",
+      "image": "transport/Woman_leaning_against_subway_tur_223952a0.jpg",
+      "narration": "Maya leaned an against subway tur. The city felt less distant than it had yesterday.",
+      "intro": "Each route across the city makes Maya's world feel a little larger.",
+      "images": [
+        "transport/Woman_leaning_against_subway_tur_223952a0.jpg",
+        "transport/Woman_leaning_against_subway_tur_7e677311.jpg"
+      ],
+      "title": "Woman Leaning Against Subway Tur",
+      "variants": 2
+    },
+    {
+      "id": "2954df93fc3851fe",
+      "category": "transport",
+      "image": "transport/Woman_leaning_on_motorcycle_tank_0dd514e2.jpg",
+      "narration": "Maya leaned on the motorcycle tank. She was finding her own way through the streets.",
+      "intro": "Each route across the city makes Maya's world feel a little larger.",
+      "images": [
+        "transport/Woman_leaning_on_motorcycle_tank_0dd514e2.jpg"
+      ],
+      "title": "Woman Leaning On Motorcycle Tank",
+      "variants": 1
+    },
+    {
+      "id": "53525bc20c9d9136",
+      "category": "transport",
+      "image": "transport/Woman_sitting_at_subway_turnstile_7e428f86.jpg",
+      "narration": "Maya sitted at the subway turnstile. She was finding her own way through the streets.",
+      "intro": "Each route across the city makes Maya's world feel a little larger.",
+      "images": [
+        "transport/Woman_sitting_at_subway_turnstile_7e428f86.jpg"
+      ],
+      "title": "Woman Sitting At Subway Turnstile",
+      "variants": 1
+    }
+  ],
+  "exact_duplicates_skipped": [
+    "home_lodging/__LOCATION____[(Steamy_shower_+_wiping_52731762.jpg",
+    "shops_markets/Girl_bargaining_at_street_market_cba28816.jpg"
+  ]
+}

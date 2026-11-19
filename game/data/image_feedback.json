@@ -1,0 +1,13 @@
+{
+  "schema_version": 2,
+  "ratings": [
+    {
+      "asset_path": "images/food_drink/Job_interview_at_cafe_counter_6cbfb206.jpg",
+      "rating": "down",
+      "reason": "Needs Replacement Here",
+      "disposition": "replace",
+      "scene_label": "",
+      "created_at": "2026-11-18T21:47:09"
+    }
+  ]
+}

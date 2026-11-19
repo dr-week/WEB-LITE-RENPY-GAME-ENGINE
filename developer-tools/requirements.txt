@@ -1,0 +1,9 @@
+# LOLA Visual Novel - Developer Tools Dependencies
+
+# Image Processing Pipeline
+opencv-python>=4.8.0
+pillow>=10.0.0
+numpy>=1.24.0
+
+# Optional: For web dashboard development
+# nodejs and npm required separately

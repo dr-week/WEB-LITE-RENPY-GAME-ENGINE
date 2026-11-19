@@ -1,0 +1,757 @@
+{
+  "schema_version": 1,
+  "tracks": {
+    "and_so_it_begins": {
+      "title": "And So It Begins",
+      "bpm": 70,
+      "camelot": "5A",
+      "next_tracks": [
+        {
+          "id": "bedtime_after_a_coffee",
+          "title": "Bedtime After A Coffee",
+          "audio_file": "audio/music/lofi/bedtime_after_a_coffee.mp3",
+          "bpm": 72,
+          "camelot": "6A",
+          "entry_sec": 13.3,
+          "bridge_sec": 40.0,
+          "score": 0.892
+        },
+        {
+          "id": "tranquil_transit",
+          "title": "Tranquil Transit",
+          "audio_file": "audio/music/lofi/tranquil_transit.mp3",
+          "bpm": 80,
+          "camelot": "5A",
+          "entry_sec": 12.0,
+          "bridge_sec": 48.0,
+          "score": 0.742
+        },
+        {
+          "id": "midnight_stroll",
+          "title": "Midnight Stroll [Lofi Study Music]",
+          "audio_file": "audio/music/lofi/midnight_stroll.mp3",
+          "bpm": 76,
+          "camelot": "",
+          "entry_sec": 12.6,
+          "bridge_sec": 37.9,
+          "score": 0.589
+        },
+        {
+          "id": "on_my_way",
+          "title": "On My Way [Lofi Study Music]",
+          "audio_file": "audio/music/lofi/on_my_way.mp3",
+          "bpm": 76,
+          "camelot": "",
+          "entry_sec": 12.6,
+          "bridge_sec": 37.9,
+          "score": 0.581
+        }
+      ]
+    },
+    "bedtime_after_a_coffee": {
+      "title": "Bedtime After A Coffee",
+      "bpm": 72,
+      "camelot": "6A",
+      "next_tracks": [
+        {
+          "id": "and_so_it_begins",
+          "title": "And So It Begins",
+          "audio_file": "audio/music/lofi/and_so_it_begins.mp3",
+          "bpm": 70,
+          "camelot": "5A",
+          "entry_sec": 13.7,
+          "bridge_sec": 54.8,
+          "score": 0.892
+        },
+        {
+          "id": "tranquil_transit",
+          "title": "Tranquil Transit",
+          "audio_file": "audio/music/lofi/tranquil_transit.mp3",
+          "bpm": 80,
+          "camelot": "5A",
+          "entry_sec": 12.0,
+          "bridge_sec": 48.0,
+          "score": 0.735
+        },
+        {
+          "id": "midnight_stroll",
+          "title": "Midnight Stroll [Lofi Study Music]",
+          "audio_file": "audio/music/lofi/midnight_stroll.mp3",
+          "bpm": 76,
+          "camelot": "",
+          "entry_sec": 12.6,
+          "bridge_sec": 37.9,
+          "score": 0.632
+        },
+        {
+          "id": "on_my_way",
+          "title": "On My Way [Lofi Study Music]",
+          "audio_file": "audio/music/lofi/on_my_way.mp3",
+          "bpm": 76,
+          "camelot": "",
+          "entry_sec": 12.6,
+          "bridge_sec": 37.9,
+          "score": 0.623
+        }
+      ]
+    },
+    "when_i_was_a_boy": {
+      "title": "When I Was A Boy",
+      "bpm": 74,
+      "camelot": "10A",
+      "next_tracks": [
+        {
+          "id": "sunset_drive",
+          "title": "Sunset Drive",
+          "audio_file": "audio/music/lofi/sunset_drive.mp3",
+          "bpm": 82,
+          "camelot": "10B",
+          "entry_sec": 11.7,
+          "bridge_sec": 46.8,
+          "score": 0.738
+        },
+        {
+          "id": "midnight_stroll",
+          "title": "Midnight Stroll [Lofi Study Music]",
+          "audio_file": "audio/music/lofi/midnight_stroll.mp3",
+          "bpm": 76,
+          "camelot": "",
+          "entry_sec": 12.6,
+          "bridge_sec": 37.9,
+          "score": 0.697
+        },
+        {
+          "id": "on_my_way",
+          "title": "On My Way [Lofi Study Music]",
+          "audio_file": "audio/music/lofi/on_my_way.mp3",
+          "bpm": 76,
+          "camelot": "",
+          "entry_sec": 12.6,
+          "bridge_sec": 37.9,
+          "score": 0.688
+        },
+        {
+          "id": "memories_of_spring",
+          "title": "Memories Of Spring",
+          "audio_file": "audio/music/lofi/memories_of_spring.mp3",
+          "bpm": 78,
+          "camelot": "",
+          "entry_sec": 12.3,
+          "bridge_sec": 49.2,
+          "score": 0.641
+        }
+      ]
+    },
+    "morning_routine": {
+      "title": "Morning Routine [Lofi Study Music]",
+      "bpm": 75,
+      "camelot": "7B",
+      "next_tracks": [
+        {
+          "id": "vibin",
+          "title": "Vibin'",
+          "audio_file": "audio/music/lofi/vibin.mp3",
+          "bpm": 75,
+          "camelot": "8B",
+          "entry_sec": 12.8,
+          "bridge_sec": 38.4,
+          "score": 0.935
+        },
+        {
+          "id": "new_beginnings",
+          "title": "New Beginnings",
+          "audio_file": "audio/music/lofi/new_beginnings.mp3",
+          "bpm": 80,
+          "camelot": "7B",
+          "entry_sec": 12.0,
+          "bridge_sec": 48.0,
+          "score": 0.853
+        },
+        {
+          "id": "morning_station",
+          "title": "Morning Station",
+          "audio_file": "audio/music/lofi/morning_station.mp3",
+          "bpm": 78,
+          "camelot": "9B",
+          "entry_sec": 12.3,
+          "bridge_sec": 49.2,
+          "score": 0.724
+        },
+        {
+          "id": "midnight_stroll",
+          "title": "Midnight Stroll [Lofi Study Music]",
+          "audio_file": "audio/music/lofi/midnight_stroll.mp3",
+          "bpm": 76,
+          "camelot": "",
+          "entry_sec": 12.6,
+          "bridge_sec": 37.9,
+          "score": 0.714
+        }
+      ]
+    },
+    "vibin": {
+      "title": "Vibin'",
+      "bpm": 75,
+      "camelot": "8B",
+      "next_tracks": [
+        {
+          "id": "morning_routine",
+          "title": "Morning Routine [Lofi Study Music]",
+          "audio_file": "audio/music/lofi/morning_routine.mp3",
+          "bpm": 75,
+          "camelot": "7B",
+          "entry_sec": 12.8,
+          "bridge_sec": 38.4,
+          "score": 0.935
+        },
+        {
+          "id": "morning_station",
+          "title": "Morning Station",
+          "audio_file": "audio/music/lofi/morning_station.mp3",
+          "bpm": 78,
+          "camelot": "9B",
+          "entry_sec": 12.3,
+          "bridge_sec": 49.2,
+          "score": 0.864
+        },
+        {
+          "id": "new_beginnings",
+          "title": "New Beginnings",
+          "audio_file": "audio/music/lofi/new_beginnings.mp3",
+          "bpm": 80,
+          "camelot": "7B",
+          "entry_sec": 12.0,
+          "bridge_sec": 48.0,
+          "score": 0.817
+        },
+        {
+          "id": "on_my_way",
+          "title": "On My Way [Lofi Study Music]",
+          "audio_file": "audio/music/lofi/on_my_way.mp3",
+          "bpm": 76,
+          "camelot": "",
+          "entry_sec": 12.6,
+          "bridge_sec": 37.9,
+          "score": 0.72
+        }
+      ]
+    },
+    "little_wishes": {
+      "title": "Little Wishes",
+      "bpm": 76,
+      "camelot": "11B",
+      "next_tracks": [
+        {
+          "id": "colorful_flowers",
+          "title": "Colorful Flowers",
+          "audio_file": "audio/music/lofi/colorful_flowers.mp3",
+          "bpm": 78,
+          "camelot": "12B",
+          "entry_sec": 12.3,
+          "bridge_sec": 49.2,
+          "score": 0.892
+        },
+        {
+          "id": "sunset_drive",
+          "title": "Sunset Drive",
+          "audio_file": "audio/music/lofi/sunset_drive.mp3",
+          "bpm": 82,
+          "camelot": "10B",
+          "entry_sec": 11.7,
+          "bridge_sec": 46.8,
+          "score": 0.785
+        },
+        {
+          "id": "morning_station",
+          "title": "Morning Station",
+          "audio_file": "audio/music/lofi/morning_station.mp3",
+          "bpm": 78,
+          "camelot": "9B",
+          "entry_sec": 12.3,
+          "bridge_sec": 49.2,
+          "score": 0.764
+        },
+        {
+          "id": "on_my_way",
+          "title": "On My Way [Lofi Study Music]",
+          "audio_file": "audio/music/lofi/on_my_way.mp3",
+          "bpm": 76,
+          "camelot": "",
+          "entry_sec": 12.6,
+          "bridge_sec": 37.9,
+          "score": 0.745
+        }
+      ]
+    },
+    "on_my_way": {
+      "title": "On My Way [Lofi Study Music]",
+      "bpm": 76,
+      "camelot": "",
+      "next_tracks": [
+        {
+          "id": "little_wishes",
+          "title": "Little Wishes",
+          "audio_file": "audio/music/lofi/little_wishes.mp3",
+          "bpm": 76,
+          "camelot": "11B",
+          "entry_sec": 12.6,
+          "bridge_sec": 50.5,
+          "score": 0.745
+        },
+        {
+          "id": "midnight_stroll",
+          "title": "Midnight Stroll [Lofi Study Music]",
+          "audio_file": "audio/music/lofi/midnight_stroll.mp3",
+          "bpm": 76,
+          "camelot": "",
+          "entry_sec": 12.6,
+          "bridge_sec": 37.9,
+          "score": 0.741
+        },
+        {
+          "id": "vibin",
+          "title": "Vibin'",
+          "audio_file": "audio/music/lofi/vibin.mp3",
+          "bpm": 75,
+          "camelot": "8B",
+          "entry_sec": 12.8,
+          "bridge_sec": 38.4,
+          "score": 0.72
+        },
+        {
+          "id": "morning_routine",
+          "title": "Morning Routine [Lofi Study Music]",
+          "audio_file": "audio/music/lofi/morning_routine.mp3",
+          "bpm": 75,
+          "camelot": "7B",
+          "entry_sec": 12.8,
+          "bridge_sec": 38.4,
+          "score": 0.706
+        }
+      ]
+    },
+    "midnight_stroll": {
+      "title": "Midnight Stroll [Lofi Study Music]",
+      "bpm": 76,
+      "camelot": "",
+      "next_tracks": [
+        {
+          "id": "little_wishes",
+          "title": "Little Wishes",
+          "audio_file": "audio/music/lofi/little_wishes.mp3",
+          "bpm": 76,
+          "camelot": "11B",
+          "entry_sec": 12.6,
+          "bridge_sec": 50.5,
+          "score": 0.745
+        },
+        {
+          "id": "on_my_way",
+          "title": "On My Way [Lofi Study Music]",
+          "audio_file": "audio/music/lofi/on_my_way.mp3",
+          "bpm": 76,
+          "camelot": "",
+          "entry_sec": 12.6,
+          "bridge_sec": 37.9,
+          "score": 0.741
+        },
+        {
+          "id": "vibin",
+          "title": "Vibin'",
+          "audio_file": "audio/music/lofi/vibin.mp3",
+          "bpm": 75,
+          "camelot": "8B",
+          "entry_sec": 12.8,
+          "bridge_sec": 38.4,
+          "score": 0.72
+        },
+        {
+          "id": "morning_routine",
+          "title": "Morning Routine [Lofi Study Music]",
+          "audio_file": "audio/music/lofi/morning_routine.mp3",
+          "bpm": 75,
+          "camelot": "7B",
+          "entry_sec": 12.8,
+          "bridge_sec": 38.4,
+          "score": 0.714
+        }
+      ]
+    },
+    "colorful_flowers": {
+      "title": "Colorful Flowers",
+      "bpm": 78,
+      "camelot": "12B",
+      "next_tracks": [
+        {
+          "id": "little_wishes",
+          "title": "Little Wishes",
+          "audio_file": "audio/music/lofi/little_wishes.mp3",
+          "bpm": 76,
+          "camelot": "11B",
+          "entry_sec": 12.6,
+          "bridge_sec": 50.5,
+          "score": 0.892
+        },
+        {
+          "id": "memories_of_spring",
+          "title": "Memories Of Spring",
+          "audio_file": "audio/music/lofi/memories_of_spring.mp3",
+          "bpm": 78,
+          "camelot": "",
+          "entry_sec": 12.3,
+          "bridge_sec": 49.2,
+          "score": 0.744
+        },
+        {
+          "id": "sunset_drive",
+          "title": "Sunset Drive",
+          "audio_file": "audio/music/lofi/sunset_drive.mp3",
+          "bpm": 82,
+          "camelot": "10B",
+          "entry_sec": 11.7,
+          "bridge_sec": 46.8,
+          "score": 0.717
+        },
+        {
+          "id": "on_my_way",
+          "title": "On My Way [Lofi Study Music]",
+          "audio_file": "audio/music/lofi/on_my_way.mp3",
+          "bpm": 76,
+          "camelot": "",
+          "entry_sec": 12.6,
+          "bridge_sec": 37.9,
+          "score": 0.697
+        }
+      ]
+    },
+    "memories_of_spring": {
+      "title": "Memories Of Spring",
+      "bpm": 78,
+      "camelot": "",
+      "next_tracks": [
+        {
+          "id": "colorful_flowers",
+          "title": "Colorful Flowers",
+          "audio_file": "audio/music/lofi/colorful_flowers.mp3",
+          "bpm": 78,
+          "camelot": "12B",
+          "entry_sec": 12.3,
+          "bridge_sec": 49.2,
+          "score": 0.744
+        },
+        {
+          "id": "morning_station",
+          "title": "Morning Station",
+          "audio_file": "audio/music/lofi/morning_station.mp3",
+          "bpm": 78,
+          "camelot": "9B",
+          "entry_sec": 12.3,
+          "bridge_sec": 49.2,
+          "score": 0.741
+        },
+        {
+          "id": "little_wishes",
+          "title": "Little Wishes",
+          "audio_file": "audio/music/lofi/little_wishes.mp3",
+          "bpm": 76,
+          "camelot": "11B",
+          "entry_sec": 12.6,
+          "bridge_sec": 50.5,
+          "score": 0.699
+        },
+        {
+          "id": "on_my_way",
+          "title": "On My Way [Lofi Study Music]",
+          "audio_file": "audio/music/lofi/on_my_way.mp3",
+          "bpm": 76,
+          "camelot": "",
+          "entry_sec": 12.6,
+          "bridge_sec": 37.9,
+          "score": 0.697
+        }
+      ]
+    },
+    "morning_station": {
+      "title": "Morning Station",
+      "bpm": 78,
+      "camelot": "9B",
+      "next_tracks": [
+        {
+          "id": "vibin",
+          "title": "Vibin'",
+          "audio_file": "audio/music/lofi/vibin.mp3",
+          "bpm": 75,
+          "camelot": "8B",
+          "entry_sec": 12.8,
+          "bridge_sec": 38.4,
+          "score": 0.864
+        },
+        {
+          "id": "sunset_drive",
+          "title": "Sunset Drive",
+          "audio_file": "audio/music/lofi/sunset_drive.mp3",
+          "bpm": 82,
+          "camelot": "10B",
+          "entry_sec": 11.7,
+          "bridge_sec": 46.8,
+          "score": 0.845
+        },
+        {
+          "id": "downtown_glow",
+          "title": "Downtown Glow",
+          "audio_file": "audio/music/lofi/downtown_glow.mp3",
+          "bpm": 85,
+          "camelot": "9B",
+          "entry_sec": 11.3,
+          "bridge_sec": 45.2,
+          "score": 0.813
+        },
+        {
+          "id": "new_beginnings",
+          "title": "New Beginnings",
+          "audio_file": "audio/music/lofi/new_beginnings.mp3",
+          "bpm": 80,
+          "camelot": "7B",
+          "entry_sec": 12.0,
+          "bridge_sec": 48.0,
+          "score": 0.772
+        }
+      ]
+    },
+    "way_home": {
+      "title": "Way Home",
+      "bpm": 80,
+      "camelot": "",
+      "next_tracks": [
+        {
+          "id": "new_beginnings",
+          "title": "New Beginnings",
+          "audio_file": "audio/music/lofi/new_beginnings.mp3",
+          "bpm": 80,
+          "camelot": "7B",
+          "entry_sec": 12.0,
+          "bridge_sec": 48.0,
+          "score": 0.747
+        },
+        {
+          "id": "tranquil_transit",
+          "title": "Tranquil Transit",
+          "audio_file": "audio/music/lofi/tranquil_transit.mp3",
+          "bpm": 80,
+          "camelot": "5A",
+          "entry_sec": 12.0,
+          "bridge_sec": 48.0,
+          "score": 0.738
+        },
+        {
+          "id": "colorful_flowers",
+          "title": "Colorful Flowers",
+          "audio_file": "audio/music/lofi/colorful_flowers.mp3",
+          "bpm": 78,
+          "camelot": "12B",
+          "entry_sec": 12.3,
+          "bridge_sec": 49.2,
+          "score": 0.697
+        },
+        {
+          "id": "memories_of_spring",
+          "title": "Memories Of Spring",
+          "audio_file": "audio/music/lofi/memories_of_spring.mp3",
+          "bpm": 78,
+          "camelot": "",
+          "entry_sec": 12.3,
+          "bridge_sec": 49.2,
+          "score": 0.697
+        }
+      ]
+    },
+    "tranquil_transit": {
+      "title": "Tranquil Transit",
+      "bpm": 80,
+      "camelot": "5A",
+      "next_tracks": [
+        {
+          "id": "and_so_it_begins",
+          "title": "And So It Begins",
+          "audio_file": "audio/music/lofi/and_so_it_begins.mp3",
+          "bpm": 70,
+          "camelot": "5A",
+          "entry_sec": 13.7,
+          "bridge_sec": 54.8,
+          "score": 0.742
+        },
+        {
+          "id": "way_home",
+          "title": "Way Home",
+          "audio_file": "audio/music/lofi/way_home.mp3",
+          "bpm": 80,
+          "camelot": "",
+          "entry_sec": 12.0,
+          "bridge_sec": 48.0,
+          "score": 0.738
+        },
+        {
+          "id": "bedtime_after_a_coffee",
+          "title": "Bedtime After A Coffee",
+          "audio_file": "audio/music/lofi/bedtime_after_a_coffee.mp3",
+          "bpm": 72,
+          "camelot": "6A",
+          "entry_sec": 13.3,
+          "bridge_sec": 40.0,
+          "score": 0.735
+        },
+        {
+          "id": "memories_of_spring",
+          "title": "Memories Of Spring",
+          "audio_file": "audio/music/lofi/memories_of_spring.mp3",
+          "bpm": 78,
+          "camelot": "",
+          "entry_sec": 12.3,
+          "bridge_sec": 49.2,
+          "score": 0.691
+        }
+      ]
+    },
+    "new_beginnings": {
+      "title": "New Beginnings",
+      "bpm": 80,
+      "camelot": "7B",
+      "next_tracks": [
+        {
+          "id": "morning_routine",
+          "title": "Morning Routine [Lofi Study Music]",
+          "audio_file": "audio/music/lofi/morning_routine.mp3",
+          "bpm": 75,
+          "camelot": "7B",
+          "entry_sec": 12.8,
+          "bridge_sec": 38.4,
+          "score": 0.853
+        },
+        {
+          "id": "vibin",
+          "title": "Vibin'",
+          "audio_file": "audio/music/lofi/vibin.mp3",
+          "bpm": 75,
+          "camelot": "8B",
+          "entry_sec": 12.8,
+          "bridge_sec": 38.4,
+          "score": 0.817
+        },
+        {
+          "id": "morning_station",
+          "title": "Morning Station",
+          "audio_file": "audio/music/lofi/morning_station.mp3",
+          "bpm": 78,
+          "camelot": "9B",
+          "entry_sec": 12.3,
+          "bridge_sec": 49.2,
+          "score": 0.772
+        },
+        {
+          "id": "way_home",
+          "title": "Way Home",
+          "audio_file": "audio/music/lofi/way_home.mp3",
+          "bpm": 80,
+          "camelot": "",
+          "entry_sec": 12.0,
+          "bridge_sec": 48.0,
+          "score": 0.747
+        }
+      ]
+    },
+    "sunset_drive": {
+      "title": "Sunset Drive",
+      "bpm": 82,
+      "camelot": "10B",
+      "next_tracks": [
+        {
+          "id": "downtown_glow",
+          "title": "Downtown Glow",
+          "audio_file": "audio/music/lofi/downtown_glow.mp3",
+          "bpm": 85,
+          "camelot": "9B",
+          "entry_sec": 11.3,
+          "bridge_sec": 45.2,
+          "score": 0.867
+        },
+        {
+          "id": "morning_station",
+          "title": "Morning Station",
+          "audio_file": "audio/music/lofi/morning_station.mp3",
+          "bpm": 78,
+          "camelot": "9B",
+          "entry_sec": 12.3,
+          "bridge_sec": 49.2,
+          "score": 0.845
+        },
+        {
+          "id": "little_wishes",
+          "title": "Little Wishes",
+          "audio_file": "audio/music/lofi/little_wishes.mp3",
+          "bpm": 76,
+          "camelot": "11B",
+          "entry_sec": 12.6,
+          "bridge_sec": 50.5,
+          "score": 0.785
+        },
+        {
+          "id": "when_i_was_a_boy",
+          "title": "When I Was A Boy",
+          "audio_file": "audio/music/lofi/when_i_was_a_boy.mp3",
+          "bpm": 74,
+          "camelot": "10A",
+          "entry_sec": 12.9,
+          "bridge_sec": 52.0,
+          "score": 0.738
+        }
+      ]
+    },
+    "downtown_glow": {
+      "title": "Downtown Glow",
+      "bpm": 85,
+      "camelot": "9B",
+      "next_tracks": [
+        {
+          "id": "sunset_drive",
+          "title": "Sunset Drive",
+          "audio_file": "audio/music/lofi/sunset_drive.mp3",
+          "bpm": 82,
+          "camelot": "10B",
+          "entry_sec": 11.7,
+          "bridge_sec": 46.8,
+          "score": 0.867
+        },
+        {
+          "id": "morning_station",
+          "title": "Morning Station",
+          "audio_file": "audio/music/lofi/morning_station.mp3",
+          "bpm": 78,
+          "camelot": "9B",
+          "entry_sec": 12.3,
+          "bridge_sec": 49.2,
+          "score": 0.813
+        },
+        {
+          "id": "new_beginnings",
+          "title": "New Beginnings",
+          "audio_file": "audio/music/lofi/new_beginnings.mp3",
+          "bpm": 80,
+          "camelot": "7B",
+          "entry_sec": 12.0,
+          "bridge_sec": 48.0,
+          "score": 0.685
+        },
+        {
+          "id": "vibin",
+          "title": "Vibin'",
+          "audio_file": "audio/music/lofi/vibin.mp3",
+          "bpm": 75,
+          "camelot": "8B",
+          "entry_sec": 12.8,
+          "bridge_sec": 38.4,
+          "score": 0.677
+        }
+      ]
+    }
+  }
+}

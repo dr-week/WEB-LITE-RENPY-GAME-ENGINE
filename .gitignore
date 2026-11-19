@@ -1,0 +1,63 @@
+# Ren'Py runtime, saves and cache
+/game/saves/
+/game/cache/
+*.rpyc
+*.rpymc
+*.bak
+*.new
+*.old
+
+# Error, log, and runtime output files
+/errors.txt
+/files.txt
+/image_cache.txt
+/log.txt
+/save_dump.txt
+/traceback.txt
+
+# Launcher-generated files
+/dialogue.tab
+/dialogue.txt
+/strings.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.sqlite
+*.sqlite3
+.pytest_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+env/
+
+# Node / Web
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+dist/
+.next/
+out/
+
+# Rust / Tauri builds
+**/src-tauri/target/
+target/
+*.pdb
+*.lib
+*.rlib
+*.exe
+*.dll
+
+# Third-party downloaded reference UI kits
+developer-tools/ui_kits/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+*.lnk
+.vscode/
+.idea/

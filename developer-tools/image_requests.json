@@ -1,0 +1,555 @@
+{
+  "schema_version": 1,
+  "requests": [
+    {
+      "storyKey": "story_fff772a143",
+      "category": "home_lodging",
+      "role": "cg",
+      "storyFile": "40_story/chapters/day_06_weekend.rpy",
+      "storyLabel": "day_06_home",
+      "dialogueContains": "Day 6 - Saturday. No alarm, no lecture bell—just sunlight and two texts buzzing on the nightstand.",
+      "referenceImages": [
+        "images/character_reference/Girl_character_turnaround_poses_93981cd0.jpg",
+        "images/character_reference/Girl_posing_in_blue_outfit_a7a032c2.jpg",
+        "images/character_reference/Girl_posing_in_blue_outfit_cacf3979.jpg",
+        "images/home_lodging/Maya_leaning_in_kitchen_ce97c08a.jpg"
+      ],
+      "starterEgg": "This Is Fine calm-in-chaos gag; original character, no copied mascot or text",
+      "prompt": "[SCENE: Day 6 - Saturday. No alarm, no lecture bell—just sunlight and two texts buzzing on the nightstand.] [BEAT: Day 6 - Saturday. No alarm, no lecture bell—just sunlight and two texts buzzing on the nightstand.] [CAST: Maya (East Asian young woman with soft round-oval face, blonde-dipped dark hair, innocent sweet face, bold mischievous con-artist energy) and story characters] [PLACE: images/home_lodging/Maya_leaning_in_kitchen_ce97c08a.jpg] [FRAME: clear cinematic medium shot] [PHYSICS: solid ground contact under feet/seated weight, natural gravity and accurate two-leg/two-arm anatomy] [STYLE: cell-shaded illustrated cast, photoreal environment, matched light] [CONTINUITY: Maya wears her exact oversized dark navy-blue t-shirt short dress and dark slide sandals; change only when story supports it] [REFERENCES: images/character_reference/Girl_character_turnaround_poses_93981cd0.jpg, images/character_reference/Girl_posing_in_blue_outfit_a7a032c2.jpg, images/character_reference/Girl_posing_in_blue_outfit_cacf3979.jpg, images/home_lodging/Maya_leaning_in_kitchen_ce97c08a.jpg] [STARTER_EGG: subtle background-only This Is Fine calm-in-chaos gag; original character, no copied mascot or text] [AVOID: extra legs, extra arms, extra fingers, distorted hands, floating or levitating subjects, disconnected shadows, text, logos, watermark, unrelated props]",
+      "imagePath": "",
+      "status": "needs_generation"
+    },
+    {
+      "storyKey": "story_2e74fa58ad",
+      "category": "hobbies_outdoors",
+      "role": "cg",
+      "storyFile": "40_story/chapters/day_08.rpy",
+      "storyLabel": "day_08_morning_park",
+      "dialogueContains": "Wind combed through the botanical walkways, scattering golden leaves beside the still pond.",
+      "referenceImages": [
+        "images/character_reference/Girl_character_turnaround_poses_93981cd0.jpg",
+        "images/character_reference/Girl_posing_in_blue_outfit_a7a032c2.jpg",
+        "images/character_reference/Girl_posing_in_blue_outfit_cacf3979.jpg",
+        "images/hobbies_outdoors/Maya_sitting_on_park_bench_cadad5a9.jpg"
+      ],
+      "starterEgg": "Distracted Boyfriend glance composition; generic original characters, no text",
+      "prompt": "[SCENE: Wind combed through the botanical walkways, scattering golden leaves beside the still pond.] [BEAT: Wind combed through the botanical walkways, scattering golden leaves beside the still pond.] [CAST: Maya (East Asian young woman with soft round-oval face, blonde-dipped dark hair, innocent sweet face, bold mischievous con-artist energy) and story characters] [PLACE: images/hobbies_outdoors/Maya_sitting_on_park_bench_cadad5a9.jpg] [FRAME: clear cinematic medium shot] [PHYSICS: solid ground contact under feet/seated weight, natural gravity and accurate two-leg/two-arm anatomy] [STYLE: cell-shaded illustrated cast, photoreal environment, matched light] [CONTINUITY: Maya wears her exact oversized dark navy-blue t-shirt short dress and dark slide sandals; change only when story supports it] [REFERENCES: images/character_reference/Girl_character_turnaround_poses_93981cd0.jpg, images/character_reference/Girl_posing_in_blue_outfit_a7a032c2.jpg, images/character_reference/Girl_posing_in_blue_outfit_cacf3979.jpg, images/hobbies_outdoors/Maya_sitting_on_park_bench_cadad5a9.jpg] [STARTER_EGG: subtle background-only Distracted Boyfriend glance composition; generic original characters, no text] [AVOID: extra legs, extra arms, extra fingers, distorted hands, floating or levitating subjects, disconnected shadows, text, logos, watermark, unrelated props]",
+      "imagePath": "",
+      "status": "needs_generation"
+    },
+    {
+      "storyKey": "story_06d2a997d3",
+      "category": "college",
+      "role": "cg",
+      "storyFile": "40_story/chapters/day_09.rpy",
+      "storyLabel": "day_09_afternoon_college",
+      "dialogueContains": "Sunlight hit the sandstone quad as students spilled out between lectures, trading notes and rumors.",
+      "referenceImages": [
+        "images/character_reference/Girl_character_turnaround_poses_93981cd0.jpg",
+        "images/character_reference/Girl_posing_in_blue_outfit_a7a032c2.jpg",
+        "images/character_reference/Girl_posing_in_blue_outfit_cacf3979.jpg",
+        "images/college/Maya_arriving_at_campus_gates_dab236ed.jpg"
+      ],
+      "starterEgg": "Doge-style exaggerated approval; original animal cameo, no captions",
+      "prompt": "[SCENE: Sunlight hit the sandstone quad as students spilled out between lectures, trading notes and rumors.] [BEAT: Sunlight hit the sandstone quad as students spilled out between lectures, trading notes and rumors.] [CAST: Maya (East Asian young woman with soft round-oval face, blonde-dipped dark hair, innocent sweet face, bold mischievous con-artist energy) and story characters] [PLACE: images/college/Maya_arriving_at_campus_gates_dab236ed.jpg] [FRAME: clear cinematic medium shot] [PHYSICS: solid ground contact under feet/seated weight, natural gravity and accurate two-leg/two-arm anatomy] [STYLE: cell-shaded illustrated cast, photoreal environment, matched light] [CONTINUITY: Maya wears her exact oversized dark navy-blue t-shirt short dress and dark slide sandals; change only when story supports it] [REFERENCES: images/character_reference/Girl_character_turnaround_poses_93981cd0.jpg, images/character_reference/Girl_posing_in_blue_outfit_a7a032c2.jpg, images/character_reference/Girl_posing_in_blue_outfit_cacf3979.jpg, images/college/Maya_arriving_at_campus_gates_dab236ed.jpg] [STARTER_EGG: subtle background-only Doge-style exaggerated approval; original animal cameo, no captions] [AVOID: extra legs, extra arms, extra fingers, distorted hands, floating or levitating subjects, disconnected shadows, text, logos, watermark, unrelated props]",
+      "imagePath": "",
+      "status": "needs_generation"
+    },
+    {
+      "storyKey": "story_01334ebe22",
+      "category": "hobbies_outdoors",
+      "role": "cg",
+      "storyFile": "40_story/chapters/day_10.rpy",
+      "storyLabel": "day_10_afternoon_library",
+      "dialogueContains": "Under the glass rotunda, pages turned in hushed rhythm while rain tapped overhead.",
+      "referenceImages": [
+        "images/character_reference/Girl_character_turnaround_poses_93981cd0.jpg",
+        "images/character_reference/Girl_posing_in_blue_outfit_a7a032c2.jpg",
+        "images/character_reference/Girl_posing_in_blue_outfit_cacf3979.jpg",
+        "images/hobbies_outdoors/Maya_leaning_in_library_806ccbe5.jpg"
+      ],
+      "starterEgg": "Woman-yelling-at-cat contrast gag; original cast, no text",
+      "prompt": "[SCENE: Under the glass rotunda, pages turned in hushed rhythm while rain tapped overhead.] [BEAT: Under the glass rotunda, pages turned in hushed rhythm while rain tapped overhead.] [CAST: Maya (East Asian young woman with soft round-oval face, blonde-dipped dark hair, innocent sweet face, bold mischievous con-artist energy) and story characters] [PLACE: images/hobbies_outdoors/Maya_leaning_in_library_806ccbe5.jpg] [FRAME: clear cinematic medium shot] [PHYSICS: solid ground contact under feet/seated weight, natural gravity and accurate two-leg/two-arm anatomy] [STYLE: cell-shaded illustrated cast, photoreal environment, matched light] [CONTINUITY: Maya wears her exact oversized dark navy-blue t-shirt short dress and dark slide sandals; change only when story supports it] [REFERENCES: images/character_reference/Girl_character_turnaround_poses_93981cd0.jpg, images/character_reference/Girl_posing_in_blue_outfit_a7a032c2.jpg, images/character_reference/Girl_posing_in_blue_outfit_cacf3979.jpg, images/hobbies_outdoors/Maya_leaning_in_library_806ccbe5.jpg] [STARTER_EGG: subtle background-only Woman-yelling-at-cat contrast gag; original cast, no text] [AVOID: extra legs, extra arms, extra fingers, distorted hands, floating or levitating subjects, disconnected shadows, text, logos, watermark, unrelated props]",
+      "imagePath": "",
+      "status": "needs_generation"
+    },
+    {
+      "storyKey": "story_c285362b44",
+      "category": "home_lodging",
+      "role": "cg",
+      "storyFile": "40_story/chapters/day_free_morning.rpy",
+      "storyLabel": "day_free_morning",
+      "dialogueContains": "Another morning in the city. Maya rolled her shoulders and checked what needed attention today.",
+      "referenceImages": [
+        "images/character_reference/Girl_character_turnaround_poses_93981cd0.jpg",
+        "images/character_reference/Girl_posing_in_blue_outfit_a7a032c2.jpg",
+        "images/character_reference/Girl_posing_in_blue_outfit_cacf3979.jpg",
+        "images/home_lodging/Maya_leaning_in_kitchen_ce97c08a.jpg"
+      ],
+      "starterEgg": "Woman-yelling-at-cat contrast gag; original cast, no text",
+      "prompt": "[SCENE: Day [current_day] - Morning Another morning in the city. Maya rolled her shoulders and checked what needed attention today.] [BEAT: Another morning in the city. Maya rolled her shoulders and checked what needed attention today.] [CAST: Maya (East Asian young woman with soft round-oval face, blonde-dipped dark hair, innocent sweet face, bold mischievous con-artist energy) and story characters] [PLACE: images/home_lodging/Maya_leaning_in_kitchen_ce97c08a.jpg] [FRAME: clear cinematic medium shot] [PHYSICS: solid ground contact under feet/seated weight, natural gravity and accurate two-leg/two-arm anatomy] [STYLE: cell-shaded illustrated cast, photoreal environment, matched light] [CONTINUITY: Maya wears her exact oversized dark navy-blue t-shirt short dress and dark slide sandals; change only when story supports it] [REFERENCES: images/character_reference/Girl_character_turnaround_poses_93981cd0.jpg, images/character_reference/Girl_posing_in_blue_outfit_a7a032c2.jpg, images/character_reference/Girl_posing_in_blue_outfit_cacf3979.jpg, images/home_lodging/Maya_leaning_in_kitchen_ce97c08a.jpg] [STARTER_EGG: subtle background-only Woman-yelling-at-cat contrast gag; original cast, no text] [AVOID: extra legs, extra arms, extra fingers, distorted hands, floating or levitating subjects, disconnected shadows, text, logos, watermark, unrelated props]",
+      "imagePath": "",
+      "status": "needs_generation"
+    },
+    {
+      "storyKey": "story_bfafd95281",
+      "category": "home_lodging",
+      "role": "cg",
+      "storyFile": "40_story/endings/week_01_eval.rpy",
+      "storyLabel": "week_01_evaluation",
+      "dialogueContains": "One full week in the city. Maya opened her notebook and took stock of where things stood.",
+      "referenceImages": [
+        "images/character_reference/Girl_character_turnaround_poses_93981cd0.jpg",
+        "images/character_reference/Girl_posing_in_blue_outfit_a7a032c2.jpg",
+        "images/character_reference/Girl_posing_in_blue_outfit_cacf3979.jpg",
+        "images/home_lodging/Maya_leaning_in_kitchen_ce97c08a.jpg"
+      ],
+      "starterEgg": "This Is Fine calm-in-chaos gag; original character, no copied mascot or text",
+      "prompt": "[SCENE: Day 7 - Week One Review One full week in the city. Maya opened her notebook and took stock of where things stood. Origin: [active_prologue_id or 'PROL_APT_MORNING'] | Journal Moments: [len(image_story_seen)]] [BEAT: One full week in the city. Maya opened her notebook and took stock of where things stood.] [CAST: Maya (East Asian young woman with soft round-oval face, blonde-dipped dark hair, innocent sweet face, bold mischievous con-artist energy) and story characters] [PLACE: images/home_lodging/Maya_leaning_in_kitchen_ce97c08a.jpg] [FRAME: clear cinematic medium shot] [PHYSICS: solid ground contact under feet/seated weight, natural gravity and accurate two-leg/two-arm anatomy] [STYLE: cell-shaded illustrated cast, photoreal environment, matched light] [CONTINUITY: Maya wears her exact oversized dark navy-blue t-shirt short dress and dark slide sandals; change only when story supports it] [REFERENCES: images/character_reference/Girl_character_turnaround_poses_93981cd0.jpg, images/character_reference/Girl_posing_in_blue_outfit_a7a032c2.jpg, images/character_reference/Girl_posing_in_blue_outfit_cacf3979.jpg, images/home_lodging/Maya_leaning_in_kitchen_ce97c08a.jpg] [STARTER_EGG: subtle background-only This Is Fine calm-in-chaos gag; original character, no copied mascot or text] [AVOID: extra legs, extra arms, extra fingers, distorted hands, floating or levitating subjects, disconnected shadows, text, logos, watermark, unrelated props]",
+      "imagePath": "",
+      "status": "needs_generation"
+    },
+    {
+      "storyKey": "story_706a1d1beb",
+      "category": "college",
+      "role": "cg",
+      "storyFile": "40_story/prologue/day_01_class.rpy",
+      "storyLabel": "class_session",
+      "dialogueContains": "The professor paused, impressed. Several students turned around to look at her.",
+      "referenceImages": [
+        "images/character_reference/Girl_character_turnaround_poses_93981cd0.jpg",
+        "images/character_reference/Girl_posing_in_blue_outfit_a7a032c2.jpg",
+        "images/character_reference/Girl_posing_in_blue_outfit_cacf3979.jpg",
+        "images/college/Maya_sitting_in_lecture_hall_9b96b593.jpg"
+      ],
+      "starterEgg": "Drake Hotline Bling two-choice pose; original character, no labels",
+      "prompt": "[SCENE: The professor scanned the room. Maya kept her chin up, radiating effortless pedigree. The professor paused, impressed. Several students turned around to look at her. A calculated gamble that marked Maya as someone who didn't play by ordinary rules.] [BEAT: The professor paused, impressed. Several students turned around to look at her.] [CAST: Maya (East Asian young woman with soft round-oval face, blonde-dipped dark hair, innocent sweet face, bold mischievous con-artist energy) and story characters] [PLACE: images/college/Maya_sitting_in_lecture_hall_9b96b593.jpg] [FRAME: clear cinematic medium shot] [PHYSICS: solid ground contact under feet/seated weight, natural gravity and accurate two-leg/two-arm anatomy] [STYLE: cell-shaded illustrated cast, photoreal environment, matched light] [CONTINUITY: Maya wears her exact oversized dark navy-blue t-shirt short dress and dark slide sandals; change only when story supports it] [REFERENCES: images/character_reference/Girl_character_turnaround_poses_93981cd0.jpg, images/character_reference/Girl_posing_in_blue_outfit_a7a032c2.jpg, images/character_reference/Girl_posing_in_blue_outfit_cacf3979.jpg, images/college/Maya_sitting_in_lecture_hall_9b96b593.jpg] [STARTER_EGG: subtle background-only Drake Hotline Bling two-choice pose; original character, no labels] [AVOID: extra legs, extra arms, extra fingers, distorted hands, floating or levitating subjects, disconnected shadows, text, logos, watermark, unrelated props]",
+      "imagePath": "",
+      "status": "needs_generation"
+    },
+    {
+      "storyKey": "story_a9a3eedb3f",
+      "category": "home_lodging",
+      "role": "cg",
+      "storyFile": "40_story/prologue/day_02_home.rpy",
+      "storyLabel": "day_02_home",
+      "dialogueContains": "She checked her plans before stepping into the day.",
+      "referenceImages": [
+        "images/character_reference/Girl_character_turnaround_poses_93981cd0.jpg",
+        "images/character_reference/Girl_posing_in_blue_outfit_a7a032c2.jpg",
+        "images/character_reference/Girl_posing_in_blue_outfit_cacf3979.jpg",
+        "images/home_lodging/Maya_leaning_in_kitchen_ce97c08a.jpg"
+      ],
+      "starterEgg": "Drake Hotline Bling two-choice pose; original character, no labels",
+      "prompt": "[SCENE: Yesterday left her tired, but the city felt a little less unfamiliar. She checked her plans before stepping into the day. For the first time, the day ahead felt like something she could shape.] [BEAT: She checked her plans before stepping into the day.] [CAST: Maya (East Asian young woman with soft round-oval face, blonde-dipped dark hair, innocent sweet face, bold mischievous con-artist energy) and story characters] [PLACE: images/home_lodging/Maya_leaning_in_kitchen_ce97c08a.jpg] [FRAME: clear cinematic medium shot] [PHYSICS: solid ground contact under feet/seated weight, natural gravity and accurate two-leg/two-arm anatomy] [STYLE: cell-shaded illustrated cast, photoreal environment, matched light] [CONTINUITY: Maya wears her exact oversized dark navy-blue t-shirt short dress and dark slide sandals; change only when story supports it] [REFERENCES: images/character_reference/Girl_character_turnaround_poses_93981cd0.jpg, images/character_reference/Girl_posing_in_blue_outfit_a7a032c2.jpg, images/character_reference/Girl_posing_in_blue_outfit_cacf3979.jpg, images/home_lodging/Maya_leaning_in_kitchen_ce97c08a.jpg] [STARTER_EGG: subtle background-only Drake Hotline Bling two-choice pose; original character, no labels] [AVOID: extra legs, extra arms, extra fingers, distorted hands, floating or levitating subjects, disconnected shadows, text, logos, watermark, unrelated props]",
+      "imagePath": "",
+      "status": "needs_generation"
+    },
+    {
+      "storyKey": "story_eed0512f90",
+      "category": "home_lodging",
+      "role": "cg",
+      "storyFile": "40_story/prologue/day_02_home.rpy",
+      "storyLabel": "day_02_home",
+      "dialogueContains": "For the first time, the day ahead felt like something she could shape.",
+      "referenceImages": [
+        "images/character_reference/Girl_character_turnaround_poses_93981cd0.jpg",
+        "images/character_reference/Girl_posing_in_blue_outfit_a7a032c2.jpg",
+        "images/character_reference/Girl_posing_in_blue_outfit_cacf3979.jpg",
+        "images/home_lodging/Maya_leaning_in_kitchen_ce97c08a.jpg"
+      ],
+      "starterEgg": "Distracted Boyfriend glance composition; generic original characters, no text",
+      "prompt": "[SCENE: She checked her plans before stepping into the day. For the first time, the day ahead felt like something she could shape.] [BEAT: For the first time, the day ahead felt like something she could shape.] [CAST: Maya (East Asian young woman with soft round-oval face, blonde-dipped dark hair, innocent sweet face, bold mischievous con-artist energy) and story characters] [PLACE: images/home_lodging/Maya_leaning_in_kitchen_ce97c08a.jpg] [FRAME: clear cinematic medium shot] [PHYSICS: solid ground contact under feet/seated weight, natural gravity and accurate two-leg/two-arm anatomy] [STYLE: cell-shaded illustrated cast, photoreal environment, matched light] [CONTINUITY: Maya wears her exact oversized dark navy-blue t-shirt short dress and dark slide sandals; change only when story supports it] [REFERENCES: images/character_reference/Girl_character_turnaround_poses_93981cd0.jpg, images/character_reference/Girl_posing_in_blue_outfit_a7a032c2.jpg, images/character_reference/Girl_posing_in_blue_outfit_cacf3979.jpg, images/home_lodging/Maya_leaning_in_kitchen_ce97c08a.jpg] [STARTER_EGG: subtle background-only Distracted Boyfriend glance composition; generic original characters, no text] [AVOID: extra legs, extra arms, extra fingers, distorted hands, floating or levitating subjects, disconnected shadows, text, logos, watermark, unrelated props]",
+      "imagePath": "",
+      "status": "needs_generation"
+    },
+    {
+      "storyKey": "story_760e8c2799",
+      "category": "home_lodging",
+      "role": "cg",
+      "storyFile": "40_story/prologue/day_end.rpy",
+      "storyLabel": "end_day_home",
+      "dialogueContains": "Day [current_day] complete.",
+      "referenceImages": [
+        "images/character_reference/Girl_character_turnaround_poses_93981cd0.jpg",
+        "images/character_reference/Girl_posing_in_blue_outfit_a7a032c2.jpg",
+        "images/character_reference/Girl_posing_in_blue_outfit_cacf3979.jpg",
+        "images/home_lodging/Maya_leaning_in_kitchen_ce97c08a.jpg"
+      ],
+      "starterEgg": "Drake Hotline Bling two-choice pose; original character, no labels",
+      "prompt": "[SCENE: Home again. Day [current_day] complete.] [BEAT: Day [current_day] complete.] [CAST: Maya (East Asian young woman with soft round-oval face, blonde-dipped dark hair, innocent sweet face, bold mischievous con-artist energy) and story characters] [PLACE: images/home_lodging/Maya_leaning_in_kitchen_ce97c08a.jpg] [FRAME: clear cinematic medium shot] [PHYSICS: solid ground contact under feet/seated weight, natural gravity and accurate two-leg/two-arm anatomy] [STYLE: cell-shaded illustrated cast, photoreal environment, matched light] [CONTINUITY: Maya wears her exact oversized dark navy-blue t-shirt short dress and dark slide sandals; change only when story supports it] [REFERENCES: images/character_reference/Girl_character_turnaround_poses_93981cd0.jpg, images/character_reference/Girl_posing_in_blue_outfit_a7a032c2.jpg, images/character_reference/Girl_posing_in_blue_outfit_cacf3979.jpg, images/home_lodging/Maya_leaning_in_kitchen_ce97c08a.jpg] [STARTER_EGG: subtle background-only Drake Hotline Bling two-choice pose; original character, no labels] [AVOID: extra legs, extra arms, extra fingers, distorted hands, floating or levitating subjects, disconnected shadows, text, logos, watermark, unrelated props]",
+      "imagePath": "",
+      "status": "needs_generation"
+    }
+  ],
+  "story_targets": [
+    {
+      "storyKey": "story_23a6f81033",
+      "storyFile": "40_story/chapters/day_02_class.rpy",
+      "storyLabel": "day_02_class_beat",
+      "dialogueContains": "The heavy oak door clicked shut half a second behind Maya's heel.",
+      "line": 10,
+      "currentScene": "bg_classroom"
+    },
+    {
+      "storyKey": "story_2a7d213022",
+      "storyFile": "40_story/chapters/day_03_pressure.rpy",
+      "storyLabel": "day_03_home",
+      "dialogueContains": "Day 3 - Morning. The fridge hummed like an empty tin can.",
+      "line": 9,
+      "currentScene": "bg_home"
+    },
+    {
+      "storyKey": "story_64438bb2e3",
+      "storyFile": "40_story/chapters/day_04_connection.rpy",
+      "storyLabel": "day_04_home",
+      "dialogueContains": "Day 4 - Morning. Maya's phone buzzed before she even laced her sandals: two unread texts from campus.",
+      "line": 9,
+      "currentScene": "bg_home"
+    },
+    {
+      "storyKey": "story_018c5d84be",
+      "storyFile": "40_story/chapters/day_05_deadline.rpy",
+      "storyLabel": "day_05_home",
+      "dialogueContains": "Day 5 - Friday Morning. Three minutes to deadline, ink still warm on the cover sheet.",
+      "line": 9,
+      "currentScene": "bg_home"
+    },
+    {
+      "storyKey": "story_fff772a143",
+      "storyFile": "40_story/chapters/day_06_weekend.rpy",
+      "storyLabel": "day_06_home",
+      "dialogueContains": "Day 6 - Saturday. No alarm, no lecture bell—just sunlight and two texts buzzing on the nightstand.",
+      "line": 9,
+      "currentScene": "bg_home"
+    },
+    {
+      "storyKey": "story_2e74fa58ad",
+      "storyFile": "40_story/chapters/day_08.rpy",
+      "storyLabel": "day_08_morning_park",
+      "dialogueContains": "Wind combed through the botanical walkways, scattering golden leaves beside the still pond.",
+      "line": 11,
+      "currentScene": "bg_park"
+    },
+    {
+      "storyKey": "story_23c2ed5985",
+      "storyFile": "40_story/chapters/day_08.rpy",
+      "storyLabel": "day_08_afternoon_tower",
+      "dialogueContains": "The Observation Tower's clock face hummed overhead, casting long shadows across the circular plaza.",
+      "line": 38,
+      "currentScene": "bg_street"
+    },
+    {
+      "storyKey": "story_c026c63f37",
+      "storyFile": "40_story/chapters/day_08.rpy",
+      "storyLabel": "day_08_evening_harbor_pier",
+      "dialogueContains": "Salt spray drifted across the wooden harbor piers while ferry lights blinked along the bay.",
+      "line": 65,
+      "currentScene": "bg_park"
+    },
+    {
+      "storyKey": "story_fee6bdf9c3",
+      "storyFile": "40_story/chapters/day_09.rpy",
+      "storyLabel": "day_09_morning_home",
+      "dialogueContains": "Pale city light slipped under the blinds, painting a thin gold stripe across Maya's notebook.",
+      "line": 11,
+      "currentScene": "bg_home"
+    },
+    {
+      "storyKey": "story_06d2a997d3",
+      "storyFile": "40_story/chapters/day_09.rpy",
+      "storyLabel": "day_09_afternoon_college",
+      "dialogueContains": "Sunlight hit the sandstone quad as students spilled out between lectures, trading notes and rumors.",
+      "line": 38,
+      "currentScene": "bg_college_entrance"
+    },
+    {
+      "storyKey": "story_103d4c3723",
+      "storyFile": "40_story/chapters/day_09.rpy",
+      "storyLabel": "day_09_evening_cafe",
+      "dialogueContains": "Steam hissed from the espresso wand at The Daily Grind, cutting through low lo-fi static.",
+      "line": 65,
+      "currentScene": "bg_cafe"
+    },
+    {
+      "storyKey": "story_ae7fad8dcb",
+      "storyFile": "40_story/chapters/day_10.rpy",
+      "storyLabel": "day_10_morning_home",
+      "dialogueContains": "Pale city light slipped under the blinds, painting a thin gold stripe across Maya's notebook.",
+      "line": 11,
+      "currentScene": "bg_home"
+    },
+    {
+      "storyKey": "story_01334ebe22",
+      "storyFile": "40_story/chapters/day_10.rpy",
+      "storyLabel": "day_10_afternoon_library",
+      "dialogueContains": "Under the glass rotunda, pages turned in hushed rhythm while rain tapped overhead.",
+      "line": 38,
+      "currentScene": "bg_library"
+    },
+    {
+      "storyKey": "story_0409e8f2b2",
+      "storyFile": "40_story/chapters/day_10.rpy",
+      "storyLabel": "day_10_evening_viewpoint",
+      "dialogueContains": "From Pinecrest Ridge, all of Solis Bay lay below like a lit circuit board waiting to be claimed.",
+      "line": 65,
+      "currentScene": "bg_park"
+    },
+    {
+      "storyKey": "story_8e82a3fe4f",
+      "storyFile": "40_story/chapters/day_free_morning.rpy",
+      "storyLabel": "day_free_morning",
+      "dialogueContains": "Day [current_day] - Morning",
+      "line": 9,
+      "currentScene": "bg_home"
+    },
+    {
+      "storyKey": "story_c285362b44",
+      "storyFile": "40_story/chapters/day_free_morning.rpy",
+      "storyLabel": "day_free_morning",
+      "dialogueContains": "Another morning in the city. Maya rolled her shoulders and checked what needed attention today.",
+      "line": 10,
+      "currentScene": "bg_home"
+    },
+    {
+      "storyKey": "story_9109b0068d",
+      "storyFile": "40_story/chapters/day_hub.rpy",
+      "storyLabel": "day_hub",
+      "dialogueContains": "Maya's eyelids drooped—'m'kay... zero battery left, gotta crash.'",
+      "line": 6,
+      "currentScene": ""
+    },
+    {
+      "storyKey": "story_6e89999160",
+      "storyFile": "40_story/chapters/day_hub.rpy",
+      "storyLabel": "day_hub",
+      "dialogueContains": "Day [current_day] ([slot_label]) • $[money] • [energy]/100 Energy — [_hook]",
+      "line": 13,
+      "currentScene": ""
+    },
+    {
+      "storyKey": "story_cc26aaa1dc",
+      "storyFile": "40_story/endings/week_01_eval.rpy",
+      "storyLabel": "week_01_evaluation",
+      "dialogueContains": "Day 7 - Week One Review",
+      "line": 9,
+      "currentScene": "bg_home"
+    },
+    {
+      "storyKey": "story_bfafd95281",
+      "storyFile": "40_story/endings/week_01_eval.rpy",
+      "storyLabel": "week_01_evaluation",
+      "dialogueContains": "One full week in the city. Maya opened her notebook and took stock of where things stood.",
+      "line": 10,
+      "currentScene": "bg_home"
+    },
+    {
+      "storyKey": "story_0db7882edc",
+      "storyFile": "40_story/endings/week_01_eval.rpy",
+      "storyLabel": "week_01_evaluation",
+      "dialogueContains": "Origin: [active_prologue_id or 'PROL_APT_MORNING'] | Journal Moments: [len(image_story_seen)]",
+      "line": 14,
+      "currentScene": "bg_home"
+    },
+    {
+      "storyKey": "story_bef5f7de15",
+      "storyFile": "40_story/endings/week_01_eval.rpy",
+      "storyLabel": "week_01_evaluation",
+      "dialogueContains": "Education: [education_progress]/100 | Cash: [money] [currency] | BTC Value: [btc_val] | Shifts: [shifts_worked]",
+      "line": 15,
+      "currentScene": "bg_home"
+    },
+    {
+      "storyKey": "story_ff5e3ba11b",
+      "storyFile": "40_story/endings/week_01_eval.rpy",
+      "storyLabel": "week_01_evaluation",
+      "dialogueContains": "Intelligence: [intelligence]/100 | Appeal: [appeal]/100 | Confidence: [confidence]/100 | Stress: [stress]/100",
+      "line": 16,
+      "currentScene": "bg_home"
+    },
+    {
+      "storyKey": "story_c46444e4e8",
+      "storyFile": "40_story/endings/week_01_eval.rpy",
+      "storyLabel": "week_01_evaluation",
+      "dialogueContains": "[_ending['title']] ([week_01_outcome]): [_ending['summary']]",
+      "line": 21,
+      "currentScene": "bg_home"
+    },
+    {
+      "storyKey": "story_5045ad57c5",
+      "storyFile": "40_story/image_loop/image_story_hub.rpy",
+      "storyLabel": "image_story_hub",
+      "dialogueContains": "Maya opened her journal. The city was bigger than one day, so she chose where to spend the next few hours.",
+      "line": 4,
+      "currentScene": ""
+    },
+    {
+      "storyKey": "story_0e642497a1",
+      "storyFile": "40_story/image_loop/image_story_hub.rpy",
+      "storyLabel": "image_story_hub",
+      "dialogueContains": "Maya had reached the end of the moments currently in her journal. Tomorrow could bring something new.",
+      "line": 7,
+      "currentScene": ""
+    },
+    {
+      "storyKey": "story_c4d08dc42e",
+      "storyFile": "40_story/image_loop/image_story_hub.rpy",
+      "storyLabel": "image_story_play",
+      "dialogueContains": "[image_story_intro]",
+      "line": 26,
+      "currentScene": ""
+    },
+    {
+      "storyKey": "story_310f0bdcd8",
+      "storyFile": "40_story/image_loop/image_story_hub.rpy",
+      "storyLabel": "image_story_play",
+      "dialogueContains": "[image_story_narration]",
+      "line": 33,
+      "currentScene": ""
+    },
+    {
+      "storyKey": "story_b577ab7006",
+      "storyFile": "40_story/prologue/day_01_college.rpy",
+      "storyLabel": "travel_bus_stop",
+      "dialogueContains": "Maya slipped into the front with an angelic smile.",
+      "line": 7,
+      "currentScene": ""
+    },
+    {
+      "storyKey": "story_496a40e51f",
+      "storyFile": "40_story/prologue/day_01_college.rpy",
+      "storyLabel": "arrive_college",
+      "dialogueContains": "She stepped onto campus with minutes to spare, chin high.",
+      "line": 34,
+      "currentScene": "bg_college_entrance"
+    },
+    {
+      "storyKey": "story_a643d8e22b",
+      "storyFile": "40_story/prologue/day_01_college.rpy",
+      "storyLabel": "find_classroom",
+      "dialogueContains": "Maya spotted her room: late enough to turn heads, early enough to charm.",
+      "line": 61,
+      "currentScene": ""
+    },
+    {
+      "storyKey": "story_a8e8a1aa9f",
+      "storyFile": "40_story/prologue/day_01_college.rpy",
+      "storyLabel": "find_classroom",
+      "dialogueContains": "A girl in the middle row caught her eye and waved.",
+      "line": 69,
+      "currentScene": ""
+    },
+    {
+      "storyKey": "story_226ccc172a",
+      "storyFile": "40_story/prologue/day_01_home.rpy",
+      "storyLabel": "day_01_home",
+      "dialogueContains": "The thin mattress creaked under Maya's weight as morning light filtered through dusty blinds.",
+      "line": 22,
+      "currentScene": ""
+    },
+    {
+      "storyKey": "story_dd73c7589f",
+      "storyFile": "40_story/prologue/day_01_home.rpy",
+      "storyLabel": "day_01_home",
+      "dialogueContains": "Maya took a slow breath, centering herself.",
+      "line": 23,
+      "currentScene": ""
+    },
+    {
+      "storyKey": "story_669b37470b",
+      "storyFile": "40_story/prologue/day_01_home.rpy",
+      "storyLabel": "day_01_home",
+      "dialogueContains": "Today was Day 1 in the city. The rent was overdue, and her pockets were nearly hollow.",
+      "line": 24,
+      "currentScene": ""
+    },
+    {
+      "storyKey": "story_f90b73ae27",
+      "storyFile": "40_story/prologue/day_01_home.rpy",
+      "storyLabel": "day_01_home",
+      "dialogueContains": "Bank balance: [money] [currency]. Barely enough for transit, coffee, and a bold first impression.",
+      "line": 25,
+      "currentScene": ""
+    },
+    {
+      "storyKey": "story_836fe4c32b",
+      "storyFile": "40_story/prologue/day_01_home.rpy",
+      "storyLabel": "day_01_home",
+      "dialogueContains": "Maya smiled innocently at the cracked kitchen mirror. If the city wanted to test her, she'd play along—and win.",
+      "line": 26,
+      "currentScene": ""
+    },
+    {
+      "storyKey": "story_13b3120f40",
+      "storyFile": "40_story/prologue/day_01_home.rpy",
+      "storyLabel": "day_01_opening_choice",
+      "dialogueContains": "Maya checked her reflection. 'First impressions decide who holds the leverage.'",
+      "line": 38,
+      "currentScene": ""
+    },
+    {
+      "storyKey": "story_2d11c3b0c1",
+      "storyFile": "40_story/prologue/day_01_home.rpy",
+      "storyLabel": "day_01_opening_choice",
+      "dialogueContains": "Understated, sharp, and confident. Nobody would guess her bank balance.",
+      "line": 43,
+      "currentScene": ""
+    },
+    {
+      "storyKey": "story_b874e477e7",
+      "storyFile": "40_story/prologue/day_01_home.rpy",
+      "storyLabel": "day_01_opening_choice",
+      "dialogueContains": "Efficiency meant saving dollars and avoiding delays.",
+      "line": 54,
+      "currentScene": ""
+    },
+    {
+      "storyKey": "story_bba1390978",
+      "storyFile": "40_story/prologue/day_01_home.rpy",
+      "storyLabel": "day_01_opening_choice",
+      "dialogueContains": "Maya bookmarked a few notice boards. Information was always currency.",
+      "line": 59,
+      "currentScene": ""
+    },
+    {
+      "storyKey": "story_d9e0e9c067",
+      "storyFile": "40_story/prologue/day_01_work_search.rpy",
+      "storyLabel": "travel_to_cafe",
+      "dialogueContains": "The cafe was busy. The smell of coffee filled the air.",
+      "line": 11,
+      "currentScene": "bg_cafe"
+    },
+    {
+      "storyKey": "story_0e4192d651",
+      "storyFile": "40_story/prologue/day_01_work_search.rpy",
+      "storyLabel": "cafe_job_interview",
+      "dialogueContains": "She approached the counter.",
+      "line": 24,
+      "currentScene": ""
+    },
+    {
+      "storyKey": "story_760e8c2799",
+      "storyFile": "40_story/prologue/day_end.rpy",
+      "storyLabel": "end_day_home",
+      "dialogueContains": "Day [current_day] complete.",
+      "line": 9,
+      "currentScene": "bg_home"
+    },
+    {
+      "storyKey": "story_afaf5b305c",
+      "storyFile": "40_story/prologue/day_end.rpy",
+      "storyLabel": "end_day",
+      "dialogueContains": "The sun set. A new day would come.",
+      "line": 19,
+      "currentScene": ""
+    },
+    {
+      "storyKey": "story_115a0acfb3",
+      "storyFile": "40_story/prologue/prologue_starts.rpy",
+      "storyLabel": "prologue_random_start",
+      "dialogueContains": "Day 1 - Morning",
+      "line": 41,
+      "currentScene": ""
+    }
+  ]
+}
